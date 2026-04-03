@@ -1,0 +1,2001 @@
+HeartRate,Rhythm,PRInterval,QRS,Axis,STSegment,TWave,QTc,PWave,Class
+129,VF,0.15,0.13,125,1.65,Tall,452,Normal,Critical
+89,Irregular,0.29,0.11,-107,0.31,Tall,427,Normal,Critical
+85,VF,0.24,0.11,-24,0.58,Flat,415,Enlarged/Biphasic,Risky
+93,VF,0.27,0.09,3,-1.36,Biphasic,459,Enlarged/Biphasic,Critical
+66,Irregular,0.15,0.09,56,-1.68,Mild Inverted,368,Enlarged/Biphasic,Critical
+81,VF,0.23,0.14,13,-0.36,Normal,371,Absent/Flutter,Critical
+85,PACs/PVCs,0.24,0.09,-79,1.21,Mild Inverted,358,Enlarged/Biphasic,Critical
+71,PACs/PVCs,0.27,0.1,25,0.18,Flat,400,Normal,Critical
+100,Irregular,0.3,0.11,73,1.18,Mild Inverted,404,Enlarged/Biphasic,Critical
+53,VF,0.14,0.13,-19,0.46,Mild Inverted,347,Enlarged/Biphasic,Critical
+77,PACs/PVCs,0.11,0.08,-4,-1.04,Mild Inverted,449,Absent/Flutter,Critical
+50,PACs/PVCs,0.11,0.08,-3,-0.0,Tall,347,Absent/Flutter,Critical
+80,VF,0.3,0.13,-95,1.88,Tall,454,Normal,Critical
+118,AFib,0.15,0.08,-102,-1.38,Deep Inverted,448,Absent/Flutter,Critical
+99,AFib,0.2,0.11,-106,1.86,Flat,489,Normal,Critical
+89,VF,0.25,0.15,-43,-0.98,Biphasic,493,Enlarged/Biphasic,Critical
+91,AFib,0.29,0.11,-106,-1.09,Tall,469,Normal,Critical
+45,AFib,0.24,0.16,30,1.25,Flat,452,Normal,Critical
+88,Irregular,0.22,0.14,-92,1.75,Flat,385,Enlarged/Biphasic,Critical
+93,PACs/PVCs,0.28,0.12,18,1.18,Biphasic,450,Absent/Flutter,Critical
+109,AFib,0.24,0.1,0,-0.56,Normal,423,Enlarged/Biphasic,Risky
+89,Irregular,0.26,0.1,75,-0.46,Flat,391,Normal,Critical
+64,Regular,0.27,0.14,-99,1.87,Mild Inverted,467,Enlarged/Biphasic,Critical
+95,Regular,0.14,0.09,71,0.83,Flat,387,Absent/Flutter,Critical
+115,Regular,0.17,0.1,53,1.89,Flat,345,Normal,Critical
+115,AFib,0.17,0.12,34,-0.46,Normal,485,Absent/Flutter,Critical
+113,AFib,0.29,0.08,-57,-0.02,Normal,355,Enlarged/Biphasic,Critical
+120,PACs/PVCs,0.21,0.13,147,1.71,Biphasic,438,Normal,Critical
+62,Regular,0.14,0.12,-35,1.21,Normal,370,Enlarged/Biphasic,Critical
+67,Regular,0.17,0.09,1,0.38,Normal,459,Enlarged/Biphasic,Risky
+110,Irregular,0.17,0.15,65,-0.35,Normal,370,Normal,Critical
+83,Regular,0.28,0.12,64,-1.82,Flat,495,Absent/Flutter,Critical
+107,PACs/PVCs,0.3,0.09,96,1.85,Biphasic,457,Normal,Critical
+69,VF,0.21,0.12,-50,1.82,Flat,491,Enlarged/Biphasic,Critical
+67,PACs/PVCs,0.12,0.15,133,1.1,Mild Inverted,410,Absent/Flutter,Critical
+129,AFib,0.23,0.1,129,-1.52,Mild Inverted,411,Absent/Flutter,Critical
+101,AFib,0.18,0.11,2,-1.91,Normal,445,Enlarged/Biphasic,Critical
+45,Regular,0.1,0.15,39,-1.81,Mild Inverted,471,Normal,Critical
+49,PACs/PVCs,0.18,0.12,29,-0.83,Deep Inverted,493,Absent/Flutter,Critical
+47,Irregular,0.16,0.09,82,0.38,Tall,429,Absent/Flutter,Critical
+66,Irregular,0.19,0.11,-33,0.39,Deep Inverted,357,Normal,Critical
+81,VF,0.22,0.12,-112,-0.35,Deep Inverted,368,Normal,Critical
+73,VF,0.19,0.14,29,-0.93,Flat,380,Enlarged/Biphasic,Risky
+74,VF,0.12,0.12,75,-0.18,Tall,441,Normal,Critical
+86,AFib,0.15,0.1,-15,-0.51,Flat,364,Absent/Flutter,Critical
+84,VF,0.2,0.16,63,-0.62,Normal,379,Enlarged/Biphasic,Critical
+40,VF,0.26,0.11,-85,-0.41,Tall,388,Absent/Flutter,Critical
+108,PACs/PVCs,0.17,0.09,20,1.37,Biphasic,466,Normal,Critical
+113,PACs/PVCs,0.29,0.14,-119,0.13,Tall,481,Normal,Critical
+111,PACs/PVCs,0.25,0.1,-78,0.57,Normal,389,Normal,Critical
+100,VF,0.2,0.09,-55,1.63,Tall,341,Normal,Critical
+101,Regular,0.28,0.12,74,-1.07,Tall,474,Absent/Flutter,Critical
+91,AFib,0.25,0.14,143,0.91,Normal,442,Normal,Critical
+78,AFib,0.29,0.13,53,1.31,Deep Inverted,471,Enlarged/Biphasic,Critical
+88,AFib,0.2,0.14,-9,-1.51,Normal,381,Enlarged/Biphasic,Critical
+88,VF,0.2,0.1,7,-1.57,Biphasic,455,Absent/Flutter,Critical
+66,VF,0.28,0.15,130,-0.21,Mild Inverted,460,Normal,Critical
+93,Irregular,0.14,0.08,-119,0.01,Biphasic,340,Absent/Flutter,Critical
+66,AFib,0.13,0.08,-66,-0.88,Deep Inverted,485,Enlarged/Biphasic,Critical
+97,AFib,0.29,0.14,-109,1.49,Flat,392,Normal,Critical
+57,PACs/PVCs,0.26,0.15,-62,-1.11,Deep Inverted,479,Absent/Flutter,Critical
+106,Regular,0.11,0.09,-80,0.71,Mild Inverted,490,Normal,Critical
+126,VF,0.18,0.15,93,1.73,Flat,341,Absent/Flutter,Critical
+125,Regular,0.16,0.14,-33,0.83,Mild Inverted,466,Normal,Critical
+49,Regular,0.2,0.11,-30,-0.27,Tall,396,Absent/Flutter,Critical
+111,PACs/PVCs,0.28,0.1,19,0.4,Biphasic,461,Normal,Critical
+95,Irregular,0.15,0.15,64,0.5,Tall,396,Enlarged/Biphasic,Critical
+91,Regular,0.26,0.09,84,-1.78,Flat,381,Enlarged/Biphasic,Critical
+40,PACs/PVCs,0.12,0.16,-101,-1.66,Deep Inverted,356,Normal,Critical
+85,AFib,0.14,0.15,-93,-0.17,Tall,432,Normal,Critical
+113,PACs/PVCs,0.23,0.12,-68,-1.34,Deep Inverted,384,Enlarged/Biphasic,Critical
+79,PACs/PVCs,0.19,0.15,-59,0.45,Normal,433,Normal,Critical
+70,AFib,0.14,0.14,-76,0.15,Flat,471,Enlarged/Biphasic,Critical
+55,AFib,0.13,0.12,57,1.95,Tall,400,Enlarged/Biphasic,Critical
+98,Regular,0.19,0.11,-34,0.74,Normal,340,Normal,Critical
+102,Regular,0.21,0.12,24,0.7,Flat,386,Normal,Risky
+127,PACs/PVCs,0.1,0.14,25,1.09,Flat,383,Absent/Flutter,Critical
+71,VF,0.13,0.11,57,-0.59,Biphasic,489,Enlarged/Biphasic,Critical
+129,Irregular,0.14,0.1,-104,0.36,Biphasic,399,Enlarged/Biphasic,Critical
+111,PACs/PVCs,0.16,0.09,110,-1.81,Flat,450,Enlarged/Biphasic,Critical
+85,VF,0.29,0.14,91,0.63,Flat,405,Normal,Critical
+100,Irregular,0.24,0.11,55,-1.11,Deep Inverted,357,Enlarged/Biphasic,Critical
+78,VF,0.22,0.14,64,1.02,Biphasic,395,Enlarged/Biphasic,Critical
+57,PACs/PVCs,0.29,0.1,105,-0.53,Flat,432,Normal,Critical
+96,PACs/PVCs,0.17,0.14,-16,0.47,Biphasic,449,Normal,Risky
+125,PACs/PVCs,0.13,0.14,141,1.23,Normal,474,Enlarged/Biphasic,Critical
+114,VF,0.28,0.13,-84,-1.24,Flat,459,Normal,Critical
+115,Regular,0.16,0.1,107,-1.5,Normal,444,Normal,Critical
+106,AFib,0.12,0.12,10,-1.48,Deep Inverted,417,Enlarged/Biphasic,Critical
+81,VF,0.17,0.16,-79,-0.72,Mild Inverted,492,Normal,Critical
+83,Regular,0.13,0.12,147,-0.11,Biphasic,369,Normal,Critical
+127,Regular,0.22,0.11,122,0.44,Flat,366,Absent/Flutter,Critical
+113,PACs/PVCs,0.24,0.15,-4,-1.73,Tall,494,Normal,Critical
+98,PACs/PVCs,0.2,0.16,-84,0.11,Mild Inverted,404,Absent/Flutter,Critical
+118,AFib,0.28,0.1,91,1.88,Normal,437,Absent/Flutter,Critical
+52,Irregular,0.11,0.13,-6,1.73,Normal,402,Normal,Critical
+62,PACs/PVCs,0.23,0.09,-11,-1.97,Deep Inverted,435,Normal,Critical
+78,Regular,0.26,0.13,-53,1.71,Normal,488,Normal,Critical
+61,PACs/PVCs,0.28,0.1,134,0.4,Mild Inverted,483,Enlarged/Biphasic,Critical
+112,Irregular,0.26,0.14,-59,-0.18,Normal,376,Absent/Flutter,Critical
+124,Irregular,0.18,0.09,-58,-0.63,Flat,442,Enlarged/Biphasic,Critical
+44,Regular,0.22,0.11,31,0.08,Biphasic,472,Normal,Critical
+47,AFib,0.24,0.13,23,0.37,Normal,496,Absent/Flutter,Critical
+88,Regular,0.26,0.12,135,1.25,Mild Inverted,426,Absent/Flutter,Critical
+121,Regular,0.23,0.09,-36,-1.87,Biphasic,425,Enlarged/Biphasic,Critical
+47,AFib,0.13,0.13,-98,0.05,Biphasic,369,Normal,Critical
+90,Regular,0.23,0.16,125,1.62,Biphasic,387,Enlarged/Biphasic,Critical
+119,VF,0.11,0.11,69,0.32,Tall,397,Normal,Critical
+88,Irregular,0.11,0.13,123,1.59,Deep Inverted,340,Normal,Critical
+109,AFib,0.27,0.12,-80,-0.82,Tall,363,Absent/Flutter,Critical
+95,AFib,0.24,0.09,43,-0.43,Normal,459,Normal,Risky
+53,VF,0.12,0.1,60,0.51,Deep Inverted,420,Enlarged/Biphasic,Critical
+127,Irregular,0.15,0.13,-66,-1.19,Deep Inverted,461,Enlarged/Biphasic,Critical
+105,VF,0.13,0.11,84,-1.06,Mild Inverted,453,Normal,Critical
+50,VF,0.23,0.14,91,-0.4,Flat,412,Enlarged/Biphasic,Risky
+125,PACs/PVCs,0.14,0.13,18,-1.9,Tall,399,Absent/Flutter,Critical
+78,Irregular,0.25,0.13,-62,-0.38,Flat,454,Normal,Risky
+122,PACs/PVCs,0.16,0.13,55,0.26,Flat,397,Absent/Flutter,Critical
+77,PACs/PVCs,0.2,0.1,-112,-0.24,Tall,480,Enlarged/Biphasic,Critical
+65,VF,0.29,0.13,107,-0.29,Flat,345,Absent/Flutter,Critical
+107,VF,0.26,0.1,36,0.4,Deep Inverted,367,Normal,Critical
+75,PACs/PVCs,0.25,0.14,38,-0.29,Flat,359,Enlarged/Biphasic,Critical
+91,PACs/PVCs,0.27,0.13,88,-0.64,Biphasic,408,Enlarged/Biphasic,Critical
+120,Regular,0.25,0.09,131,-0.5,Flat,495,Enlarged/Biphasic,Critical
+56,Regular,0.21,0.13,115,-0.85,Deep Inverted,483,Enlarged/Biphasic,Critical
+57,Regular,0.26,0.16,130,-1.92,Biphasic,494,Enlarged/Biphasic,Critical
+59,VF,0.16,0.14,77,-1.09,Deep Inverted,497,Absent/Flutter,Critical
+60,PACs/PVCs,0.19,0.12,61,0.13,Flat,446,Normal,Risky
+62,Irregular,0.29,0.11,-81,-0.03,Biphasic,465,Absent/Flutter,Critical
+112,Irregular,0.12,0.14,23,-1.28,Tall,462,Normal,Critical
+107,PACs/PVCs,0.14,0.1,109,-0.23,Biphasic,355,Normal,Critical
+127,PACs/PVCs,0.3,0.13,-82,-1.26,Tall,395,Absent/Flutter,Critical
+74,VF,0.27,0.08,123,0.31,Deep Inverted,441,Normal,Critical
+98,Irregular,0.23,0.09,53,-1.84,Biphasic,496,Enlarged/Biphasic,Critical
+75,PACs/PVCs,0.25,0.09,137,-1.78,Mild Inverted,474,Enlarged/Biphasic,Critical
+65,Irregular,0.2,0.1,129,-1.67,Mild Inverted,375,Absent/Flutter,Critical
+95,Regular,0.29,0.08,19,-0.97,Flat,485,Absent/Flutter,Critical
+66,Irregular,0.24,0.09,1,-0.26,Biphasic,412,Enlarged/Biphasic,Risky
+94,VF,0.14,0.09,-100,0.56,Deep Inverted,354,Absent/Flutter,Critical
+103,VF,0.22,0.1,-6,1.5,Mild Inverted,444,Enlarged/Biphasic,Critical
+51,Regular,0.17,0.16,10,-1.77,Flat,352,Absent/Flutter,Critical
+79,AFib,0.17,0.11,81,0.02,Biphasic,344,Enlarged/Biphasic,Critical
+122,VF,0.17,0.09,126,-0.61,Mild Inverted,381,Normal,Critical
+48,PACs/PVCs,0.1,0.09,-70,-1.53,Tall,495,Enlarged/Biphasic,Critical
+41,AFib,0.28,0.11,69,1.52,Biphasic,483,Enlarged/Biphasic,Critical
+82,VF,0.19,0.15,48,0.7,Flat,384,Normal,Critical
+89,Regular,0.13,0.14,20,-1.13,Mild Inverted,351,Normal,Critical
+117,Regular,0.24,0.14,-54,-0.86,Biphasic,407,Absent/Flutter,Critical
+115,AFib,0.14,0.09,148,0.16,Mild Inverted,471,Enlarged/Biphasic,Critical
+93,VF,0.14,0.14,-4,0.29,Biphasic,422,Absent/Flutter,Critical
+58,Irregular,0.2,0.13,-11,-1.96,Biphasic,394,Enlarged/Biphasic,Critical
+91,VF,0.19,0.15,-79,-0.83,Normal,438,Normal,Critical
+113,Regular,0.22,0.14,-78,0.26,Flat,369,Normal,Critical
+81,Regular,0.28,0.16,53,1.16,Biphasic,466,Normal,Critical
+102,Regular,0.12,0.08,131,0.39,Flat,362,Enlarged/Biphasic,Critical
+41,VF,0.17,0.16,-24,1.46,Deep Inverted,389,Enlarged/Biphasic,Critical
+94,AFib,0.22,0.1,-14,-0.18,Tall,393,Absent/Flutter,Critical
+66,VF,0.21,0.13,0,1.25,Tall,497,Absent/Flutter,Critical
+94,PACs/PVCs,0.26,0.08,47,1.97,Tall,446,Normal,Critical
+49,Irregular,0.19,0.09,-84,1.62,Deep Inverted,477,Enlarged/Biphasic,Critical
+110,PACs/PVCs,0.17,0.12,-62,0.78,Biphasic,453,Absent/Flutter,Critical
+70,PACs/PVCs,0.23,0.11,119,1.62,Tall,420,Normal,Critical
+69,Irregular,0.22,0.15,-100,0.42,Mild Inverted,496,Normal,Critical
+97,Irregular,0.21,0.15,18,-1.6,Tall,388,Enlarged/Biphasic,Critical
+83,VF,0.13,0.09,27,1.03,Tall,484,Enlarged/Biphasic,Critical
+116,PACs/PVCs,0.11,0.14,-23,-0.45,Flat,440,Absent/Flutter,Critical
+99,Regular,0.12,0.15,20,1.18,Normal,489,Normal,Critical
+62,Irregular,0.28,0.1,-80,1.09,Mild Inverted,353,Enlarged/Biphasic,Critical
+88,Irregular,0.26,0.11,107,-1.09,Deep Inverted,479,Enlarged/Biphasic,Critical
+44,Regular,0.17,0.09,-91,-1.04,Normal,374,Absent/Flutter,Critical
+50,VF,0.12,0.12,-93,1.72,Tall,452,Absent/Flutter,Critical
+52,PACs/PVCs,0.19,0.1,-113,-0.24,Deep Inverted,371,Normal,Critical
+108,AFib,0.12,0.13,83,-0.6,Tall,496,Absent/Flutter,Critical
+85,PACs/PVCs,0.29,0.11,-65,-1.04,Tall,450,Absent/Flutter,Critical
+63,Irregular,0.17,0.09,-66,0.25,Deep Inverted,371,Enlarged/Biphasic,Critical
+65,PACs/PVCs,0.14,0.12,139,1.31,Mild Inverted,451,Enlarged/Biphasic,Critical
+63,AFib,0.17,0.08,-10,-1.91,Biphasic,483,Normal,Critical
+125,VF,0.18,0.11,60,-1.07,Tall,404,Absent/Flutter,Critical
+41,Irregular,0.23,0.14,-79,-1.63,Deep Inverted,360,Normal,Critical
+43,AFib,0.14,0.11,47,0.31,Deep Inverted,398,Enlarged/Biphasic,Critical
+55,VF,0.24,0.13,74,1.18,Tall,482,Absent/Flutter,Critical
+108,Irregular,0.15,0.15,119,-0.55,Deep Inverted,464,Normal,Critical
+75,Regular,0.15,0.09,37,-0.11,Deep Inverted,379,Enlarged/Biphasic,Critical
+125,Irregular,0.13,0.09,149,-1.17,Tall,496,Normal,Critical
+109,Irregular,0.3,0.11,-115,-0.83,Tall,357,Enlarged/Biphasic,Critical
+65,PACs/PVCs,0.26,0.15,-75,1.24,Mild Inverted,447,Enlarged/Biphasic,Critical
+46,PACs/PVCs,0.16,0.15,-40,-1.12,Normal,478,Absent/Flutter,Critical
+73,Regular,0.15,0.14,-67,1.19,Deep Inverted,475,Absent/Flutter,Critical
+73,AFib,0.25,0.1,-79,-0.22,Biphasic,346,Absent/Flutter,Critical
+61,VF,0.12,0.12,-50,-0.24,Mild Inverted,361,Absent/Flutter,Critical
+54,PACs/PVCs,0.2,0.13,14,1.8,Deep Inverted,474,Normal,Critical
+85,VF,0.29,0.1,-82,1.18,Deep Inverted,447,Normal,Critical
+64,AFib,0.28,0.09,-116,1.68,Deep Inverted,361,Enlarged/Biphasic,Critical
+50,VF,0.14,0.15,85,-1.52,Deep Inverted,364,Normal,Critical
+45,Irregular,0.17,0.15,-3,-0.27,Flat,380,Normal,Critical
+113,Irregular,0.29,0.13,75,0.77,Flat,363,Absent/Flutter,Critical
+95,AFib,0.12,0.11,-117,0.45,Deep Inverted,458,Normal,Critical
+92,Irregular,0.28,0.09,133,1.8,Normal,457,Enlarged/Biphasic,Critical
+78,AFib,0.28,0.14,-87,1.51,Mild Inverted,467,Enlarged/Biphasic,Critical
+67,Irregular,0.28,0.12,108,1.54,Biphasic,362,Enlarged/Biphasic,Critical
+129,PACs/PVCs,0.26,0.1,-110,1.34,Mild Inverted,440,Enlarged/Biphasic,Critical
+58,PACs/PVCs,0.27,0.14,125,1.54,Biphasic,347,Absent/Flutter,Critical
+47,PACs/PVCs,0.12,0.09,14,0.59,Mild Inverted,409,Normal,Critical
+121,VF,0.17,0.14,-67,-0.06,Normal,494,Normal,Critical
+85,AFib,0.28,0.09,-109,-0.33,Deep Inverted,376,Normal,Critical
+46,PACs/PVCs,0.22,0.1,7,-1.67,Tall,399,Absent/Flutter,Critical
+66,AFib,0.17,0.1,-47,1.05,Deep Inverted,344,Enlarged/Biphasic,Critical
+79,PACs/PVCs,0.19,0.09,140,1.75,Flat,381,Normal,Critical
+73,PACs/PVCs,0.22,0.09,146,1.29,Mild Inverted,420,Normal,Critical
+112,Irregular,0.25,0.09,-98,1.04,Flat,471,Absent/Flutter,Critical
+105,Irregular,0.12,0.11,-112,-1.19,Tall,457,Enlarged/Biphasic,Critical
+84,AFib,0.11,0.15,8,-1.6,Mild Inverted,416,Enlarged/Biphasic,Critical
+126,AFib,0.19,0.09,84,-1.36,Mild Inverted,429,Absent/Flutter,Critical
+127,AFib,0.12,0.15,110,1.79,Deep Inverted,444,Absent/Flutter,Critical
+81,AFib,0.18,0.1,60,-0.71,Normal,468,Normal,Risky
+60,PACs/PVCs,0.29,0.13,12,0.84,Biphasic,419,Absent/Flutter,Critical
+101,Regular,0.24,0.14,137,-0.65,Mild Inverted,411,Normal,Critical
+90,Irregular,0.28,0.12,-7,-0.88,Normal,355,Enlarged/Biphasic,Critical
+111,AFib,0.25,0.14,59,-1.17,Flat,446,Absent/Flutter,Critical
+111,AFib,0.25,0.12,19,-1.45,Biphasic,447,Enlarged/Biphasic,Critical
+48,Irregular,0.26,0.09,-51,0.47,Biphasic,401,Absent/Flutter,Critical
+59,AFib,0.14,0.13,85,-1.41,Normal,416,Enlarged/Biphasic,Critical
+116,Regular,0.25,0.09,17,1.02,Flat,362,Normal,Critical
+48,PACs/PVCs,0.19,0.08,-4,-0.52,Mild Inverted,483,Absent/Flutter,Critical
+126,Regular,0.28,0.11,7,-0.99,Mild Inverted,471,Absent/Flutter,Critical
+60,VF,0.28,0.14,120,-0.98,Mild Inverted,453,Normal,Critical
+102,Irregular,0.13,0.15,37,1.16,Flat,362,Normal,Critical
+80,VF,0.17,0.14,-13,0.14,Tall,351,Absent/Flutter,Critical
+45,VF,0.3,0.13,17,-0.49,Mild Inverted,477,Absent/Flutter,Critical
+63,PACs/PVCs,0.14,0.09,-61,0.79,Mild Inverted,353,Normal,Critical
+52,AFib,0.28,0.14,-101,-1.72,Flat,396,Absent/Flutter,Critical
+58,Regular,0.12,0.16,-84,-1.92,Biphasic,459,Normal,Critical
+43,AFib,0.22,0.1,-86,0.6,Biphasic,481,Normal,Critical
+115,PACs/PVCs,0.28,0.1,90,0.57,Normal,421,Normal,Critical
+129,PACs/PVCs,0.17,0.11,116,-0.31,Mild Inverted,349,Enlarged/Biphasic,Critical
+44,Regular,0.3,0.12,-30,-0.33,Biphasic,455,Enlarged/Biphasic,Critical
+96,PACs/PVCs,0.12,0.15,-35,-0.81,Flat,420,Enlarged/Biphasic,Critical
+121,AFib,0.24,0.13,118,-1.61,Tall,450,Enlarged/Biphasic,Critical
+40,Irregular,0.1,0.11,108,-0.39,Flat,455,Absent/Flutter,Critical
+56,Regular,0.13,0.15,-2,1.12,Flat,449,Normal,Critical
+116,AFib,0.18,0.08,-41,-1.11,Deep Inverted,390,Enlarged/Biphasic,Critical
+64,Regular,0.24,0.09,122,1.35,Flat,420,Normal,Critical
+55,Regular,0.22,0.12,-36,1.37,Flat,467,Normal,Critical
+58,Regular,0.27,0.16,136,0.29,Flat,445,Absent/Flutter,Critical
+84,AFib,0.13,0.12,-108,-0.8,Flat,417,Enlarged/Biphasic,Critical
+65,Irregular,0.21,0.15,89,-0.62,Mild Inverted,466,Enlarged/Biphasic,Critical
+45,Regular,0.26,0.12,0,1.68,Biphasic,425,Normal,Critical
+54,Regular,0.2,0.14,-85,-0.95,Flat,403,Normal,Risky
+75,Regular,0.14,0.11,88,-1.84,Flat,429,Normal,Critical
+114,PACs/PVCs,0.24,0.09,-44,1.71,Mild Inverted,358,Absent/Flutter,Critical
+50,Irregular,0.13,0.09,-89,1.12,Normal,380,Absent/Flutter,Critical
+124,Irregular,0.29,0.08,-7,-0.9,Biphasic,480,Enlarged/Biphasic,Critical
+121,Regular,0.23,0.15,-117,-1.71,Normal,422,Normal,Critical
+82,PACs/PVCs,0.17,0.08,32,1.05,Normal,437,Absent/Flutter,Critical
+103,Regular,0.14,0.09,146,-0.4,Flat,483,Enlarged/Biphasic,Critical
+80,Regular,0.12,0.13,76,-0.09,Tall,481,Enlarged/Biphasic,Critical
+57,VF,0.14,0.15,66,-0.98,Mild Inverted,409,Absent/Flutter,Critical
+52,Irregular,0.28,0.14,146,0.66,Biphasic,489,Normal,Critical
+42,Regular,0.24,0.13,11,1.7,Flat,446,Enlarged/Biphasic,Critical
+46,PACs/PVCs,0.29,0.12,80,1.44,Normal,372,Normal,Critical
+108,PACs/PVCs,0.12,0.14,100,1.79,Deep Inverted,355,Enlarged/Biphasic,Critical
+58,VF,0.26,0.12,44,1.47,Tall,451,Normal,Critical
+80,Irregular,0.2,0.1,-81,0.41,Mild Inverted,415,Absent/Flutter,Critical
+64,VF,0.16,0.11,-109,-1.66,Flat,341,Absent/Flutter,Critical
+44,Regular,0.26,0.14,45,0.45,Deep Inverted,461,Enlarged/Biphasic,Critical
+73,AFib,0.26,0.16,142,1.91,Mild Inverted,345,Normal,Critical
+98,PACs/PVCs,0.26,0.1,17,-1.86,Tall,478,Absent/Flutter,Critical
+55,AFib,0.21,0.11,107,-0.9,Mild Inverted,496,Enlarged/Biphasic,Critical
+72,VF,0.23,0.09,-63,0.55,Mild Inverted,469,Normal,Risky
+59,PACs/PVCs,0.18,0.12,-69,0.42,Tall,391,Absent/Flutter,Critical
+98,VF,0.13,0.1,-40,-0.08,Biphasic,402,Enlarged/Biphasic,Risky
+50,PACs/PVCs,0.13,0.11,36,-0.95,Normal,364,Normal,Risky
+79,PACs/PVCs,0.21,0.11,120,1.17,Normal,419,Absent/Flutter,Critical
+105,PACs/PVCs,0.24,0.14,13,-1.51,Deep Inverted,391,Normal,Critical
+49,Irregular,0.29,0.15,-113,-1.13,Tall,498,Normal,Critical
+126,VF,0.21,0.12,110,0.15,Deep Inverted,342,Enlarged/Biphasic,Critical
+62,VF,0.21,0.09,13,-0.83,Flat,426,Absent/Flutter,Critical
+64,PACs/PVCs,0.12,0.09,145,1.77,Biphasic,467,Absent/Flutter,Critical
+57,AFib,0.27,0.08,-86,1.61,Deep Inverted,402,Absent/Flutter,Critical
+126,PACs/PVCs,0.19,0.08,-87,1.35,Normal,377,Enlarged/Biphasic,Critical
+99,AFib,0.26,0.15,-70,-0.22,Flat,430,Absent/Flutter,Critical
+75,Regular,0.15,0.11,27,-1.93,Deep Inverted,442,Normal,Critical
+73,AFib,0.25,0.09,-85,0.35,Mild Inverted,455,Enlarged/Biphasic,Risky
+113,Irregular,0.12,0.16,-79,1.15,Deep Inverted,430,Absent/Flutter,Critical
+95,AFib,0.3,0.11,118,-1.08,Tall,468,Absent/Flutter,Critical
+58,AFib,0.11,0.11,148,-0.8,Mild Inverted,420,Absent/Flutter,Critical
+58,PACs/PVCs,0.29,0.09,-30,0.13,Deep Inverted,418,Enlarged/Biphasic,Critical
+68,Regular,0.12,0.1,-85,-1.04,Biphasic,480,Absent/Flutter,Critical
+61,Regular,0.18,0.15,42,-0.14,Tall,451,Enlarged/Biphasic,Critical
+106,PACs/PVCs,0.14,0.09,148,-1.5,Biphasic,368,Enlarged/Biphasic,Critical
+121,PACs/PVCs,0.2,0.09,-59,-1.9,Normal,388,Absent/Flutter,Critical
+79,Irregular,0.12,0.09,76,-0.52,Biphasic,377,Normal,Risky
+90,Regular,0.24,0.09,25,-0.12,Mild Inverted,487,Enlarged/Biphasic,Critical
+117,VF,0.26,0.14,132,-1.74,Deep Inverted,498,Absent/Flutter,Critical
+126,PACs/PVCs,0.28,0.13,112,0.24,Tall,384,Enlarged/Biphasic,Critical
+56,VF,0.16,0.1,-107,-0.53,Normal,375,Absent/Flutter,Critical
+122,Irregular,0.3,0.15,130,-0.89,Mild Inverted,413,Absent/Flutter,Critical
+55,Regular,0.25,0.11,-17,1.07,Mild Inverted,340,Absent/Flutter,Critical
+80,VF,0.13,0.15,-41,-0.78,Tall,449,Absent/Flutter,Critical
+57,VF,0.3,0.14,-52,0.24,Normal,449,Enlarged/Biphasic,Critical
+128,AFib,0.24,0.09,30,-1.99,Flat,432,Enlarged/Biphasic,Critical
+89,Irregular,0.21,0.1,21,0.22,Tall,357,Normal,Critical
+67,AFib,0.29,0.11,82,1.38,Normal,451,Normal,Critical
+111,PACs/PVCs,0.26,0.13,21,1.53,Normal,360,Absent/Flutter,Critical
+115,AFib,0.17,0.14,33,-1.59,Biphasic,484,Normal,Critical
+63,Irregular,0.28,0.14,131,1.74,Biphasic,389,Absent/Flutter,Critical
+111,PACs/PVCs,0.23,0.14,29,-1.08,Biphasic,342,Enlarged/Biphasic,Critical
+108,VF,0.22,0.1,-27,-1.82,Mild Inverted,441,Absent/Flutter,Critical
+108,Irregular,0.26,0.12,0,-1.24,Mild Inverted,475,Absent/Flutter,Critical
+63,Irregular,0.2,0.14,40,0.11,Tall,483,Enlarged/Biphasic,Critical
+43,AFib,0.13,0.12,54,-1.54,Normal,391,Absent/Flutter,Critical
+90,Irregular,0.26,0.13,76,-1.46,Tall,360,Absent/Flutter,Critical
+83,Irregular,0.21,0.11,-83,0.15,Mild Inverted,423,Normal,Risky
+78,Irregular,0.19,0.12,99,1.55,Flat,354,Absent/Flutter,Critical
+102,AFib,0.16,0.1,-66,0.57,Deep Inverted,365,Normal,Critical
+96,PACs/PVCs,0.24,0.13,-114,1.59,Biphasic,386,Enlarged/Biphasic,Critical
+48,VF,0.1,0.13,-59,-1.01,Tall,451,Normal,Critical
+80,VF,0.25,0.1,97,-0.94,Normal,446,Absent/Flutter,Critical
+74,PACs/PVCs,0.14,0.12,-94,-1.63,Tall,344,Normal,Critical
+113,VF,0.18,0.1,-39,-1.09,Tall,364,Absent/Flutter,Critical
+87,PACs/PVCs,0.13,0.1,-81,-0.58,Deep Inverted,372,Enlarged/Biphasic,Critical
+81,Irregular,0.11,0.09,-108,1.09,Flat,403,Enlarged/Biphasic,Critical
+85,AFib,0.15,0.12,-41,-1.93,Mild Inverted,437,Enlarged/Biphasic,Critical
+122,VF,0.22,0.1,-60,0.53,Mild Inverted,408,Absent/Flutter,Critical
+108,Irregular,0.16,0.11,-28,0.13,Deep Inverted,456,Enlarged/Biphasic,Critical
+129,AFib,0.27,0.15,77,-1.68,Mild Inverted,361,Absent/Flutter,Critical
+112,VF,0.18,0.16,-72,-0.12,Deep Inverted,438,Normal,Critical
+111,Irregular,0.19,0.08,-68,-1.14,Tall,360,Normal,Critical
+123,Irregular,0.13,0.12,-111,1.37,Deep Inverted,381,Enlarged/Biphasic,Critical
+46,Irregular,0.11,0.11,4,1.39,Deep Inverted,390,Normal,Critical
+59,AFib,0.2,0.12,104,1.79,Flat,455,Normal,Critical
+117,Irregular,0.2,0.09,-52,0.29,Tall,389,Absent/Flutter,Critical
+117,VF,0.29,0.11,6,-1.0,Flat,484,Normal,Critical
+78,Irregular,0.21,0.12,33,1.19,Deep Inverted,402,Normal,Critical
+110,AFib,0.17,0.13,-116,-1.96,Biphasic,498,Normal,Critical
+101,VF,0.19,0.1,-3,-0.12,Flat,470,Normal,Risky
+91,PACs/PVCs,0.17,0.12,50,-0.14,Tall,433,Enlarged/Biphasic,Critical
+57,Irregular,0.11,0.15,77,1.08,Tall,396,Normal,Critical
+45,AFib,0.29,0.12,23,-1.09,Biphasic,349,Enlarged/Biphasic,Critical
+48,VF,0.15,0.08,-89,1.62,Deep Inverted,450,Enlarged/Biphasic,Critical
+46,AFib,0.11,0.12,-97,-0.6,Tall,379,Enlarged/Biphasic,Critical
+79,AFib,0.24,0.1,-112,-1.47,Biphasic,440,Normal,Critical
+123,Irregular,0.29,0.13,39,0.75,Biphasic,456,Enlarged/Biphasic,Critical
+42,AFib,0.16,0.09,72,-1.11,Normal,409,Absent/Flutter,Critical
+82,PACs/PVCs,0.11,0.08,94,1.78,Mild Inverted,391,Absent/Flutter,Critical
+83,Irregular,0.24,0.15,35,-0.43,Normal,454,Enlarged/Biphasic,Critical
+40,PACs/PVCs,0.2,0.13,13,-1.05,Biphasic,498,Absent/Flutter,Critical
+89,AFib,0.16,0.12,118,0.86,Normal,388,Normal,Risky
+96,AFib,0.27,0.14,66,-1.56,Biphasic,475,Normal,Critical
+108,PACs/PVCs,0.3,0.14,-74,-1.5,Tall,490,Normal,Critical
+93,Irregular,0.23,0.13,-93,-1.43,Flat,479,Normal,Critical
+89,PACs/PVCs,0.22,0.12,127,-0.82,Tall,405,Absent/Flutter,Critical
+119,AFib,0.28,0.15,-18,1.61,Deep Inverted,342,Enlarged/Biphasic,Critical
+105,PACs/PVCs,0.25,0.14,-105,0.54,Normal,442,Normal,Critical
+108,Irregular,0.16,0.12,136,-0.95,Tall,418,Absent/Flutter,Critical
+79,PACs/PVCs,0.2,0.13,-49,-1.2,Deep Inverted,494,Absent/Flutter,Critical
+90,VF,0.24,0.09,-15,-1.14,Normal,441,Normal,Critical
+59,VF,0.15,0.12,5,1.38,Biphasic,356,Normal,Critical
+43,AFib,0.12,0.11,54,0.46,Flat,393,Enlarged/Biphasic,Critical
+49,Regular,0.26,0.12,106,1.6,Tall,377,Normal,Critical
+94,AFib,0.28,0.09,-51,0.94,Tall,463,Enlarged/Biphasic,Critical
+122,AFib,0.22,0.12,-74,-1.1,Deep Inverted,479,Enlarged/Biphasic,Critical
+76,Regular,0.16,0.12,84,1.82,Tall,429,Enlarged/Biphasic,Critical
+93,PACs/PVCs,0.14,0.09,59,-1.97,Flat,427,Absent/Flutter,Critical
+117,Regular,0.17,0.12,118,1.04,Biphasic,393,Enlarged/Biphasic,Critical
+85,Regular,0.21,0.11,-107,0.35,Flat,461,Enlarged/Biphasic,Critical
+76,VF,0.15,0.13,-84,0.62,Biphasic,457,Normal,Risky
+60,VF,0.2,0.09,-48,1.27,Flat,431,Absent/Flutter,Critical
+102,VF,0.26,0.15,55,-1.17,Biphasic,411,Normal,Critical
+119,AFib,0.11,0.15,101,-0.18,Mild Inverted,470,Enlarged/Biphasic,Critical
+70,VF,0.15,0.16,-26,1.15,Mild Inverted,422,Enlarged/Biphasic,Critical
+61,Regular,0.19,0.11,91,0.34,Tall,459,Absent/Flutter,Critical
+46,Irregular,0.13,0.12,-6,1.85,Deep Inverted,472,Absent/Flutter,Critical
+68,PACs/PVCs,0.21,0.16,-119,1.99,Flat,443,Enlarged/Biphasic,Critical
+51,VF,0.16,0.15,82,-1.92,Normal,427,Enlarged/Biphasic,Critical
+101,VF,0.25,0.14,48,-1.58,Tall,372,Normal,Critical
+40,PACs/PVCs,0.19,0.1,0,-0.81,Mild Inverted,484,Normal,Critical
+73,Irregular,0.21,0.08,128,0.38,Normal,442,Normal,Critical
+91,VF,0.12,0.1,21,-0.29,Deep Inverted,460,Normal,Critical
+56,PACs/PVCs,0.19,0.09,-106,-1.9,Tall,411,Enlarged/Biphasic,Critical
+104,VF,0.18,0.09,-50,0.78,Flat,414,Enlarged/Biphasic,Risky
+102,Irregular,0.3,0.09,3,-0.56,Normal,444,Enlarged/Biphasic,Critical
+46,PACs/PVCs,0.28,0.15,-77,1.82,Normal,476,Normal,Critical
+129,VF,0.12,0.14,-35,-1.71,Normal,478,Normal,Critical
+42,VF,0.24,0.12,-3,-1.69,Normal,366,Enlarged/Biphasic,Critical
+72,PACs/PVCs,0.14,0.15,64,-1.69,Mild Inverted,461,Enlarged/Biphasic,Critical
+112,AFib,0.27,0.12,-61,-0.73,Deep Inverted,448,Absent/Flutter,Critical
+40,Irregular,0.24,0.12,-80,1.62,Mild Inverted,386,Normal,Critical
+83,Irregular,0.29,0.1,128,0.18,Normal,407,Enlarged/Biphasic,Critical
+74,AFib,0.26,0.14,97,1.87,Biphasic,474,Absent/Flutter,Critical
+109,VF,0.12,0.13,43,-0.01,Tall,425,Normal,Critical
+64,Regular,0.19,0.08,62,0.95,Tall,453,Absent/Flutter,Critical
+41,Irregular,0.29,0.12,47,1.4,Normal,435,Absent/Flutter,Critical
+51,AFib,0.25,0.15,92,1.81,Tall,439,Enlarged/Biphasic,Critical
+58,Regular,0.2,0.12,73,0.26,Flat,456,Enlarged/Biphasic,Risky
+110,PACs/PVCs,0.13,0.13,-4,0.38,Deep Inverted,342,Absent/Flutter,Critical
+110,Regular,0.13,0.09,-73,-0.12,Biphasic,400,Normal,Risky
+115,AFib,0.2,0.1,110,0.87,Mild Inverted,381,Absent/Flutter,Critical
+47,Irregular,0.21,0.09,105,0.14,Mild Inverted,347,Enlarged/Biphasic,Critical
+70,Regular,0.24,0.1,-61,-0.75,Deep Inverted,379,Enlarged/Biphasic,Critical
+95,Regular,0.26,0.11,119,-0.51,Mild Inverted,496,Enlarged/Biphasic,Critical
+72,PACs/PVCs,0.3,0.15,120,0.34,Normal,376,Enlarged/Biphasic,Critical
+127,VF,0.17,0.08,-56,1.42,Mild Inverted,473,Normal,Critical
+103,AFib,0.23,0.12,-5,1.71,Biphasic,450,Normal,Critical
+80,Regular,0.19,0.13,49,-1.74,Mild Inverted,349,Normal,Critical
+60,PACs/PVCs,0.25,0.09,30,0.36,Normal,428,Absent/Flutter,Critical
+82,Regular,0.18,0.13,-14,0.44,Mild Inverted,446,Absent/Flutter,Critical
+85,Regular,0.24,0.11,-36,1.22,Biphasic,369,Normal,Critical
+46,PACs/PVCs,0.15,0.12,-29,-1.17,Normal,397,Enlarged/Biphasic,Critical
+94,AFib,0.11,0.13,15,0.04,Tall,496,Normal,Critical
+53,AFib,0.22,0.1,-71,1.7,Normal,349,Enlarged/Biphasic,Critical
+47,PACs/PVCs,0.11,0.1,-65,-1.5,Flat,346,Normal,Critical
+129,Irregular,0.17,0.14,-20,-0.02,Deep Inverted,444,Absent/Flutter,Critical
+51,Irregular,0.15,0.09,64,-0.67,Flat,497,Normal,Critical
+107,VF,0.23,0.14,97,-1.27,Deep Inverted,395,Absent/Flutter,Critical
+71,VF,0.15,0.15,14,1.42,Deep Inverted,417,Normal,Critical
+66,Irregular,0.2,0.16,-119,-1.26,Deep Inverted,475,Enlarged/Biphasic,Critical
+42,Regular,0.13,0.09,42,-0.17,Biphasic,451,Absent/Flutter,Critical
+41,AFib,0.25,0.14,98,-0.34,Tall,364,Absent/Flutter,Critical
+82,Irregular,0.15,0.13,23,1.96,Biphasic,365,Absent/Flutter,Critical
+125,Regular,0.26,0.08,38,1.77,Mild Inverted,442,Enlarged/Biphasic,Critical
+119,Irregular,0.23,0.08,-28,0.07,Mild Inverted,341,Normal,Critical
+127,AFib,0.26,0.15,-117,-0.64,Deep Inverted,390,Normal,Critical
+69,Irregular,0.2,0.13,116,0.24,Deep Inverted,498,Enlarged/Biphasic,Critical
+123,VF,0.15,0.15,16,1.56,Tall,427,Enlarged/Biphasic,Critical
+85,Regular,0.13,0.12,-109,-1.17,Deep Inverted,424,Enlarged/Biphasic,Critical
+49,PACs/PVCs,0.11,0.08,-114,-1.16,Deep Inverted,401,Normal,Critical
+71,PACs/PVCs,0.24,0.11,39,-1.29,Normal,356,Absent/Flutter,Critical
+77,Regular,0.18,0.16,-115,1.74,Deep Inverted,340,Enlarged/Biphasic,Critical
+87,Regular,0.1,0.09,-53,0.24,Flat,383,Enlarged/Biphasic,Critical
+116,Regular,0.27,0.13,-115,1.61,Tall,393,Enlarged/Biphasic,Critical
+109,Irregular,0.21,0.16,-47,1.28,Flat,457,Normal,Critical
+75,AFib,0.29,0.12,-104,0.62,Deep Inverted,434,Enlarged/Biphasic,Critical
+96,VF,0.28,0.11,148,1.75,Deep Inverted,406,Enlarged/Biphasic,Critical
+97,VF,0.29,0.11,123,1.14,Flat,409,Absent/Flutter,Critical
+65,VF,0.28,0.11,47,-0.32,Tall,358,Normal,Critical
+45,Regular,0.18,0.16,-79,-0.06,Normal,410,Normal,Critical
+79,VF,0.21,0.14,25,-0.44,Flat,411,Normal,Risky
+96,VF,0.19,0.15,-15,-1.27,Biphasic,378,Normal,Critical
+44,Irregular,0.26,0.09,18,1.75,Tall,362,Enlarged/Biphasic,Critical
+60,AFib,0.17,0.13,-55,-0.17,Deep Inverted,399,Normal,Critical
+73,AFib,0.19,0.15,36,1.06,Normal,497,Absent/Flutter,Critical
+111,Irregular,0.24,0.15,-88,1.23,Mild Inverted,352,Enlarged/Biphasic,Critical
+111,PACs/PVCs,0.1,0.12,121,1.63,Flat,498,Normal,Critical
+112,Regular,0.27,0.13,-26,-1.23,Normal,484,Normal,Critical
+112,PACs/PVCs,0.18,0.09,-19,1.07,Normal,341,Enlarged/Biphasic,Critical
+54,PACs/PVCs,0.25,0.12,-48,-0.76,Flat,382,Normal,Risky
+123,Irregular,0.21,0.13,41,0.85,Deep Inverted,357,Absent/Flutter,Critical
+113,AFib,0.28,0.15,-53,0.92,Mild Inverted,408,Normal,Critical
+78,Regular,0.28,0.1,-103,0.46,Deep Inverted,452,Absent/Flutter,Critical
+110,Irregular,0.17,0.11,0,-0.72,Biphasic,392,Absent/Flutter,Critical
+64,AFib,0.15,0.11,-17,-1.92,Biphasic,488,Enlarged/Biphasic,Critical
+104,Irregular,0.23,0.09,80,-0.22,Tall,441,Normal,Critical
+85,Regular,0.18,0.08,51,-1.15,Normal,474,Absent/Flutter,Critical
+56,Irregular,0.16,0.13,-28,0.28,Deep Inverted,390,Enlarged/Biphasic,Critical
+77,Regular,0.27,0.13,60,-1.15,Flat,384,Enlarged/Biphasic,Critical
+123,PACs/PVCs,0.17,0.11,45,1.28,Flat,494,Absent/Flutter,Critical
+79,AFib,0.27,0.12,-92,1.4,Normal,411,Enlarged/Biphasic,Critical
+61,VF,0.14,0.16,-30,0.81,Mild Inverted,435,Enlarged/Biphasic,Critical
+55,PACs/PVCs,0.24,0.1,-117,0.56,Biphasic,482,Enlarged/Biphasic,Critical
+122,Regular,0.26,0.11,-48,1.59,Mild Inverted,406,Absent/Flutter,Critical
+128,Irregular,0.18,0.09,69,-1.12,Tall,463,Absent/Flutter,Critical
+61,VF,0.23,0.12,0,-0.29,Normal,434,Absent/Flutter,Critical
+102,PACs/PVCs,0.14,0.15,111,-0.79,Deep Inverted,468,Enlarged/Biphasic,Critical
+88,AFib,0.29,0.16,148,-1.31,Normal,494,Absent/Flutter,Critical
+41,Irregular,0.11,0.09,-102,-0.46,Mild Inverted,375,Absent/Flutter,Critical
+53,Irregular,0.21,0.15,-24,1.39,Deep Inverted,355,Normal,Critical
+62,Regular,0.17,0.12,122,-1.33,Deep Inverted,374,Normal,Critical
+107,AFib,0.26,0.1,136,-0.25,Flat,415,Enlarged/Biphasic,Critical
+64,VF,0.12,0.1,21,-0.13,Mild Inverted,461,Enlarged/Biphasic,Risky
+85,PACs/PVCs,0.23,0.08,-38,0.6,Mild Inverted,358,Enlarged/Biphasic,Critical
+111,VF,0.12,0.09,9,-1.48,Deep Inverted,489,Absent/Flutter,Critical
+104,Regular,0.15,0.13,27,-1.63,Tall,470,Enlarged/Biphasic,Critical
+127,Regular,0.14,0.09,49,-0.54,Biphasic,360,Normal,Critical
+86,Regular,0.29,0.09,88,-1.18,Biphasic,348,Enlarged/Biphasic,Critical
+76,Irregular,0.18,0.08,-107,0.56,Deep Inverted,421,Enlarged/Biphasic,Critical
+90,Regular,0.18,0.1,4,-0.99,Tall,452,Normal,Critical
+109,AFib,0.24,0.15,-116,-1.0,Deep Inverted,449,Normal,Critical
+123,Irregular,0.16,0.08,114,1.71,Mild Inverted,472,Enlarged/Biphasic,Critical
+59,Regular,0.23,0.11,116,-1.92,Flat,492,Absent/Flutter,Critical
+53,PACs/PVCs,0.13,0.11,23,-1.41,Deep Inverted,470,Normal,Critical
+72,Irregular,0.21,0.13,-14,0.75,Flat,465,Normal,Risky
+76,AFib,0.26,0.09,-31,0.48,Flat,362,Normal,Critical
+78,PACs/PVCs,0.24,0.13,32,-0.31,Biphasic,420,Normal,Risky
+77,Regular,0.3,0.11,61,0.96,Deep Inverted,420,Enlarged/Biphasic,Critical
+72,AFib,0.29,0.15,92,-1.99,Tall,388,Enlarged/Biphasic,Critical
+40,Regular,0.27,0.15,-57,0.0,Deep Inverted,471,Enlarged/Biphasic,Critical
+89,AFib,0.18,0.11,-112,1.86,Flat,416,Absent/Flutter,Critical
+43,AFib,0.23,0.13,-46,-0.53,Flat,437,Enlarged/Biphasic,Critical
+115,Regular,0.24,0.13,139,0.18,Biphasic,451,Normal,Critical
+111,PACs/PVCs,0.24,0.11,-32,1.09,Mild Inverted,362,Enlarged/Biphasic,Critical
+105,VF,0.24,0.14,42,-0.62,Tall,488,Absent/Flutter,Critical
+128,AFib,0.24,0.13,20,0.48,Deep Inverted,439,Normal,Critical
+122,PACs/PVCs,0.18,0.09,-70,1.69,Tall,383,Normal,Critical
+46,VF,0.13,0.13,14,0.54,Flat,410,Absent/Flutter,Critical
+113,VF,0.14,0.13,102,-1.28,Flat,447,Absent/Flutter,Critical
+60,VF,0.17,0.11,70,1.19,Flat,481,Enlarged/Biphasic,Critical
+55,Irregular,0.28,0.12,-64,-0.09,Deep Inverted,352,Enlarged/Biphasic,Critical
+108,Irregular,0.13,0.15,-87,1.29,Biphasic,342,Normal,Critical
+68,PACs/PVCs,0.2,0.1,-40,-1.88,Tall,398,Absent/Flutter,Critical
+105,Regular,0.2,0.09,-114,-1.33,Normal,372,Normal,Critical
+92,AFib,0.26,0.15,79,1.88,Tall,417,Enlarged/Biphasic,Critical
+52,VF,0.28,0.09,143,-0.45,Biphasic,445,Absent/Flutter,Critical
+100,Regular,0.21,0.08,-93,0.96,Biphasic,477,Enlarged/Biphasic,Critical
+70,AFib,0.26,0.1,121,-0.9,Biphasic,474,Enlarged/Biphasic,Critical
+111,AFib,0.25,0.08,136,0.77,Biphasic,395,Normal,Critical
+83,Irregular,0.24,0.1,-14,-1.36,Mild Inverted,407,Enlarged/Biphasic,Critical
+59,Irregular,0.25,0.12,18,-1.01,Mild Inverted,341,Absent/Flutter,Critical
+98,Irregular,0.26,0.16,-86,-1.81,Biphasic,494,Normal,Critical
+129,Irregular,0.13,0.11,82,0.08,Flat,340,Normal,Critical
+125,PACs/PVCs,0.25,0.12,-4,1.1,Flat,493,Absent/Flutter,Critical
+57,VF,0.19,0.15,38,0.93,Normal,376,Normal,Critical
+57,PACs/PVCs,0.17,0.15,-40,-0.42,Mild Inverted,437,Enlarged/Biphasic,Critical
+56,PACs/PVCs,0.11,0.11,38,0.91,Tall,424,Enlarged/Biphasic,Critical
+116,Regular,0.24,0.09,66,-1.95,Flat,463,Normal,Critical
+126,Regular,0.12,0.09,0,-0.65,Tall,394,Enlarged/Biphasic,Critical
+55,Regular,0.14,0.09,80,-1.66,Normal,482,Normal,Critical
+105,PACs/PVCs,0.19,0.09,56,1.72,Mild Inverted,395,Absent/Flutter,Critical
+99,Irregular,0.25,0.14,-109,0.57,Mild Inverted,485,Enlarged/Biphasic,Critical
+119,Irregular,0.14,0.11,120,0.89,Mild Inverted,442,Enlarged/Biphasic,Critical
+119,PACs/PVCs,0.13,0.11,-92,-1.01,Normal,476,Enlarged/Biphasic,Critical
+49,Irregular,0.12,0.16,82,-1.96,Tall,466,Absent/Flutter,Critical
+113,PACs/PVCs,0.19,0.12,36,0.9,Tall,452,Normal,Critical
+74,AFib,0.29,0.11,139,-1.55,Tall,460,Absent/Flutter,Critical
+76,Regular,0.18,0.1,-68,-0.92,Biphasic,404,Normal,Risky
+46,PACs/PVCs,0.2,0.12,-81,-0.5,Biphasic,363,Absent/Flutter,Critical
+95,AFib,0.25,0.1,27,-1.18,Normal,463,Absent/Flutter,Critical
+107,PACs/PVCs,0.24,0.15,77,-1.95,Mild Inverted,405,Absent/Flutter,Critical
+46,AFib,0.18,0.08,137,1.34,Normal,424,Enlarged/Biphasic,Critical
+53,Regular,0.11,0.13,-77,-0.04,Deep Inverted,418,Normal,Critical
+79,Irregular,0.13,0.15,121,-1.93,Deep Inverted,365,Normal,Critical
+125,Irregular,0.27,0.12,111,-0.96,Mild Inverted,395,Normal,Critical
+87,Regular,0.16,0.12,-23,1.77,Tall,404,Normal,Critical
+128,Regular,0.22,0.08,-96,-1.59,Normal,476,Absent/Flutter,Critical
+69,Regular,0.27,0.14,-3,-1.45,Mild Inverted,481,Absent/Flutter,Critical
+120,VF,0.12,0.11,72,1.63,Tall,391,Normal,Critical
+113,VF,0.13,0.14,-31,0.63,Tall,397,Absent/Flutter,Critical
+108,Regular,0.23,0.11,34,-1.06,Tall,369,Normal,Critical
+88,Irregular,0.24,0.09,104,-1.76,Normal,396,Absent/Flutter,Critical
+99,Regular,0.15,0.15,-21,-0.01,Deep Inverted,458,Enlarged/Biphasic,Critical
+79,Regular,0.19,0.12,76,-0.77,Mild Inverted,340,Absent/Flutter,Critical
+122,Irregular,0.13,0.08,59,0.04,Flat,477,Enlarged/Biphasic,Critical
+93,PACs/PVCs,0.1,0.12,-3,1.26,Mild Inverted,377,Enlarged/Biphasic,Critical
+126,AFib,0.16,0.12,-76,-0.45,Biphasic,408,Absent/Flutter,Critical
+99,AFib,0.21,0.1,-31,0.77,Normal,452,Enlarged/Biphasic,Risky
+69,VF,0.27,0.11,-27,-1.64,Deep Inverted,413,Absent/Flutter,Critical
+49,VF,0.26,0.15,-13,1.16,Tall,485,Absent/Flutter,Critical
+94,Regular,0.14,0.12,-22,-1.47,Deep Inverted,477,Normal,Critical
+104,VF,0.26,0.13,145,-1.56,Flat,361,Normal,Critical
+112,VF,0.21,0.14,71,-0.43,Deep Inverted,436,Enlarged/Biphasic,Critical
+121,Regular,0.21,0.12,-81,0.8,Biphasic,478,Normal,Critical
+108,VF,0.1,0.13,62,1.8,Biphasic,419,Absent/Flutter,Critical
+44,AFib,0.15,0.11,100,1.96,Flat,430,Enlarged/Biphasic,Critical
+69,Irregular,0.14,0.08,-104,1.48,Normal,379,Absent/Flutter,Critical
+43,AFib,0.14,0.12,63,-0.89,Biphasic,487,Enlarged/Biphasic,Critical
+56,Irregular,0.22,0.13,132,-1.45,Normal,497,Absent/Flutter,Critical
+84,Regular,0.16,0.09,149,1.49,Tall,474,Enlarged/Biphasic,Critical
+87,Irregular,0.11,0.09,33,0.22,Mild Inverted,347,Absent/Flutter,Critical
+107,VF,0.23,0.09,-105,0.97,Biphasic,484,Normal,Critical
+79,Irregular,0.26,0.13,145,1.13,Mild Inverted,424,Normal,Critical
+125,AFib,0.11,0.16,-42,1.95,Tall,374,Absent/Flutter,Critical
+68,VF,0.14,0.12,95,1.75,Flat,397,Enlarged/Biphasic,Critical
+99,PACs/PVCs,0.27,0.11,-58,-0.38,Deep Inverted,384,Enlarged/Biphasic,Critical
+44,PACs/PVCs,0.11,0.12,71,0.08,Deep Inverted,400,Absent/Flutter,Critical
+70,PACs/PVCs,0.14,0.1,-114,1.22,Normal,343,Normal,Critical
+107,AFib,0.14,0.11,5,0.56,Tall,445,Normal,Critical
+81,Regular,0.21,0.14,-35,-1.77,Mild Inverted,389,Absent/Flutter,Critical
+60,VF,0.11,0.12,54,-1.05,Flat,433,Enlarged/Biphasic,Critical
+60,PACs/PVCs,0.3,0.14,113,-0.86,Flat,476,Normal,Critical
+69,Regular,0.21,0.12,36,-0.56,Flat,446,Enlarged/Biphasic,Risky
+69,PACs/PVCs,0.14,0.11,42,-1.24,Biphasic,394,Normal,Critical
+97,AFib,0.17,0.1,-110,1.23,Normal,391,Enlarged/Biphasic,Critical
+93,PACs/PVCs,0.16,0.14,134,-1.53,Normal,454,Normal,Critical
+49,Irregular,0.19,0.13,4,1.63,Mild Inverted,353,Normal,Critical
+82,Irregular,0.21,0.13,91,-0.53,Normal,454,Normal,Risky
+99,Regular,0.24,0.12,18,-0.54,Biphasic,400,Enlarged/Biphasic,Risky
+48,VF,0.22,0.15,14,-0.88,Flat,480,Normal,Critical
+80,PACs/PVCs,0.17,0.09,-90,1.16,Flat,383,Absent/Flutter,Critical
+92,PACs/PVCs,0.18,0.09,96,0.17,Normal,346,Normal,Critical
+64,VF,0.11,0.09,119,-1.92,Tall,399,Absent/Flutter,Critical
+52,PACs/PVCs,0.12,0.16,-28,0.4,Biphasic,445,Enlarged/Biphasic,Critical
+58,PACs/PVCs,0.23,0.11,52,-1.81,Normal,418,Absent/Flutter,Critical
+116,PACs/PVCs,0.29,0.11,60,1.77,Biphasic,453,Enlarged/Biphasic,Critical
+127,VF,0.3,0.15,-100,1.65,Biphasic,342,Enlarged/Biphasic,Critical
+120,PACs/PVCs,0.24,0.12,-5,-1.47,Mild Inverted,360,Enlarged/Biphasic,Critical
+115,VF,0.16,0.12,22,-1.67,Biphasic,375,Normal,Critical
+84,Irregular,0.18,0.09,-84,-1.58,Normal,448,Normal,Critical
+94,Irregular,0.29,0.14,-93,-1.49,Normal,344,Absent/Flutter,Critical
+66,PACs/PVCs,0.18,0.15,97,-0.85,Biphasic,461,Normal,Critical
+66,AFib,0.16,0.09,11,-0.32,Tall,397,Normal,Critical
+103,Regular,0.24,0.12,-18,-0.91,Biphasic,384,Normal,Risky
+63,PACs/PVCs,0.18,0.11,96,0.45,Biphasic,404,Normal,Risky
+48,Irregular,0.2,0.13,83,-1.2,Tall,440,Absent/Flutter,Critical
+104,VF,0.3,0.16,-78,-1.65,Deep Inverted,496,Absent/Flutter,Critical
+72,Regular,0.24,0.09,51,1.1,Mild Inverted,388,Normal,Critical
+87,PACs/PVCs,0.14,0.09,-84,1.19,Deep Inverted,353,Normal,Critical
+115,VF,0.28,0.15,-94,-1.51,Biphasic,393,Normal,Critical
+106,PACs/PVCs,0.16,0.11,-95,-1.25,Biphasic,346,Enlarged/Biphasic,Critical
+99,PACs/PVCs,0.21,0.1,60,1.93,Deep Inverted,491,Absent/Flutter,Critical
+98,VF,0.18,0.14,-67,-0.93,Tall,372,Normal,Critical
+87,Regular,0.22,0.1,-5,1.99,Flat,371,Normal,Critical
+112,Regular,0.23,0.15,66,-0.3,Flat,430,Absent/Flutter,Critical
+106,AFib,0.1,0.16,88,0.18,Deep Inverted,342,Absent/Flutter,Critical
+44,Regular,0.18,0.15,-116,1.66,Flat,429,Enlarged/Biphasic,Critical
+56,PACs/PVCs,0.21,0.11,-96,-1.46,Normal,437,Absent/Flutter,Critical
+64,PACs/PVCs,0.18,0.09,-28,0.01,Deep Inverted,458,Absent/Flutter,Critical
+99,Irregular,0.25,0.12,111,0.75,Flat,484,Absent/Flutter,Critical
+80,PACs/PVCs,0.12,0.15,56,-0.24,Flat,355,Enlarged/Biphasic,Critical
+51,Regular,0.29,0.13,-102,1.09,Mild Inverted,348,Absent/Flutter,Critical
+106,VF,0.27,0.14,-97,1.81,Biphasic,382,Normal,Critical
+120,Regular,0.19,0.13,-67,-1.04,Biphasic,360,Normal,Critical
+45,Regular,0.22,0.08,128,0.8,Tall,361,Normal,Critical
+58,AFib,0.19,0.13,-55,-0.72,Tall,484,Normal,Critical
+114,PACs/PVCs,0.26,0.11,94,1.63,Flat,386,Absent/Flutter,Critical
+95,VF,0.25,0.11,23,1.16,Flat,397,Normal,Critical
+97,VF,0.14,0.09,11,1.1,Flat,380,Enlarged/Biphasic,Critical
+55,AFib,0.22,0.12,132,0.71,Mild Inverted,477,Enlarged/Biphasic,Critical
+84,Irregular,0.26,0.14,6,0.6,Biphasic,374,Enlarged/Biphasic,Critical
+100,VF,0.24,0.13,-41,1.01,Mild Inverted,471,Normal,Critical
+105,PACs/PVCs,0.22,0.13,27,1.22,Mild Inverted,374,Enlarged/Biphasic,Critical
+40,Regular,0.14,0.14,22,-1.77,Flat,368,Absent/Flutter,Critical
+44,VF,0.11,0.08,-14,-0.61,Tall,491,Absent/Flutter,Critical
+45,Regular,0.21,0.1,-74,-1.73,Tall,471,Absent/Flutter,Critical
+116,Regular,0.19,0.13,-87,0.2,Tall,416,Enlarged/Biphasic,Critical
+73,PACs/PVCs,0.18,0.14,34,-1.3,Mild Inverted,341,Normal,Critical
+110,VF,0.16,0.11,59,-1.93,Normal,464,Enlarged/Biphasic,Critical
+85,VF,0.14,0.09,-96,-0.34,Normal,389,Normal,Critical
+66,Regular,0.27,0.09,37,0.54,Biphasic,389,Enlarged/Biphasic,Critical
+125,AFib,0.25,0.09,61,-0.61,Tall,344,Absent/Flutter,Critical
+120,PACs/PVCs,0.11,0.09,-57,-0.32,Deep Inverted,455,Absent/Flutter,Critical
+105,PACs/PVCs,0.17,0.09,12,-0.15,Mild Inverted,465,Normal,Risky
+72,Irregular,0.1,0.09,-32,-1.72,Deep Inverted,458,Normal,Critical
+111,PACs/PVCs,0.15,0.14,-101,-0.33,Flat,396,Enlarged/Biphasic,Critical
+89,PACs/PVCs,0.22,0.13,27,-1.13,Tall,372,Absent/Flutter,Critical
+107,VF,0.21,0.15,-68,0.97,Mild Inverted,357,Enlarged/Biphasic,Critical
+67,AFib,0.11,0.14,36,1.79,Deep Inverted,447,Enlarged/Biphasic,Critical
+54,Irregular,0.27,0.09,-29,0.72,Deep Inverted,435,Normal,Critical
+74,VF,0.28,0.09,-111,-1.38,Deep Inverted,403,Absent/Flutter,Critical
+67,VF,0.12,0.1,-67,-1.35,Biphasic,451,Enlarged/Biphasic,Critical
+47,VF,0.29,0.12,-74,0.04,Flat,361,Normal,Critical
+102,Regular,0.29,0.11,-54,0.76,Mild Inverted,403,Absent/Flutter,Critical
+108,Irregular,0.12,0.12,-37,-0.15,Biphasic,456,Absent/Flutter,Critical
+49,VF,0.1,0.08,-12,-1.35,Flat,349,Normal,Critical
+47,PACs/PVCs,0.25,0.14,-27,0.28,Flat,398,Normal,Critical
+43,Irregular,0.21,0.15,-59,0.62,Tall,383,Absent/Flutter,Critical
+106,Irregular,0.24,0.12,-115,-0.55,Deep Inverted,357,Normal,Critical
+78,PACs/PVCs,0.1,0.11,27,1.73,Deep Inverted,366,Normal,Critical
+80,PACs/PVCs,0.28,0.12,-90,0.79,Flat,400,Absent/Flutter,Critical
+83,Irregular,0.12,0.14,39,-1.07,Flat,456,Absent/Flutter,Critical
+108,Irregular,0.2,0.1,137,-1.19,Mild Inverted,470,Absent/Flutter,Critical
+126,PACs/PVCs,0.19,0.15,109,-1.57,Flat,417,Enlarged/Biphasic,Critical
+118,Regular,0.23,0.15,-96,0.13,Flat,353,Enlarged/Biphasic,Critical
+129,AFib,0.12,0.1,110,-1.68,Mild Inverted,368,Enlarged/Biphasic,Critical
+105,PACs/PVCs,0.12,0.09,34,-0.06,Mild Inverted,372,Absent/Flutter,Critical
+68,Regular,0.23,0.12,140,-0.94,Flat,379,Normal,Critical
+69,Regular,0.28,0.15,-3,-0.17,Deep Inverted,411,Absent/Flutter,Critical
+55,Irregular,0.29,0.11,48,-0.13,Deep Inverted,347,Absent/Flutter,Critical
+110,PACs/PVCs,0.24,0.13,-61,1.32,Normal,398,Enlarged/Biphasic,Critical
+62,VF,0.22,0.09,-13,-0.94,Biphasic,392,Enlarged/Biphasic,Risky
+41,VF,0.14,0.09,-100,1.44,Deep Inverted,414,Normal,Critical
+95,Regular,0.23,0.15,19,0.18,Mild Inverted,455,Enlarged/Biphasic,Critical
+41,AFib,0.14,0.11,81,0.93,Deep Inverted,369,Enlarged/Biphasic,Critical
+100,PACs/PVCs,0.25,0.08,-103,1.63,Tall,401,Absent/Flutter,Critical
+97,Irregular,0.21,0.09,-107,0.9,Deep Inverted,375,Absent/Flutter,Critical
+126,Irregular,0.21,0.11,-65,1.29,Tall,423,Absent/Flutter,Critical
+120,PACs/PVCs,0.13,0.12,-65,-2.0,Biphasic,421,Normal,Critical
+62,VF,0.21,0.1,117,1.0,Deep Inverted,437,Enlarged/Biphasic,Critical
+72,VF,0.16,0.15,108,-0.63,Flat,381,Enlarged/Biphasic,Critical
+54,VF,0.1,0.14,-32,0.15,Flat,363,Enlarged/Biphasic,Critical
+62,PACs/PVCs,0.14,0.14,78,-0.31,Flat,488,Enlarged/Biphasic,Critical
+62,VF,0.28,0.09,-39,-0.05,Normal,487,Absent/Flutter,Critical
+113,Irregular,0.12,0.12,-25,0.21,Normal,445,Normal,Critical
+94,PACs/PVCs,0.13,0.14,26,1.46,Biphasic,377,Enlarged/Biphasic,Critical
+121,VF,0.16,0.15,-36,1.71,Mild Inverted,400,Normal,Critical
+69,PACs/PVCs,0.14,0.1,64,-0.47,Normal,375,Absent/Flutter,Critical
+61,AFib,0.28,0.12,121,-1.64,Tall,426,Enlarged/Biphasic,Critical
+50,AFib,0.24,0.15,16,1.14,Mild Inverted,497,Absent/Flutter,Critical
+92,Irregular,0.14,0.13,1,-0.69,Mild Inverted,412,Enlarged/Biphasic,Risky
+62,VF,0.12,0.09,-117,0.28,Tall,370,Absent/Flutter,Critical
+43,Irregular,0.28,0.14,88,-1.24,Flat,464,Absent/Flutter,Critical
+90,PACs/PVCs,0.12,0.1,-77,0.44,Tall,463,Normal,Critical
+78,Irregular,0.16,0.13,-40,0.19,Normal,389,Normal,Risky
+50,Irregular,0.17,0.08,101,-1.18,Biphasic,354,Normal,Critical
+49,PACs/PVCs,0.1,0.1,23,-1.72,Tall,456,Absent/Flutter,Critical
+102,Irregular,0.26,0.11,46,1.35,Biphasic,456,Enlarged/Biphasic,Critical
+115,Irregular,0.28,0.11,-50,0.31,Tall,366,Absent/Flutter,Critical
+114,PACs/PVCs,0.23,0.09,10,1.82,Mild Inverted,429,Normal,Critical
+75,Regular,0.25,0.11,12,-0.12,Biphasic,368,Absent/Flutter,Critical
+95,VF,0.17,0.11,-107,-1.47,Deep Inverted,369,Absent/Flutter,Critical
+52,PACs/PVCs,0.12,0.12,-102,1.2,Deep Inverted,459,Enlarged/Biphasic,Critical
+86,AFib,0.24,0.09,-78,-1.29,Normal,364,Normal,Critical
+99,PACs/PVCs,0.1,0.11,26,0.72,Flat,360,Enlarged/Biphasic,Critical
+109,AFib,0.2,0.13,-88,0.88,Deep Inverted,471,Normal,Critical
+117,Regular,0.13,0.13,139,-1.64,Tall,409,Absent/Flutter,Critical
+106,Regular,0.24,0.16,-73,-1.29,Tall,462,Absent/Flutter,Critical
+100,VF,0.19,0.12,-71,1.53,Flat,495,Enlarged/Biphasic,Critical
+75,Regular,0.21,0.12,22,1.99,Flat,368,Normal,Critical
+79,Irregular,0.24,0.15,144,1.99,Flat,470,Normal,Critical
+66,VF,0.15,0.09,4,-0.82,Tall,492,Absent/Flutter,Critical
+114,VF,0.19,0.12,-96,1.55,Flat,452,Absent/Flutter,Critical
+121,AFib,0.2,0.16,88,0.06,Tall,397,Normal,Critical
+101,Irregular,0.22,0.13,-66,-0.71,Deep Inverted,493,Absent/Flutter,Critical
+98,VF,0.26,0.12,85,0.43,Deep Inverted,409,Enlarged/Biphasic,Critical
+69,AFib,0.19,0.14,79,-0.67,Flat,455,Absent/Flutter,Critical
+83,VF,0.11,0.15,-1,-0.91,Flat,476,Normal,Critical
+87,AFib,0.27,0.11,-1,-1.03,Normal,362,Enlarged/Biphasic,Critical
+73,Regular,0.12,0.14,99,1.45,Deep Inverted,373,Enlarged/Biphasic,Critical
+96,Regular,0.24,0.12,-56,1.36,Biphasic,470,Absent/Flutter,Critical
+79,AFib,0.28,0.14,101,-1.31,Deep Inverted,436,Absent/Flutter,Critical
+47,AFib,0.11,0.08,22,0.64,Mild Inverted,450,Absent/Flutter,Critical
+42,VF,0.17,0.08,62,0.72,Flat,392,Enlarged/Biphasic,Critical
+91,PACs/PVCs,0.24,0.12,-3,-1.6,Deep Inverted,379,Enlarged/Biphasic,Critical
+83,VF,0.13,0.11,-2,1.5,Deep Inverted,436,Absent/Flutter,Critical
+87,Irregular,0.12,0.14,-26,-1.68,Flat,494,Enlarged/Biphasic,Critical
+50,Regular,0.24,0.15,91,-0.06,Deep Inverted,457,Enlarged/Biphasic,Critical
+97,Regular,0.11,0.09,-65,-0.69,Flat,386,Absent/Flutter,Critical
+81,AFib,0.26,0.09,-115,0.68,Deep Inverted,443,Enlarged/Biphasic,Critical
+56,PACs/PVCs,0.11,0.09,-28,-0.14,Flat,395,Enlarged/Biphasic,Critical
+94,Regular,0.18,0.11,-94,1.76,Mild Inverted,388,Normal,Critical
+76,Regular,0.27,0.16,68,1.09,Tall,357,Absent/Flutter,Critical
+78,Regular,0.16,0.1,87,-1.18,Mild Inverted,440,Normal,Critical
+65,PACs/PVCs,0.29,0.12,-89,0.89,Flat,389,Normal,Critical
+128,Irregular,0.25,0.12,-50,0.24,Mild Inverted,404,Enlarged/Biphasic,Critical
+75,VF,0.12,0.09,-36,0.84,Tall,476,Absent/Flutter,Critical
+58,Irregular,0.12,0.14,134,-0.03,Tall,472,Absent/Flutter,Critical
+44,AFib,0.22,0.09,12,-0.98,Flat,351,Absent/Flutter,Critical
+66,AFib,0.13,0.14,-93,-1.36,Mild Inverted,472,Absent/Flutter,Critical
+59,VF,0.14,0.15,-19,-0.25,Deep Inverted,471,Normal,Critical
+44,Irregular,0.18,0.12,-110,1.77,Biphasic,472,Enlarged/Biphasic,Critical
+76,PACs/PVCs,0.19,0.09,21,0.54,Flat,410,Enlarged/Biphasic,Risky
+42,Regular,0.13,0.11,-92,1.32,Biphasic,370,Enlarged/Biphasic,Critical
+51,Irregular,0.2,0.12,-3,-1.88,Deep Inverted,407,Enlarged/Biphasic,Critical
+60,Irregular,0.28,0.13,-79,0.68,Deep Inverted,419,Enlarged/Biphasic,Critical
+119,Regular,0.23,0.14,106,0.66,Flat,450,Enlarged/Biphasic,Critical
+58,Irregular,0.22,0.15,92,-0.3,Deep Inverted,461,Absent/Flutter,Critical
+121,Irregular,0.12,0.1,-119,0.81,Normal,478,Normal,Critical
+54,VF,0.2,0.16,45,-1.82,Tall,484,Normal,Critical
+76,Irregular,0.22,0.11,1,-0.45,Flat,452,Normal,Risky
+113,Irregular,0.26,0.09,-86,-1.17,Deep Inverted,420,Absent/Flutter,Critical
+109,AFib,0.16,0.14,-63,0.29,Tall,443,Normal,Critical
+49,PACs/PVCs,0.14,0.11,-115,-1.82,Biphasic,460,Enlarged/Biphasic,Critical
+107,PACs/PVCs,0.26,0.1,105,-0.43,Flat,346,Absent/Flutter,Critical
+123,AFib,0.2,0.09,-23,-0.55,Normal,458,Absent/Flutter,Critical
+91,PACs/PVCs,0.21,0.13,-3,-1.77,Deep Inverted,367,Normal,Critical
+103,Regular,0.25,0.13,-17,0.71,Normal,351,Absent/Flutter,Critical
+111,PACs/PVCs,0.2,0.12,148,1.71,Biphasic,352,Normal,Critical
+113,PACs/PVCs,0.13,0.15,110,-1.04,Mild Inverted,355,Absent/Flutter,Critical
+64,Regular,0.11,0.1,11,0.94,Tall,397,Normal,Critical
+92,Regular,0.15,0.14,-11,-0.0,Tall,495,Absent/Flutter,Critical
+126,Regular,0.28,0.11,-20,-1.83,Normal,398,Enlarged/Biphasic,Critical
+122,PACs/PVCs,0.12,0.11,-66,1.21,Deep Inverted,456,Enlarged/Biphasic,Critical
+87,VF,0.15,0.1,-107,1.73,Mild Inverted,456,Normal,Critical
+96,AFib,0.25,0.09,21,-0.53,Normal,451,Normal,Risky
+89,Regular,0.2,0.13,-44,-1.34,Normal,395,Absent/Flutter,Critical
+62,Regular,0.23,0.08,-71,0.44,Flat,371,Normal,Risky
+75,Irregular,0.12,0.11,95,1.23,Tall,467,Absent/Flutter,Critical
+129,Irregular,0.2,0.13,-46,1.19,Biphasic,384,Enlarged/Biphasic,Critical
+47,VF,0.25,0.15,-20,-0.45,Flat,394,Enlarged/Biphasic,Critical
+55,AFib,0.13,0.1,56,-1.2,Mild Inverted,438,Absent/Flutter,Critical
+86,PACs/PVCs,0.25,0.15,-31,-1.76,Mild Inverted,483,Normal,Critical
+75,VF,0.28,0.13,-33,-0.56,Deep Inverted,424,Enlarged/Biphasic,Critical
+116,PACs/PVCs,0.11,0.11,-69,0.99,Deep Inverted,496,Absent/Flutter,Critical
+87,VF,0.13,0.13,74,-1.63,Mild Inverted,387,Enlarged/Biphasic,Critical
+104,Regular,0.18,0.15,111,1.6,Biphasic,392,Normal,Critical
+64,AFib,0.11,0.15,-85,-0.24,Biphasic,454,Normal,Critical
+41,PACs/PVCs,0.26,0.15,37,-1.33,Tall,491,Enlarged/Biphasic,Critical
+46,AFib,0.14,0.12,24,-1.32,Mild Inverted,379,Enlarged/Biphasic,Critical
+87,VF,0.12,0.08,65,1.82,Mild Inverted,352,Normal,Critical
+129,PACs/PVCs,0.26,0.13,-10,0.61,Deep Inverted,499,Enlarged/Biphasic,Critical
+66,VF,0.2,0.1,145,1.08,Deep Inverted,351,Normal,Critical
+81,VF,0.12,0.16,-18,-0.57,Biphasic,365,Absent/Flutter,Critical
+122,VF,0.24,0.13,-22,0.08,Mild Inverted,403,Normal,Critical
+44,VF,0.2,0.12,39,-1.14,Mild Inverted,454,Absent/Flutter,Critical
+90,VF,0.28,0.11,-54,0.77,Flat,381,Enlarged/Biphasic,Critical
+122,PACs/PVCs,0.26,0.1,-117,-0.01,Mild Inverted,483,Normal,Critical
+125,VF,0.2,0.14,-63,1.74,Flat,428,Absent/Flutter,Critical
+50,Irregular,0.19,0.09,46,-0.21,Flat,449,Enlarged/Biphasic,Risky
+108,Irregular,0.17,0.09,64,1.68,Flat,447,Absent/Flutter,Critical
+114,VF,0.2,0.13,-50,-1.43,Mild Inverted,369,Enlarged/Biphasic,Critical
+91,Regular,0.13,0.09,-62,0.14,Deep Inverted,495,Absent/Flutter,Critical
+59,Regular,0.28,0.12,84,0.04,Mild Inverted,351,Normal,Critical
+120,VF,0.23,0.15,6,-1.82,Mild Inverted,415,Absent/Flutter,Critical
+114,AFib,0.22,0.13,-82,-1.27,Mild Inverted,499,Absent/Flutter,Critical
+41,AFib,0.2,0.12,53,1.15,Tall,422,Normal,Critical
+67,AFib,0.21,0.1,71,1.82,Tall,360,Normal,Critical
+91,PACs/PVCs,0.21,0.09,-39,-1.01,Mild Inverted,432,Absent/Flutter,Critical
+43,PACs/PVCs,0.29,0.11,73,-0.82,Tall,481,Normal,Critical
+77,PACs/PVCs,0.11,0.11,-74,0.7,Normal,376,Enlarged/Biphasic,Critical
+127,VF,0.22,0.1,-96,0.76,Mild Inverted,370,Normal,Critical
+79,Regular,0.23,0.1,-36,-0.58,Deep Inverted,371,Absent/Flutter,Critical
+69,VF,0.19,0.11,-54,0.96,Tall,423,Enlarged/Biphasic,Critical
+48,Irregular,0.24,0.12,82,-1.43,Flat,345,Absent/Flutter,Critical
+81,Regular,0.11,0.1,-70,-0.44,Biphasic,415,Normal,Critical
+115,Regular,0.18,0.11,124,-1.34,Normal,392,Normal,Critical
+103,PACs/PVCs,0.2,0.15,-48,-1.99,Biphasic,478,Absent/Flutter,Critical
+91,PACs/PVCs,0.24,0.12,61,1.77,Deep Inverted,475,Absent/Flutter,Critical
+96,VF,0.23,0.12,114,0.29,Tall,482,Absent/Flutter,Critical
+128,PACs/PVCs,0.2,0.11,-6,1.29,Biphasic,368,Absent/Flutter,Critical
+119,PACs/PVCs,0.14,0.11,-23,-1.81,Flat,437,Enlarged/Biphasic,Critical
+47,VF,0.12,0.14,78,-0.83,Mild Inverted,484,Normal,Critical
+42,VF,0.13,0.1,-6,0.06,Mild Inverted,350,Normal,Critical
+96,VF,0.19,0.14,-69,-1.07,Flat,341,Normal,Critical
+79,Regular,0.21,0.13,-34,1.8,Flat,435,Normal,Critical
+89,AFib,0.12,0.16,52,-1.11,Biphasic,387,Enlarged/Biphasic,Critical
+51,Regular,0.14,0.09,-46,0.2,Deep Inverted,477,Absent/Flutter,Critical
+74,Irregular,0.11,0.12,-16,0.3,Mild Inverted,487,Enlarged/Biphasic,Critical
+64,Irregular,0.25,0.08,42,-0.51,Biphasic,479,Enlarged/Biphasic,Critical
+51,AFib,0.21,0.09,95,1.05,Deep Inverted,386,Normal,Critical
+63,Regular,0.13,0.1,101,1.04,Deep Inverted,377,Absent/Flutter,Critical
+67,Irregular,0.1,0.16,44,-0.75,Flat,467,Normal,Critical
+57,AFib,0.29,0.14,94,-1.36,Flat,499,Enlarged/Biphasic,Critical
+43,Regular,0.21,0.1,125,-1.41,Flat,424,Absent/Flutter,Critical
+111,VF,0.14,0.11,58,-1.36,Deep Inverted,368,Normal,Critical
+68,Regular,0.23,0.13,85,-1.7,Flat,473,Enlarged/Biphasic,Critical
+55,Irregular,0.18,0.14,43,-1.09,Tall,425,Normal,Critical
+65,Irregular,0.2,0.14,-83,-0.2,Biphasic,377,Enlarged/Biphasic,Risky
+67,Irregular,0.14,0.14,-82,1.15,Mild Inverted,467,Normal,Critical
+44,Irregular,0.19,0.14,41,-1.27,Tall,343,Absent/Flutter,Critical
+78,Irregular,0.12,0.08,-37,1.47,Normal,370,Enlarged/Biphasic,Critical
+120,VF,0.27,0.13,-60,-0.68,Deep Inverted,427,Absent/Flutter,Critical
+51,Regular,0.2,0.09,-11,-1.68,Biphasic,451,Enlarged/Biphasic,Critical
+59,PACs/PVCs,0.12,0.14,-58,0.27,Mild Inverted,489,Absent/Flutter,Critical
+56,AFib,0.21,0.12,112,-0.93,Tall,458,Absent/Flutter,Critical
+109,Regular,0.18,0.12,-98,-1.01,Mild Inverted,453,Enlarged/Biphasic,Critical
+51,VF,0.27,0.09,61,-1.07,Deep Inverted,406,Normal,Critical
+68,Irregular,0.26,0.11,34,1.2,Tall,431,Absent/Flutter,Critical
+77,VF,0.13,0.14,16,1.39,Deep Inverted,415,Normal,Critical
+112,AFib,0.2,0.12,89,1.03,Biphasic,472,Absent/Flutter,Critical
+122,Irregular,0.17,0.09,-76,0.51,Normal,389,Absent/Flutter,Critical
+81,VF,0.25,0.11,-58,0.49,Deep Inverted,407,Normal,Critical
+59,VF,0.25,0.12,134,-1.56,Tall,425,Normal,Critical
+102,PACs/PVCs,0.1,0.09,-9,1.37,Mild Inverted,486,Enlarged/Biphasic,Critical
+79,Irregular,0.19,0.13,2,-0.53,Tall,411,Normal,Critical
+62,Regular,0.21,0.16,69,-0.22,Deep Inverted,377,Enlarged/Biphasic,Critical
+103,Irregular,0.2,0.16,75,0.17,Normal,473,Enlarged/Biphasic,Critical
+63,Regular,0.25,0.09,-98,0.69,Deep Inverted,414,Absent/Flutter,Critical
+96,Irregular,0.12,0.11,29,-1.33,Mild Inverted,442,Enlarged/Biphasic,Critical
+112,Irregular,0.29,0.12,123,0.61,Mild Inverted,413,Enlarged/Biphasic,Critical
+98,PACs/PVCs,0.28,0.15,-116,0.42,Tall,491,Normal,Critical
+125,PACs/PVCs,0.18,0.12,3,-0.74,Deep Inverted,496,Absent/Flutter,Critical
+62,AFib,0.26,0.15,100,-0.33,Normal,475,Absent/Flutter,Critical
+42,Irregular,0.12,0.11,42,1.55,Deep Inverted,487,Normal,Critical
+124,VF,0.15,0.09,-76,0.77,Biphasic,352,Absent/Flutter,Critical
+90,VF,0.23,0.1,45,-1.24,Deep Inverted,392,Enlarged/Biphasic,Critical
+48,Irregular,0.14,0.12,-101,-1.5,Deep Inverted,385,Normal,Critical
+45,AFib,0.27,0.09,-89,1.45,Biphasic,478,Enlarged/Biphasic,Critical
+69,AFib,0.19,0.1,-9,0.18,Deep Inverted,495,Enlarged/Biphasic,Critical
+96,Irregular,0.21,0.11,147,0.94,Flat,419,Absent/Flutter,Critical
+82,VF,0.12,0.11,-10,-0.13,Flat,396,Normal,Risky
+113,Regular,0.2,0.16,125,0.87,Deep Inverted,460,Enlarged/Biphasic,Critical
+50,Regular,0.26,0.13,-90,-1.05,Flat,426,Normal,Critical
+68,Regular,0.14,0.13,7,1.48,Mild Inverted,416,Absent/Flutter,Critical
+117,Regular,0.21,0.13,60,-0.64,Mild Inverted,414,Normal,Critical
+78,Regular,0.18,0.12,144,-1.09,Deep Inverted,403,Absent/Flutter,Critical
+95,Irregular,0.24,0.08,139,-0.47,Deep Inverted,400,Absent/Flutter,Critical
+120,AFib,0.17,0.12,62,-1.6,Flat,472,Enlarged/Biphasic,Critical
+61,AFib,0.1,0.15,49,-1.11,Deep Inverted,428,Absent/Flutter,Critical
+49,PACs/PVCs,0.29,0.16,61,-1.41,Flat,451,Enlarged/Biphasic,Critical
+46,Regular,0.1,0.15,40,1.29,Flat,399,Normal,Critical
+92,PACs/PVCs,0.16,0.15,112,-1.19,Tall,387,Enlarged/Biphasic,Critical
+112,AFib,0.25,0.15,74,-1.38,Tall,450,Enlarged/Biphasic,Critical
+47,AFib,0.21,0.12,146,-0.06,Tall,420,Normal,Critical
+87,Irregular,0.3,0.09,35,0.77,Normal,440,Absent/Flutter,Critical
+48,AFib,0.19,0.08,34,0.98,Normal,390,Absent/Flutter,Critical
+126,AFib,0.21,0.14,-55,-1.68,Tall,365,Absent/Flutter,Critical
+120,AFib,0.13,0.15,-19,-0.08,Normal,410,Absent/Flutter,Critical
+48,Regular,0.12,0.16,39,-1.65,Mild Inverted,482,Normal,Critical
+77,PACs/PVCs,0.18,0.13,125,-1.75,Flat,482,Normal,Critical
+65,PACs/PVCs,0.14,0.09,137,0.57,Mild Inverted,431,Enlarged/Biphasic,Critical
+129,PACs/PVCs,0.2,0.09,136,0.74,Biphasic,452,Absent/Flutter,Critical
+72,VF,0.17,0.13,90,-1.95,Normal,348,Absent/Flutter,Critical
+49,AFib,0.23,0.12,-81,-1.26,Mild Inverted,394,Enlarged/Biphasic,Critical
+86,VF,0.3,0.09,139,-0.37,Deep Inverted,385,Absent/Flutter,Critical
+62,VF,0.25,0.09,119,1.45,Tall,363,Normal,Critical
+125,Irregular,0.21,0.14,2,1.13,Mild Inverted,340,Enlarged/Biphasic,Critical
+60,PACs/PVCs,0.22,0.09,-75,0.44,Deep Inverted,468,Enlarged/Biphasic,Critical
+65,Regular,0.2,0.11,74,-0.1,Normal,398,Normal,Risky
+108,VF,0.11,0.12,-117,-0.05,Biphasic,444,Enlarged/Biphasic,Critical
+105,AFib,0.11,0.14,4,1.78,Tall,471,Normal,Critical
+106,AFib,0.27,0.08,75,-0.84,Mild Inverted,463,Enlarged/Biphasic,Critical
+81,AFib,0.22,0.13,-69,-0.83,Normal,426,Normal,Risky
+101,VF,0.14,0.1,129,2.0,Biphasic,446,Enlarged/Biphasic,Critical
+100,Regular,0.25,0.14,-73,-0.24,Normal,479,Enlarged/Biphasic,Critical
+109,PACs/PVCs,0.22,0.12,-108,-1.33,Deep Inverted,396,Absent/Flutter,Critical
+82,AFib,0.26,0.16,-93,-0.98,Deep Inverted,375,Absent/Flutter,Critical
+92,Regular,0.1,0.12,2,-1.51,Flat,346,Enlarged/Biphasic,Critical
+73,VF,0.12,0.13,-103,-1.3,Flat,351,Absent/Flutter,Critical
+52,Irregular,0.11,0.15,-99,-1.05,Mild Inverted,481,Absent/Flutter,Critical
+97,PACs/PVCs,0.27,0.13,-72,1.94,Deep Inverted,449,Enlarged/Biphasic,Critical
+68,PACs/PVCs,0.26,0.11,6,0.01,Mild Inverted,420,Absent/Flutter,Critical
+67,PACs/PVCs,0.18,0.15,-94,-0.36,Flat,376,Absent/Flutter,Critical
+126,Regular,0.22,0.13,-98,-1.34,Normal,416,Absent/Flutter,Critical
+59,Regular,0.29,0.16,9,1.47,Normal,373,Absent/Flutter,Critical
+40,PACs/PVCs,0.2,0.09,-13,1.29,Biphasic,378,Enlarged/Biphasic,Critical
+56,Irregular,0.23,0.12,-37,1.97,Flat,458,Enlarged/Biphasic,Critical
+98,VF,0.13,0.11,-64,0.66,Tall,406,Enlarged/Biphasic,Critical
+72,Regular,0.25,0.14,-59,0.81,Biphasic,457,Enlarged/Biphasic,Risky
+88,PACs/PVCs,0.14,0.09,-61,-1.52,Mild Inverted,450,Normal,Critical
+72,PACs/PVCs,0.18,0.12,-3,0.08,Mild Inverted,481,Enlarged/Biphasic,Critical
+115,Irregular,0.28,0.15,10,0.8,Mild Inverted,433,Enlarged/Biphasic,Critical
+121,Irregular,0.19,0.1,125,-1.31,Deep Inverted,456,Absent/Flutter,Critical
+118,Regular,0.24,0.15,75,-0.98,Deep Inverted,399,Enlarged/Biphasic,Critical
+83,PACs/PVCs,0.21,0.14,-101,-1.66,Biphasic,344,Normal,Critical
+79,Regular,0.17,0.16,-106,1.15,Deep Inverted,393,Absent/Flutter,Critical
+49,PACs/PVCs,0.27,0.11,-13,-0.57,Mild Inverted,392,Normal,Critical
+81,Regular,0.27,0.15,-84,1.33,Flat,363,Normal,Critical
+109,AFib,0.11,0.09,59,-0.28,Normal,395,Enlarged/Biphasic,Critical
+99,Irregular,0.21,0.08,34,1.12,Tall,407,Enlarged/Biphasic,Critical
+92,Irregular,0.16,0.12,116,-1.37,Flat,474,Normal,Critical
+125,PACs/PVCs,0.22,0.15,-97,0.97,Flat,478,Enlarged/Biphasic,Critical
+102,AFib,0.11,0.11,-4,-1.21,Deep Inverted,361,Normal,Critical
+86,Irregular,0.15,0.14,-66,-1.21,Flat,423,Absent/Flutter,Critical
+63,VF,0.12,0.15,-114,1.71,Flat,445,Enlarged/Biphasic,Critical
+101,VF,0.2,0.09,-105,1.97,Tall,457,Absent/Flutter,Critical
+111,Regular,0.22,0.11,-17,0.53,Biphasic,463,Enlarged/Biphasic,Critical
+114,Irregular,0.28,0.11,46,1.16,Tall,342,Absent/Flutter,Critical
+69,Regular,0.14,0.08,-16,-1.77,Mild Inverted,487,Enlarged/Biphasic,Critical
+67,VF,0.28,0.14,-11,-0.97,Mild Inverted,444,Normal,Critical
+44,Irregular,0.21,0.11,24,-0.54,Normal,359,Enlarged/Biphasic,Critical
+59,AFib,0.18,0.1,69,1.04,Biphasic,484,Absent/Flutter,Critical
+62,Irregular,0.24,0.15,-107,-1.5,Biphasic,489,Absent/Flutter,Critical
+117,Regular,0.22,0.16,27,-0.88,Biphasic,450,Normal,Critical
+50,VF,0.15,0.16,1,1.45,Mild Inverted,478,Absent/Flutter,Critical
+50,AFib,0.29,0.1,29,-1.3,Biphasic,345,Normal,Critical
+63,VF,0.17,0.11,-3,0.4,Normal,451,Enlarged/Biphasic,Risky
+51,PACs/PVCs,0.27,0.09,-70,1.8,Mild Inverted,413,Normal,Critical
+101,AFib,0.22,0.08,-45,0.99,Mild Inverted,476,Enlarged/Biphasic,Critical
+124,VF,0.3,0.12,143,1.8,Biphasic,457,Normal,Critical
+103,AFib,0.2,0.08,-24,-1.52,Deep Inverted,408,Enlarged/Biphasic,Critical
+74,AFib,0.26,0.09,-77,-0.44,Deep Inverted,489,Absent/Flutter,Critical
+92,Irregular,0.18,0.13,-102,0.68,Normal,446,Normal,Critical
+124,Irregular,0.24,0.14,-59,1.92,Deep Inverted,487,Normal,Critical
+61,Irregular,0.11,0.08,-48,-0.18,Normal,432,Enlarged/Biphasic,Critical
+57,VF,0.19,0.14,-92,1.38,Tall,415,Absent/Flutter,Critical
+69,PACs/PVCs,0.12,0.14,-45,-0.7,Deep Inverted,409,Normal,Critical
+51,Irregular,0.28,0.09,-88,-0.39,Deep Inverted,352,Enlarged/Biphasic,Critical
+94,PACs/PVCs,0.17,0.08,-107,-1.77,Deep Inverted,418,Enlarged/Biphasic,Critical
+126,AFib,0.13,0.12,21,0.78,Mild Inverted,351,Enlarged/Biphasic,Critical
+112,AFib,0.1,0.08,139,1.19,Deep Inverted,419,Enlarged/Biphasic,Critical
+43,Irregular,0.18,0.13,29,-0.89,Flat,445,Normal,Critical
+90,PACs/PVCs,0.19,0.08,-2,0.48,Biphasic,443,Absent/Flutter,Critical
+109,PACs/PVCs,0.18,0.11,-10,-1.49,Mild Inverted,444,Normal,Critical
+128,Regular,0.26,0.1,38,-0.48,Biphasic,430,Absent/Flutter,Critical
+80,AFib,0.11,0.09,-43,-1.91,Flat,443,Enlarged/Biphasic,Critical
+83,VF,0.2,0.12,55,0.75,Biphasic,410,Enlarged/Biphasic,Risky
+61,VF,0.23,0.14,-106,1.17,Normal,450,Normal,Critical
+100,Regular,0.23,0.15,138,1.22,Tall,429,Absent/Flutter,Critical
+102,Regular,0.28,0.15,105,-1.37,Biphasic,497,Absent/Flutter,Critical
+114,VF,0.27,0.1,70,1.58,Mild Inverted,470,Absent/Flutter,Critical
+115,VF,0.27,0.15,-74,0.06,Mild Inverted,484,Enlarged/Biphasic,Critical
+49,Irregular,0.2,0.12,-119,1.4,Deep Inverted,467,Enlarged/Biphasic,Critical
+67,Regular,0.23,0.16,135,-0.57,Tall,351,Absent/Flutter,Critical
+111,Irregular,0.25,0.14,-31,0.66,Mild Inverted,355,Normal,Critical
+42,VF,0.27,0.13,10,-0.16,Flat,454,Enlarged/Biphasic,Critical
+113,VF,0.29,0.14,81,1.8,Normal,425,Absent/Flutter,Critical
+112,Irregular,0.13,0.14,102,-1.45,Tall,433,Normal,Critical
+63,Irregular,0.2,0.08,-67,1.83,Biphasic,412,Absent/Flutter,Critical
+80,VF,0.29,0.08,93,0.7,Tall,372,Normal,Critical
+108,AFib,0.23,0.08,-107,-0.31,Normal,479,Enlarged/Biphasic,Critical
+78,AFib,0.12,0.14,-37,0.93,Normal,378,Enlarged/Biphasic,Risky
+57,VF,0.12,0.1,53,-0.11,Flat,389,Absent/Flutter,Critical
+40,Regular,0.17,0.1,12,1.87,Normal,370,Absent/Flutter,Critical
+46,PACs/PVCs,0.15,0.09,-100,0.43,Biphasic,482,Absent/Flutter,Critical
+85,AFib,0.28,0.08,69,1.97,Tall,372,Normal,Critical
+115,VF,0.11,0.12,79,-1.03,Deep Inverted,425,Enlarged/Biphasic,Critical
+81,VF,0.23,0.16,-26,-0.04,Biphasic,415,Absent/Flutter,Critical
+62,Regular,0.3,0.14,-40,-1.91,Deep Inverted,341,Enlarged/Biphasic,Critical
+111,VF,0.18,0.12,-68,-1.09,Tall,439,Normal,Critical
+98,Irregular,0.16,0.09,78,-0.38,Deep Inverted,460,Absent/Flutter,Critical
+57,VF,0.23,0.13,132,1.83,Normal,369,Enlarged/Biphasic,Critical
+68,PACs/PVCs,0.3,0.13,-46,0.98,Flat,396,Absent/Flutter,Critical
+40,VF,0.21,0.16,8,1.59,Tall,345,Normal,Critical
+72,AFib,0.12,0.14,-44,-0.63,Biphasic,429,Enlarged/Biphasic,Risky
+83,Regular,0.27,0.13,-72,1.3,Flat,433,Enlarged/Biphasic,Critical
+82,PACs/PVCs,0.23,0.15,-97,1.92,Deep Inverted,463,Absent/Flutter,Critical
+81,Regular,0.28,0.14,1,0.0,Flat,400,Enlarged/Biphasic,Critical
+115,Irregular,0.14,0.09,44,-0.41,Deep Inverted,404,Normal,Critical
+77,AFib,0.26,0.1,40,1.46,Normal,385,Enlarged/Biphasic,Critical
+60,Irregular,0.16,0.15,76,0.53,Normal,453,Absent/Flutter,Critical
+81,VF,0.12,0.11,-115,-0.19,Tall,366,Enlarged/Biphasic,Critical
+42,PACs/PVCs,0.29,0.12,15,-1.71,Flat,445,Normal,Critical
+45,VF,0.16,0.14,111,-0.18,Deep Inverted,490,Normal,Critical
+97,Regular,0.11,0.14,-95,-1.43,Mild Inverted,453,Absent/Flutter,Critical
+120,VF,0.25,0.11,93,-0.98,Deep Inverted,449,Normal,Critical
+127,PACs/PVCs,0.28,0.15,-105,0.27,Tall,396,Enlarged/Biphasic,Critical
+117,Regular,0.25,0.16,-55,-1.24,Biphasic,377,Enlarged/Biphasic,Critical
+53,VF,0.23,0.09,-56,-1.24,Tall,383,Normal,Critical
+103,Regular,0.29,0.1,138,0.39,Tall,452,Absent/Flutter,Critical
+104,PACs/PVCs,0.11,0.08,111,1.69,Flat,359,Normal,Critical
+79,Irregular,0.18,0.13,-36,-0.84,Mild Inverted,367,Enlarged/Biphasic,Risky
+115,AFib,0.26,0.09,8,0.25,Flat,384,Enlarged/Biphasic,Critical
+40,Regular,0.29,0.15,-47,-0.7,Flat,369,Absent/Flutter,Critical
+66,VF,0.18,0.08,10,-0.1,Tall,354,Normal,Critical
+127,VF,0.23,0.08,-112,-1.99,Biphasic,394,Normal,Critical
+104,PACs/PVCs,0.18,0.08,-24,-0.25,Deep Inverted,374,Enlarged/Biphasic,Critical
+115,Regular,0.12,0.15,-102,1.81,Normal,374,Absent/Flutter,Critical
+127,Regular,0.19,0.14,-72,0.29,Flat,406,Enlarged/Biphasic,Critical
+77,Regular,0.3,0.1,42,-1.41,Flat,345,Enlarged/Biphasic,Critical
+100,Regular,0.21,0.11,-98,1.03,Tall,419,Enlarged/Biphasic,Critical
+124,VF,0.18,0.1,-67,-0.03,Mild Inverted,388,Normal,Critical
+119,PACs/PVCs,0.18,0.14,-100,-1.35,Normal,451,Enlarged/Biphasic,Critical
+90,Regular,0.23,0.14,-77,0.12,Normal,498,Normal,Critical
+58,Regular,0.17,0.16,40,0.93,Tall,364,Enlarged/Biphasic,Critical
+128,Regular,0.21,0.15,-40,-1.43,Deep Inverted,423,Normal,Critical
+94,AFib,0.26,0.16,48,1.14,Normal,397,Absent/Flutter,Critical
+74,Regular,0.29,0.11,-96,-0.62,Flat,434,Enlarged/Biphasic,Critical
+109,VF,0.24,0.1,-9,1.02,Biphasic,457,Absent/Flutter,Critical
+117,Irregular,0.12,0.15,92,0.74,Deep Inverted,483,Normal,Critical
+77,AFib,0.2,0.11,101,-1.46,Flat,402,Normal,Critical
+84,Regular,0.13,0.15,86,1.36,Mild Inverted,445,Absent/Flutter,Critical
+91,VF,0.2,0.13,84,-1.56,Mild Inverted,417,Enlarged/Biphasic,Critical
+121,Regular,0.15,0.14,-18,-1.91,Flat,352,Absent/Flutter,Critical
+118,Regular,0.11,0.09,67,0.94,Deep Inverted,488,Normal,Critical
+83,Irregular,0.22,0.11,130,-1.15,Flat,398,Enlarged/Biphasic,Critical
+46,Regular,0.21,0.15,-64,1.08,Normal,461,Normal,Critical
+46,Irregular,0.13,0.12,117,-0.63,Mild Inverted,412,Absent/Flutter,Critical
+79,Regular,0.11,0.13,-47,0.22,Deep Inverted,406,Normal,Critical
+64,AFib,0.17,0.14,11,0.78,Mild Inverted,460,Absent/Flutter,Critical
+127,PACs/PVCs,0.3,0.11,-102,0.81,Normal,444,Absent/Flutter,Critical
+97,Irregular,0.24,0.14,24,1.0,Mild Inverted,480,Normal,Critical
+73,PACs/PVCs,0.26,0.13,-110,-1.72,Tall,497,Normal,Critical
+51,VF,0.27,0.14,82,1.19,Mild Inverted,353,Enlarged/Biphasic,Critical
+125,AFib,0.14,0.1,-53,0.39,Flat,466,Absent/Flutter,Critical
+84,AFib,0.21,0.1,-66,-1.84,Mild Inverted,445,Absent/Flutter,Critical
+62,VF,0.15,0.12,-42,1.52,Normal,466,Absent/Flutter,Critical
+62,Regular,0.2,0.14,104,-1.74,Flat,355,Absent/Flutter,Critical
+68,Regular,0.13,0.13,-84,-0.47,Flat,494,Normal,Critical
+104,Irregular,0.16,0.08,103,-0.97,Biphasic,416,Normal,Risky
+118,Irregular,0.18,0.11,87,1.77,Biphasic,417,Enlarged/Biphasic,Critical
+109,AFib,0.19,0.13,-16,-0.53,Biphasic,369,Enlarged/Biphasic,Risky
+82,VF,0.2,0.14,128,-0.83,Deep Inverted,450,Enlarged/Biphasic,Critical
+65,Regular,0.17,0.16,129,1.03,Biphasic,379,Enlarged/Biphasic,Critical
+86,AFib,0.28,0.11,98,0.24,Deep Inverted,340,Normal,Critical
+93,PACs/PVCs,0.15,0.11,-59,-0.94,Biphasic,443,Normal,Risky
+78,Regular,0.24,0.15,101,-1.06,Flat,400,Absent/Flutter,Critical
+125,Irregular,0.17,0.15,-16,1.2,Deep Inverted,373,Enlarged/Biphasic,Critical
+49,PACs/PVCs,0.23,0.1,111,-0.51,Biphasic,377,Absent/Flutter,Critical
+109,PACs/PVCs,0.24,0.12,84,0.36,Tall,494,Normal,Critical
+97,AFib,0.15,0.1,-73,1.35,Tall,412,Absent/Flutter,Critical
+43,Irregular,0.16,0.12,-11,-0.36,Deep Inverted,402,Absent/Flutter,Critical
+113,Regular,0.16,0.16,49,-1.87,Biphasic,425,Absent/Flutter,Critical
+125,VF,0.26,0.11,-9,-1.68,Mild Inverted,458,Absent/Flutter,Critical
+82,PACs/PVCs,0.18,0.09,41,-1.49,Mild Inverted,415,Enlarged/Biphasic,Critical
+127,Regular,0.11,0.14,55,-0.89,Flat,445,Absent/Flutter,Critical
+108,PACs/PVCs,0.19,0.11,13,1.78,Flat,362,Enlarged/Biphasic,Critical
+103,Irregular,0.15,0.12,54,1.61,Deep Inverted,484,Enlarged/Biphasic,Critical
+72,VF,0.28,0.1,-76,-1.32,Flat,396,Enlarged/Biphasic,Critical
+125,AFib,0.11,0.14,42,1.25,Flat,362,Enlarged/Biphasic,Critical
+51,Regular,0.27,0.13,119,-0.05,Mild Inverted,431,Absent/Flutter,Critical
+58,Regular,0.15,0.14,-61,1.57,Deep Inverted,489,Absent/Flutter,Critical
+49,Regular,0.16,0.11,77,0.22,Deep Inverted,361,Absent/Flutter,Critical
+128,VF,0.28,0.1,-7,1.35,Biphasic,384,Enlarged/Biphasic,Critical
+48,Regular,0.16,0.15,-58,-1.48,Tall,484,Enlarged/Biphasic,Critical
+93,AFib,0.21,0.14,89,0.48,Deep Inverted,470,Normal,Critical
+113,Regular,0.22,0.14,-20,0.52,Normal,364,Normal,Critical
+114,VF,0.13,0.13,-100,0.18,Tall,386,Enlarged/Biphasic,Critical
+116,VF,0.21,0.16,97,-1.39,Normal,359,Absent/Flutter,Critical
+52,VF,0.24,0.16,57,-1.26,Mild Inverted,379,Enlarged/Biphasic,Critical
+118,PACs/PVCs,0.18,0.14,99,0.85,Mild Inverted,386,Normal,Critical
+46,PACs/PVCs,0.16,0.14,-4,-1.6,Tall,359,Absent/Flutter,Critical
+108,PACs/PVCs,0.19,0.11,61,-0.67,Mild Inverted,398,Enlarged/Biphasic,Risky
+119,PACs/PVCs,0.19,0.14,-107,-1.91,Normal,496,Normal,Critical
+49,VF,0.29,0.13,-93,-1.82,Flat,369,Normal,Critical
+109,Irregular,0.18,0.1,-2,1.48,Mild Inverted,403,Enlarged/Biphasic,Critical
+62,Regular,0.16,0.13,54,0.97,Mild Inverted,409,Absent/Flutter,Critical
+117,AFib,0.21,0.13,-80,1.75,Normal,461,Normal,Critical
+45,Irregular,0.27,0.09,-13,1.53,Tall,380,Enlarged/Biphasic,Critical
+67,PACs/PVCs,0.17,0.15,-27,1.22,Deep Inverted,466,Enlarged/Biphasic,Critical
+122,VF,0.24,0.14,-110,-0.79,Mild Inverted,340,Enlarged/Biphasic,Critical
+112,VF,0.12,0.08,80,0.57,Deep Inverted,480,Normal,Critical
+103,Regular,0.12,0.15,-33,1.56,Biphasic,357,Enlarged/Biphasic,Critical
+70,Irregular,0.13,0.12,76,1.21,Tall,449,Absent/Flutter,Critical
+101,AFib,0.18,0.15,141,-1.61,Mild Inverted,340,Enlarged/Biphasic,Critical
+74,AFib,0.15,0.08,134,1.34,Mild Inverted,367,Normal,Critical
+42,Irregular,0.25,0.14,-84,1.94,Biphasic,454,Normal,Critical
+61,PACs/PVCs,0.17,0.15,101,-1.64,Deep Inverted,371,Enlarged/Biphasic,Critical
+122,PACs/PVCs,0.12,0.1,-73,1.87,Mild Inverted,358,Normal,Critical
+42,VF,0.29,0.09,53,0.4,Deep Inverted,483,Absent/Flutter,Critical
+62,Irregular,0.16,0.15,-74,0.67,Tall,371,Absent/Flutter,Critical
+98,Irregular,0.24,0.1,74,1.91,Biphasic,443,Normal,Critical
+124,AFib,0.17,0.15,-56,-0.64,Mild Inverted,459,Normal,Critical
+107,VF,0.15,0.15,9,0.54,Biphasic,369,Enlarged/Biphasic,Critical
+102,VF,0.18,0.1,80,1.26,Mild Inverted,491,Normal,Critical
+76,Irregular,0.28,0.1,14,1.65,Biphasic,490,Absent/Flutter,Critical
+47,VF,0.2,0.1,-95,1.85,Flat,357,Normal,Critical
+47,AFib,0.22,0.08,-76,-0.69,Mild Inverted,488,Normal,Critical
+110,Irregular,0.29,0.15,-4,0.16,Biphasic,378,Enlarged/Biphasic,Critical
+41,Regular,0.14,0.09,-64,-0.67,Tall,455,Enlarged/Biphasic,Critical
+63,VF,0.11,0.13,131,-1.51,Normal,433,Normal,Critical
+116,Irregular,0.14,0.12,133,-1.04,Deep Inverted,358,Absent/Flutter,Critical
+123,Regular,0.13,0.13,90,1.62,Mild Inverted,435,Enlarged/Biphasic,Critical
+44,AFib,0.19,0.11,-76,-0.87,Deep Inverted,390,Enlarged/Biphasic,Critical
+110,Irregular,0.29,0.16,-20,1.75,Mild Inverted,473,Absent/Flutter,Critical
+94,Regular,0.18,0.16,137,1.05,Normal,375,Normal,Critical
+97,AFib,0.11,0.09,-38,-0.59,Normal,373,Enlarged/Biphasic,Critical
+96,Regular,0.21,0.13,56,-1.22,Normal,495,Normal,Critical
+108,PACs/PVCs,0.28,0.14,101,-0.06,Deep Inverted,408,Absent/Flutter,Critical
+76,VF,0.17,0.16,-19,-1.77,Normal,381,Normal,Critical
+108,VF,0.29,0.14,-55,0.88,Biphasic,354,Absent/Flutter,Critical
+95,PACs/PVCs,0.24,0.09,16,0.19,Biphasic,348,Enlarged/Biphasic,Critical
+45,VF,0.16,0.14,-84,1.37,Normal,478,Enlarged/Biphasic,Critical
+81,PACs/PVCs,0.23,0.1,-5,-0.88,Deep Inverted,431,Enlarged/Biphasic,Critical
+85,Irregular,0.13,0.11,137,1.6,Flat,418,Normal,Critical
+49,VF,0.17,0.14,-63,-0.96,Biphasic,419,Enlarged/Biphasic,Critical
+47,PACs/PVCs,0.1,0.1,82,-1.88,Mild Inverted,354,Normal,Critical
+97,Regular,0.15,0.1,-73,1.18,Normal,362,Enlarged/Biphasic,Critical
+80,VF,0.28,0.11,-72,0.82,Deep Inverted,498,Absent/Flutter,Critical
+60,AFib,0.22,0.14,49,0.98,Tall,449,Normal,Critical
+107,AFib,0.12,0.13,-79,-0.56,Deep Inverted,456,Absent/Flutter,Critical
+109,Irregular,0.29,0.14,-23,-1.41,Normal,413,Absent/Flutter,Critical
+45,PACs/PVCs,0.14,0.1,43,-0.26,Deep Inverted,402,Absent/Flutter,Critical
+108,Regular,0.28,0.14,-115,-0.19,Normal,425,Normal,Critical
+85,PACs/PVCs,0.13,0.08,136,-0.61,Tall,392,Enlarged/Biphasic,Critical
+57,Regular,0.29,0.11,-82,1.97,Mild Inverted,372,Normal,Critical
+90,Irregular,0.12,0.14,-55,-0.23,Deep Inverted,351,Enlarged/Biphasic,Critical
+67,VF,0.25,0.1,63,0.09,Mild Inverted,400,Normal,Risky
+93,AFib,0.21,0.09,-21,-0.68,Flat,482,Enlarged/Biphasic,Critical
+85,Irregular,0.22,0.16,-117,1.51,Mild Inverted,421,Absent/Flutter,Critical
+91,Regular,0.24,0.12,-32,1.41,Mild Inverted,485,Normal,Critical
+121,Irregular,0.13,0.16,24,0.92,Tall,481,Normal,Critical
+87,VF,0.27,0.11,16,-1.84,Biphasic,389,Enlarged/Biphasic,Critical
+43,AFib,0.2,0.1,89,1.95,Tall,349,Normal,Critical
+84,VF,0.19,0.13,-95,-0.86,Tall,388,Absent/Flutter,Critical
+73,VF,0.15,0.09,75,-0.7,Deep Inverted,377,Absent/Flutter,Critical
+71,AFib,0.2,0.12,13,-1.03,Deep Inverted,342,Enlarged/Biphasic,Critical
+122,AFib,0.19,0.11,-56,-0.87,Mild Inverted,449,Normal,Critical
+116,PACs/PVCs,0.25,0.12,62,-0.37,Deep Inverted,454,Enlarged/Biphasic,Critical
+100,AFib,0.2,0.14,96,0.38,Mild Inverted,496,Enlarged/Biphasic,Critical
+111,Irregular,0.13,0.1,75,-0.16,Deep Inverted,397,Absent/Flutter,Critical
+72,PACs/PVCs,0.24,0.14,29,-0.37,Normal,355,Normal,Critical
+54,PACs/PVCs,0.26,0.14,-58,-1.76,Normal,384,Enlarged/Biphasic,Critical
+47,VF,0.14,0.12,34,-0.55,Deep Inverted,423,Absent/Flutter,Critical
+60,VF,0.19,0.08,-109,-1.15,Biphasic,489,Enlarged/Biphasic,Critical
+123,Irregular,0.14,0.14,-13,-1.2,Biphasic,479,Normal,Critical
+47,VF,0.19,0.12,55,-0.32,Biphasic,466,Enlarged/Biphasic,Critical
+118,AFib,0.11,0.14,-88,0.36,Normal,462,Absent/Flutter,Critical
+70,Regular,0.21,0.13,66,0.8,Biphasic,347,Normal,Critical
+96,PACs/PVCs,0.23,0.16,-25,-0.88,Normal,402,Normal,Critical
+69,VF,0.25,0.15,77,-1.65,Deep Inverted,413,Absent/Flutter,Critical
+121,PACs/PVCs,0.26,0.1,-55,-0.35,Flat,404,Absent/Flutter,Critical
+43,Irregular,0.28,0.1,131,-0.1,Normal,351,Normal,Critical
+88,AFib,0.12,0.09,96,1.1,Biphasic,384,Absent/Flutter,Critical
+113,Regular,0.18,0.09,19,1.79,Normal,493,Absent/Flutter,Critical
+85,VF,0.12,0.12,37,1.02,Deep Inverted,441,Normal,Critical
+84,AFib,0.14,0.15,110,1.53,Normal,421,Absent/Flutter,Critical
+114,Irregular,0.14,0.15,-48,-1.4,Biphasic,403,Normal,Critical
+110,Regular,0.13,0.16,115,1.2,Deep Inverted,498,Normal,Critical
+42,Irregular,0.3,0.15,84,-0.03,Flat,416,Absent/Flutter,Critical
+43,AFib,0.13,0.14,21,-1.11,Deep Inverted,490,Normal,Critical
+119,Irregular,0.15,0.09,94,-1.96,Biphasic,421,Absent/Flutter,Critical
+78,Regular,0.17,0.15,-12,1.88,Flat,412,Absent/Flutter,Critical
+59,AFib,0.14,0.15,-86,0.75,Tall,486,Enlarged/Biphasic,Critical
+58,Regular,0.13,0.1,0,-1.73,Flat,350,Absent/Flutter,Critical
+53,Irregular,0.2,0.1,-67,0.71,Mild Inverted,408,Enlarged/Biphasic,Risky
+128,Regular,0.2,0.15,-93,-1.6,Normal,457,Enlarged/Biphasic,Critical
+88,Irregular,0.23,0.09,131,-0.07,Mild Inverted,362,Absent/Flutter,Critical
+43,Regular,0.18,0.15,-20,-0.45,Mild Inverted,430,Enlarged/Biphasic,Critical
+87,Irregular,0.25,0.15,-106,-0.5,Deep Inverted,498,Absent/Flutter,Critical
+58,Regular,0.24,0.11,134,1.44,Biphasic,453,Absent/Flutter,Critical
+72,PACs/PVCs,0.15,0.15,-33,-1.68,Normal,434,Absent/Flutter,Critical
+48,Irregular,0.16,0.11,-46,1.42,Flat,396,Absent/Flutter,Critical
+107,PACs/PVCs,0.17,0.11,138,0.64,Deep Inverted,353,Normal,Critical
+110,AFib,0.18,0.13,93,0.4,Biphasic,414,Absent/Flutter,Critical
+81,Regular,0.14,0.13,64,1.54,Mild Inverted,370,Normal,Critical
+116,AFib,0.2,0.14,144,1.41,Deep Inverted,443,Absent/Flutter,Critical
+101,PACs/PVCs,0.12,0.13,-67,1.89,Mild Inverted,364,Normal,Critical
+74,AFib,0.21,0.11,74,-0.49,Mild Inverted,436,Absent/Flutter,Critical
+68,AFib,0.17,0.15,8,-0.49,Biphasic,486,Normal,Critical
+109,PACs/PVCs,0.27,0.14,-2,-1.63,Mild Inverted,408,Enlarged/Biphasic,Critical
+111,PACs/PVCs,0.24,0.12,57,-1.31,Biphasic,424,Normal,Critical
+40,PACs/PVCs,0.12,0.16,149,1.19,Mild Inverted,402,Absent/Flutter,Critical
+119,Regular,0.19,0.13,88,0.54,Flat,392,Absent/Flutter,Critical
+128,Regular,0.26,0.15,-76,-1.54,Mild Inverted,493,Normal,Critical
+58,Regular,0.14,0.1,-87,-0.06,Mild Inverted,415,Normal,Risky
+83,PACs/PVCs,0.22,0.11,64,1.74,Flat,498,Enlarged/Biphasic,Critical
+83,Regular,0.19,0.1,99,1.09,Flat,437,Normal,Critical
+69,Irregular,0.24,0.14,-2,1.48,Deep Inverted,437,Normal,Critical
+46,Irregular,0.17,0.12,-15,-0.08,Normal,465,Enlarged/Biphasic,Critical
+119,VF,0.19,0.12,-87,0.97,Deep Inverted,448,Absent/Flutter,Critical
+96,Irregular,0.21,0.12,-60,-1.11,Tall,387,Normal,Critical
+53,Irregular,0.23,0.1,14,-1.13,Flat,471,Normal,Critical
+87,VF,0.17,0.15,-27,0.07,Normal,430,Enlarged/Biphasic,Critical
+64,PACs/PVCs,0.16,0.15,139,-1.22,Mild Inverted,365,Absent/Flutter,Critical
+70,AFib,0.29,0.1,93,-1.87,Biphasic,340,Absent/Flutter,Critical
+40,AFib,0.12,0.12,-115,-0.9,Biphasic,375,Enlarged/Biphasic,Critical
+81,PACs/PVCs,0.22,0.15,120,-0.04,Tall,453,Enlarged/Biphasic,Critical
+116,VF,0.24,0.15,-110,-0.83,Tall,375,Absent/Flutter,Critical
+85,AFib,0.19,0.09,68,1.93,Deep Inverted,419,Absent/Flutter,Critical
+83,Irregular,0.18,0.09,3,0.02,Tall,354,Enlarged/Biphasic,Critical
+111,VF,0.11,0.09,142,-1.65,Biphasic,469,Normal,Critical
+78,AFib,0.29,0.12,-15,1.26,Deep Inverted,466,Normal,Critical
+70,Irregular,0.24,0.16,-120,-1.1,Flat,458,Absent/Flutter,Critical
+87,Regular,0.29,0.12,62,-0.57,Deep Inverted,365,Absent/Flutter,Critical
+103,AFib,0.27,0.16,70,0.44,Tall,480,Enlarged/Biphasic,Critical
+84,Regular,0.26,0.1,-40,-0.03,Tall,403,Normal,Critical
+106,AFib,0.1,0.08,-29,-1.95,Deep Inverted,390,Normal,Critical
+47,Regular,0.22,0.12,-21,0.45,Flat,482,Enlarged/Biphasic,Critical
+98,VF,0.18,0.11,-74,-1.18,Flat,496,Normal,Critical
+50,AFib,0.23,0.16,-76,-1.33,Biphasic,403,Enlarged/Biphasic,Critical
+105,AFib,0.1,0.16,5,-1.17,Biphasic,354,Normal,Critical
+50,PACs/PVCs,0.17,0.12,-117,-1.5,Mild Inverted,370,Absent/Flutter,Critical
+64,Regular,0.26,0.14,143,0.37,Tall,455,Absent/Flutter,Critical
+59,VF,0.27,0.09,97,0.05,Biphasic,423,Enlarged/Biphasic,Critical
+47,PACs/PVCs,0.28,0.14,106,1.94,Biphasic,422,Absent/Flutter,Critical
+46,PACs/PVCs,0.25,0.15,28,1.09,Normal,346,Enlarged/Biphasic,Critical
+42,PACs/PVCs,0.21,0.13,-45,-0.16,Flat,378,Absent/Flutter,Critical
+85,VF,0.15,0.13,-117,-1.39,Biphasic,433,Normal,Critical
+123,Irregular,0.28,0.09,-89,-1.74,Mild Inverted,464,Enlarged/Biphasic,Critical
+102,PACs/PVCs,0.27,0.11,9,-0.57,Normal,415,Enlarged/Biphasic,Critical
+109,VF,0.14,0.14,53,1.08,Biphasic,370,Absent/Flutter,Critical
+68,PACs/PVCs,0.29,0.12,83,-1.59,Normal,459,Absent/Flutter,Critical
+97,VF,0.15,0.11,-111,-1.38,Mild Inverted,452,Normal,Critical
+40,Irregular,0.3,0.14,-56,-1.92,Tall,463,Enlarged/Biphasic,Critical
+116,VF,0.16,0.11,26,-0.87,Biphasic,347,Normal,Critical
+58,VF,0.15,0.15,128,0.73,Deep Inverted,426,Normal,Critical
+67,PACs/PVCs,0.27,0.1,103,-1.35,Mild Inverted,423,Enlarged/Biphasic,Critical
+93,Regular,0.26,0.15,147,-1.25,Biphasic,391,Normal,Critical
+116,VF,0.29,0.11,-47,-1.97,Deep Inverted,378,Absent/Flutter,Critical
+75,VF,0.24,0.11,-73,0.8,Tall,374,Absent/Flutter,Critical
+117,AFib,0.18,0.12,-59,0.21,Mild Inverted,416,Absent/Flutter,Critical
+46,Irregular,0.27,0.14,-13,-1.78,Flat,470,Normal,Critical
+103,Regular,0.29,0.13,122,-0.48,Biphasic,366,Enlarged/Biphasic,Critical
+102,Irregular,0.27,0.16,-106,-1.39,Biphasic,364,Normal,Critical
+46,VF,0.27,0.11,-60,-1.8,Flat,442,Normal,Critical
+114,VF,0.21,0.09,79,0.14,Normal,491,Normal,Critical
+67,Irregular,0.17,0.11,134,-1.96,Mild Inverted,405,Normal,Critical
+118,VF,0.14,0.12,60,0.02,Deep Inverted,436,Enlarged/Biphasic,Critical
+77,AFib,0.19,0.1,108,0.61,Deep Inverted,448,Enlarged/Biphasic,Critical
+109,AFib,0.16,0.09,58,-0.01,Mild Inverted,408,Absent/Flutter,Critical
+44,VF,0.19,0.12,-34,-1.43,Biphasic,354,Normal,Critical
+90,Irregular,0.22,0.09,148,-0.35,Flat,358,Enlarged/Biphasic,Critical
+67,AFib,0.2,0.12,-108,0.92,Deep Inverted,378,Normal,Critical
+62,PACs/PVCs,0.17,0.11,-9,-1.98,Biphasic,353,Normal,Critical
+51,AFib,0.25,0.1,-24,0.87,Flat,366,Normal,Risky
+100,VF,0.27,0.15,-47,0.83,Tall,448,Normal,Critical
+123,VF,0.13,0.13,25,0.55,Tall,493,Enlarged/Biphasic,Critical
+48,PACs/PVCs,0.21,0.08,60,1.47,Mild Inverted,471,Enlarged/Biphasic,Critical
+102,AFib,0.29,0.1,58,0.72,Normal,381,Enlarged/Biphasic,Critical
+101,VF,0.19,0.14,71,1.75,Normal,415,Normal,Critical
+72,Irregular,0.24,0.15,50,-0.64,Deep Inverted,371,Normal,Critical
+121,Regular,0.24,0.16,-14,0.16,Flat,358,Absent/Flutter,Critical
+43,Regular,0.24,0.09,103,-1.12,Tall,416,Normal,Critical
+59,VF,0.23,0.15,135,-0.1,Tall,431,Enlarged/Biphasic,Critical
+116,AFib,0.2,0.14,120,-0.47,Mild Inverted,377,Normal,Critical
+103,VF,0.2,0.08,37,-0.91,Mild Inverted,354,Enlarged/Biphasic,Critical
+119,AFib,0.18,0.11,-93,-1.4,Flat,415,Enlarged/Biphasic,Critical
+61,VF,0.15,0.14,84,1.04,Mild Inverted,453,Normal,Critical
+102,Irregular,0.15,0.1,25,1.05,Mild Inverted,421,Normal,Critical
+79,Regular,0.25,0.09,-103,-1.62,Biphasic,340,Absent/Flutter,Critical
+53,Irregular,0.11,0.14,-114,-0.99,Normal,380,Enlarged/Biphasic,Critical
+40,Irregular,0.23,0.11,-49,1.05,Biphasic,361,Enlarged/Biphasic,Critical
+77,AFib,0.21,0.08,-85,0.26,Mild Inverted,440,Enlarged/Biphasic,Risky
+49,Irregular,0.2,0.1,-19,-0.57,Normal,429,Absent/Flutter,Critical
+54,PACs/PVCs,0.21,0.16,28,-1.71,Flat,446,Absent/Flutter,Critical
+66,Irregular,0.1,0.1,74,1.02,Flat,443,Absent/Flutter,Critical
+71,VF,0.18,0.13,142,-1.44,Tall,497,Normal,Critical
+111,VF,0.23,0.09,108,-0.13,Tall,444,Absent/Flutter,Critical
+115,AFib,0.28,0.16,121,-0.93,Tall,366,Enlarged/Biphasic,Critical
+65,Regular,0.26,0.09,-87,-1.32,Mild Inverted,466,Normal,Critical
+99,Regular,0.18,0.11,-109,-0.49,Normal,349,Normal,Critical
+107,Regular,0.23,0.15,6,-0.66,Mild Inverted,445,Normal,Critical
+99,AFib,0.17,0.11,-60,-1.27,Tall,354,Absent/Flutter,Critical
+94,AFib,0.14,0.08,49,1.82,Mild Inverted,481,Normal,Critical
+83,Regular,0.14,0.12,9,0.91,Biphasic,413,Enlarged/Biphasic,Risky
+67,PACs/PVCs,0.22,0.16,-64,-0.13,Mild Inverted,357,Normal,Critical
+70,Irregular,0.23,0.13,-44,-0.14,Biphasic,447,Absent/Flutter,Critical
+59,AFib,0.27,0.15,-97,-0.82,Biphasic,357,Normal,Critical
+125,VF,0.17,0.15,-70,-1.57,Mild Inverted,405,Enlarged/Biphasic,Critical
+80,PACs/PVCs,0.12,0.08,-37,-0.74,Deep Inverted,428,Normal,Critical
+78,Irregular,0.24,0.11,-110,1.49,Normal,465,Enlarged/Biphasic,Critical
+95,Regular,0.14,0.09,82,0.39,Tall,388,Absent/Flutter,Critical
+52,Regular,0.28,0.12,34,-0.6,Mild Inverted,414,Enlarged/Biphasic,Critical
+125,AFib,0.21,0.11,-70,0.09,Biphasic,373,Normal,Critical
+94,Regular,0.21,0.13,-88,1.42,Normal,469,Normal,Critical
+68,PACs/PVCs,0.1,0.11,-85,0.89,Normal,369,Absent/Flutter,Critical
+72,Irregular,0.21,0.11,26,1.91,Biphasic,393,Normal,Critical
+79,AFib,0.15,0.13,127,1.37,Normal,444,Normal,Critical
+91,PACs/PVCs,0.27,0.1,49,0.39,Normal,390,Absent/Flutter,Critical
+100,PACs/PVCs,0.29,0.13,-78,1.22,Tall,356,Enlarged/Biphasic,Critical
+129,PACs/PVCs,0.17,0.09,32,1.48,Mild Inverted,432,Absent/Flutter,Critical
+115,Irregular,0.24,0.15,54,1.61,Deep Inverted,445,Absent/Flutter,Critical
+90,PACs/PVCs,0.22,0.08,122,-0.96,Mild Inverted,437,Normal,Critical
+99,PACs/PVCs,0.27,0.12,-17,-1.8,Flat,496,Absent/Flutter,Critical
+127,Irregular,0.18,0.14,-11,0.26,Flat,460,Enlarged/Biphasic,Critical
+82,VF,0.26,0.11,-33,-0.04,Tall,438,Absent/Flutter,Critical
+109,Regular,0.21,0.1,55,1.74,Normal,356,Absent/Flutter,Critical
+88,PACs/PVCs,0.21,0.13,17,-1.75,Deep Inverted,358,Normal,Critical
+85,PACs/PVCs,0.17,0.15,84,0.48,Biphasic,493,Absent/Flutter,Critical
+62,VF,0.16,0.15,65,0.78,Tall,356,Normal,Critical
+67,Regular,0.24,0.1,-68,-0.08,Deep Inverted,456,Absent/Flutter,Critical
+120,Regular,0.26,0.16,-104,-0.06,Flat,348,Absent/Flutter,Critical
+48,VF,0.28,0.11,77,-0.5,Normal,430,Enlarged/Biphasic,Critical
+44,VF,0.12,0.11,62,-1.92,Deep Inverted,375,Absent/Flutter,Critical
+121,Regular,0.14,0.15,-114,-0.25,Mild Inverted,406,Enlarged/Biphasic,Critical
+124,Irregular,0.28,0.08,142,-1.57,Flat,428,Enlarged/Biphasic,Critical
+69,VF,0.11,0.13,75,1.78,Flat,464,Absent/Flutter,Critical
+119,VF,0.23,0.12,-14,-0.86,Flat,402,Absent/Flutter,Critical
+110,AFib,0.2,0.11,41,0.32,Flat,487,Normal,Critical
+45,PACs/PVCs,0.12,0.09,91,-0.17,Deep Inverted,384,Enlarged/Biphasic,Critical
+49,AFib,0.18,0.12,-42,-1.14,Tall,489,Absent/Flutter,Critical
+100,PACs/PVCs,0.14,0.13,66,0.9,Tall,427,Normal,Critical
+59,PACs/PVCs,0.2,0.08,21,1.76,Tall,352,Normal,Critical
+75,Irregular,0.25,0.09,-42,1.91,Deep Inverted,429,Enlarged/Biphasic,Critical
+85,PACs/PVCs,0.1,0.09,132,-0.67,Tall,452,Absent/Flutter,Critical
+111,Irregular,0.18,0.13,80,-0.12,Deep Inverted,460,Normal,Critical
+84,AFib,0.12,0.14,67,1.52,Normal,436,Normal,Critical
+120,PACs/PVCs,0.28,0.12,15,0.44,Normal,340,Normal,Critical
+69,VF,0.14,0.09,-50,0.09,Flat,441,Absent/Flutter,Critical
+125,PACs/PVCs,0.22,0.1,108,-0.3,Normal,479,Enlarged/Biphasic,Critical
+41,Irregular,0.16,0.15,-38,0.22,Tall,384,Absent/Flutter,Critical
+52,PACs/PVCs,0.15,0.14,-73,1.29,Biphasic,451,Normal,Critical
+46,Irregular,0.29,0.12,-112,-0.57,Normal,446,Normal,Critical
+52,Irregular,0.27,0.11,-12,-1.42,Biphasic,463,Absent/Flutter,Critical
+47,Regular,0.27,0.13,114,-0.05,Normal,366,Normal,Critical
+100,VF,0.28,0.14,66,1.23,Tall,487,Normal,Critical
+118,PACs/PVCs,0.15,0.15,66,0.66,Mild Inverted,398,Absent/Flutter,Critical
+51,Regular,0.13,0.09,-119,1.2,Mild Inverted,473,Normal,Critical
+66,Regular,0.14,0.08,82,0.54,Biphasic,348,Normal,Critical
+92,Irregular,0.27,0.15,110,-1.65,Deep Inverted,403,Absent/Flutter,Critical
+117,Regular,0.13,0.12,-42,1.1,Tall,426,Enlarged/Biphasic,Critical
+95,VF,0.15,0.14,137,-0.79,Normal,449,Absent/Flutter,Critical
+123,AFib,0.14,0.14,47,1.98,Mild Inverted,466,Absent/Flutter,Critical
+103,AFib,0.15,0.14,-6,-0.9,Flat,343,Absent/Flutter,Critical
+114,Irregular,0.28,0.09,149,-0.96,Mild Inverted,428,Normal,Critical
+94,VF,0.12,0.13,113,-0.7,Tall,468,Enlarged/Biphasic,Critical
+73,AFib,0.12,0.11,-39,-0.95,Mild Inverted,471,Enlarged/Biphasic,Critical
+106,AFib,0.24,0.14,-62,0.58,Mild Inverted,489,Enlarged/Biphasic,Critical
+56,AFib,0.29,0.11,118,0.96,Deep Inverted,458,Absent/Flutter,Critical
+117,PACs/PVCs,0.26,0.09,55,-1.58,Deep Inverted,475,Enlarged/Biphasic,Critical
+69,PACs/PVCs,0.12,0.14,-42,-1.58,Flat,478,Enlarged/Biphasic,Critical
+97,Regular,0.22,0.11,99,-1.24,Normal,488,Normal,Critical
+94,Regular,0.29,0.12,62,-1.03,Flat,385,Normal,Critical
+65,VF,0.19,0.15,-117,0.03,Normal,417,Absent/Flutter,Critical
+81,Irregular,0.11,0.09,9,-0.52,Tall,472,Absent/Flutter,Critical
+71,VF,0.26,0.09,120,-0.25,Flat,459,Enlarged/Biphasic,Critical
+110,PACs/PVCs,0.22,0.14,-100,0.49,Flat,477,Absent/Flutter,Critical
+126,Regular,0.26,0.14,-90,-1.3,Tall,393,Enlarged/Biphasic,Critical
+67,Regular,0.18,0.14,54,1.86,Flat,487,Normal,Critical
+114,AFib,0.11,0.09,-70,1.29,Deep Inverted,429,Normal,Critical
+64,Irregular,0.28,0.11,-53,0.06,Mild Inverted,359,Absent/Flutter,Critical
+74,Regular,0.18,0.08,-36,-0.98,Flat,340,Enlarged/Biphasic,Critical
+84,PACs/PVCs,0.21,0.13,-62,0.31,Deep Inverted,358,Normal,Critical
+128,Regular,0.2,0.11,-37,-1.27,Normal,392,Enlarged/Biphasic,Critical
+125,PACs/PVCs,0.18,0.14,-104,-0.28,Deep Inverted,344,Normal,Critical
+90,AFib,0.12,0.1,-56,-1.51,Biphasic,454,Absent/Flutter,Critical
+125,AFib,0.15,0.09,-90,-1.78,Biphasic,378,Enlarged/Biphasic,Critical
+106,Irregular,0.23,0.12,11,-0.95,Flat,381,Normal,Risky
+109,Regular,0.29,0.12,-103,-1.43,Normal,397,Enlarged/Biphasic,Critical
+75,PACs/PVCs,0.26,0.12,126,1.24,Normal,462,Absent/Flutter,Critical
+123,Irregular,0.15,0.12,-24,-0.91,Deep Inverted,400,Enlarged/Biphasic,Critical
+51,AFib,0.17,0.14,89,0.56,Tall,389,Normal,Critical
+66,AFib,0.21,0.11,-116,0.98,Tall,487,Absent/Flutter,Critical
+111,Irregular,0.2,0.11,110,1.66,Biphasic,393,Enlarged/Biphasic,Critical
+82,Regular,0.17,0.14,18,0.59,Deep Inverted,344,Normal,Critical
+70,VF,0.12,0.13,78,1.45,Deep Inverted,418,Enlarged/Biphasic,Critical
+91,VF,0.17,0.14,67,0.27,Normal,448,Normal,Risky
+97,PACs/PVCs,0.11,0.13,-120,-1.26,Biphasic,363,Normal,Critical
+49,AFib,0.21,0.13,114,0.54,Deep Inverted,400,Absent/Flutter,Critical
+126,PACs/PVCs,0.24,0.12,-119,-0.05,Normal,498,Enlarged/Biphasic,Critical
+89,Regular,0.15,0.13,50,-0.27,Tall,410,Absent/Flutter,Critical
+90,AFib,0.29,0.16,121,1.16,Deep Inverted,487,Absent/Flutter,Critical
+110,Irregular,0.19,0.16,27,-0.02,Tall,350,Absent/Flutter,Critical
+121,Regular,0.19,0.12,36,1.63,Flat,408,Enlarged/Biphasic,Critical
+123,PACs/PVCs,0.29,0.11,74,-0.2,Normal,415,Enlarged/Biphasic,Critical
+46,Regular,0.12,0.1,-17,-0.16,Biphasic,352,Absent/Flutter,Critical
+101,VF,0.24,0.14,-113,0.37,Flat,439,Normal,Critical
+52,Irregular,0.12,0.16,3,0.83,Flat,427,Absent/Flutter,Critical
+100,AFib,0.16,0.13,77,-0.19,Flat,363,Normal,Risky
+52,VF,0.23,0.09,121,0.81,Deep Inverted,342,Enlarged/Biphasic,Critical
+83,Irregular,0.25,0.16,149,1.91,Flat,450,Absent/Flutter,Critical
+111,Regular,0.2,0.1,30,-1.47,Normal,421,Normal,Critical
+99,PACs/PVCs,0.27,0.11,-109,1.27,Biphasic,398,Normal,Critical
+80,Irregular,0.16,0.08,-76,1.08,Biphasic,489,Absent/Flutter,Critical
+119,PACs/PVCs,0.3,0.11,-44,-1.99,Flat,374,Absent/Flutter,Critical
+68,Regular,0.26,0.15,148,-0.71,Biphasic,362,Absent/Flutter,Critical
+41,Irregular,0.21,0.12,-15,1.04,Tall,391,Enlarged/Biphasic,Critical
+107,VF,0.13,0.13,61,1.52,Flat,482,Absent/Flutter,Critical
+95,Irregular,0.29,0.11,-80,-0.59,Biphasic,352,Absent/Flutter,Critical
+43,VF,0.18,0.09,121,0.34,Normal,435,Enlarged/Biphasic,Critical
+94,PACs/PVCs,0.11,0.12,-59,0.6,Deep Inverted,474,Enlarged/Biphasic,Critical
+52,Regular,0.14,0.09,17,-1.39,Flat,469,Enlarged/Biphasic,Critical
+117,Regular,0.2,0.13,32,0.85,Deep Inverted,351,Enlarged/Biphasic,Critical
+101,Irregular,0.23,0.15,75,1.09,Deep Inverted,484,Enlarged/Biphasic,Critical
+77,Regular,0.2,0.12,-12,-0.03,Deep Inverted,457,Absent/Flutter,Critical
+111,VF,0.16,0.13,74,-1.6,Biphasic,417,Absent/Flutter,Critical
+80,PACs/PVCs,0.24,0.12,137,-1.42,Biphasic,442,Enlarged/Biphasic,Critical
+102,VF,0.15,0.14,43,1.23,Mild Inverted,453,Absent/Flutter,Critical
+119,Irregular,0.19,0.15,-12,1.98,Tall,413,Enlarged/Biphasic,Critical
+46,Irregular,0.26,0.1,66,-0.91,Biphasic,390,Absent/Flutter,Critical
+98,PACs/PVCs,0.28,0.08,135,1.19,Mild Inverted,486,Normal,Critical
+66,AFib,0.27,0.12,77,0.04,Normal,367,Normal,Critical
+90,Regular,0.19,0.15,-85,-1.16,Deep Inverted,345,Absent/Flutter,Critical
+41,Regular,0.23,0.11,-22,-0.76,Normal,408,Absent/Flutter,Critical
+129,AFib,0.27,0.14,136,-1.22,Tall,361,Absent/Flutter,Critical
+90,Regular,0.22,0.13,144,1.9,Flat,352,Enlarged/Biphasic,Critical
+94,VF,0.19,0.13,23,-1.06,Deep Inverted,466,Absent/Flutter,Critical
+72,Irregular,0.27,0.14,76,0.48,Tall,372,Absent/Flutter,Critical
+71,Regular,0.19,0.14,62,0.0,Biphasic,371,Enlarged/Biphasic,Risky
+123,VF,0.23,0.1,-75,0.73,Normal,403,Absent/Flutter,Critical
+103,Regular,0.17,0.09,101,0.08,Biphasic,357,Absent/Flutter,Critical
+87,AFib,0.3,0.13,67,0.62,Deep Inverted,418,Normal,Critical
+117,Irregular,0.19,0.12,94,-1.65,Normal,430,Normal,Critical
+54,PACs/PVCs,0.25,0.1,-44,1.42,Biphasic,433,Enlarged/Biphasic,Critical
+91,AFib,0.23,0.08,92,-0.34,Tall,449,Enlarged/Biphasic,Critical
+120,PACs/PVCs,0.13,0.13,149,0.32,Flat,399,Enlarged/Biphasic,Critical
+58,VF,0.19,0.14,81,-1.56,Deep Inverted,370,Absent/Flutter,Critical
+116,Irregular,0.13,0.09,-25,0.7,Tall,494,Normal,Critical
+60,VF,0.22,0.15,13,-1.61,Flat,343,Absent/Flutter,Critical
+105,Regular,0.22,0.1,56,1.72,Tall,469,Absent/Flutter,Critical
+42,Irregular,0.1,0.08,-82,-1.09,Tall,341,Normal,Critical
+119,Regular,0.18,0.14,33,-1.1,Deep Inverted,454,Absent/Flutter,Critical
+123,PACs/PVCs,0.16,0.15,0,1.8,Mild Inverted,496,Absent/Flutter,Critical
+47,Regular,0.17,0.15,-113,0.34,Mild Inverted,359,Absent/Flutter,Critical
+55,VF,0.16,0.1,17,-1.31,Biphasic,458,Enlarged/Biphasic,Critical
+110,AFib,0.12,0.08,104,-1.36,Mild Inverted,347,Normal,Critical
+61,Irregular,0.24,0.15,-67,1.7,Normal,343,Absent/Flutter,Critical
+112,PACs/PVCs,0.17,0.13,108,0.3,Flat,480,Normal,Critical
+65,VF,0.27,0.13,6,1.1,Tall,489,Enlarged/Biphasic,Critical
+115,AFib,0.19,0.11,-97,-0.45,Deep Inverted,361,Normal,Critical
+100,Irregular,0.14,0.09,-119,-1.18,Flat,461,Absent/Flutter,Critical
+42,AFib,0.12,0.09,18,-0.83,Tall,474,Enlarged/Biphasic,Critical
+58,AFib,0.27,0.14,-76,0.04,Normal,390,Absent/Flutter,Critical
+87,AFib,0.29,0.13,8,-1.69,Tall,454,Enlarged/Biphasic,Critical
+77,Regular,0.16,0.14,-77,-0.8,Tall,387,Normal,Critical
+55,Irregular,0.28,0.13,-92,-0.98,Normal,397,Normal,Critical
+51,Regular,0.22,0.08,57,0.07,Flat,393,Normal,Risky
+65,AFib,0.17,0.09,-63,-0.85,Flat,374,Absent/Flutter,Critical
+60,VF,0.22,0.1,20,1.32,Deep Inverted,388,Normal,Critical
+55,Regular,0.27,0.09,-108,-1.97,Normal,359,Absent/Flutter,Critical
+66,PACs/PVCs,0.19,0.12,-14,1.1,Tall,395,Normal,Critical
+117,PACs/PVCs,0.27,0.12,13,-0.34,Deep Inverted,413,Absent/Flutter,Critical
+82,VF,0.22,0.13,75,0.09,Flat,420,Absent/Flutter,Critical
+102,Irregular,0.17,0.09,141,0.12,Deep Inverted,441,Absent/Flutter,Critical
+51,PACs/PVCs,0.26,0.09,-15,1.91,Mild Inverted,487,Normal,Critical
+120,Regular,0.21,0.09,-37,-1.85,Mild Inverted,373,Absent/Flutter,Critical
+92,Irregular,0.15,0.14,7,0.16,Deep Inverted,346,Normal,Critical
+45,Irregular,0.18,0.13,-61,-1.41,Flat,363,Absent/Flutter,Critical
+77,PACs/PVCs,0.24,0.15,143,-0.16,Biphasic,378,Enlarged/Biphasic,Critical
+44,AFib,0.3,0.14,-79,0.09,Flat,404,Absent/Flutter,Critical
+73,AFib,0.15,0.12,94,-1.33,Biphasic,365,Absent/Flutter,Critical
+72,VF,0.16,0.14,-1,-1.14,Biphasic,494,Absent/Flutter,Critical
+72,Regular,0.18,0.1,86,-0.77,Deep Inverted,359,Absent/Flutter,Critical
+58,Irregular,0.26,0.15,-65,-0.37,Mild Inverted,376,Absent/Flutter,Critical
+44,VF,0.13,0.1,9,1.34,Mild Inverted,417,Normal,Critical
+50,Irregular,0.23,0.13,68,0.51,Tall,455,Absent/Flutter,Critical
+113,AFib,0.22,0.09,100,1.51,Biphasic,449,Absent/Flutter,Critical
+72,Regular,0.27,0.13,25,-0.61,Flat,360,Absent/Flutter,Critical
+64,AFib,0.14,0.13,130,-1.7,Mild Inverted,392,Normal,Critical
+56,Irregular,0.27,0.12,80,-0.86,Mild Inverted,342,Enlarged/Biphasic,Critical
+47,Regular,0.11,0.11,-14,1.79,Flat,496,Normal,Critical
+75,VF,0.3,0.13,95,-1.97,Deep Inverted,438,Absent/Flutter,Critical
+40,AFib,0.24,0.15,66,0.98,Flat,343,Enlarged/Biphasic,Critical
+83,VF,0.19,0.14,137,-0.86,Mild Inverted,412,Absent/Flutter,Critical
+55,PACs/PVCs,0.29,0.11,56,0.58,Tall,499,Normal,Critical
+89,Irregular,0.12,0.11,-66,0.84,Mild Inverted,383,Normal,Risky
+90,AFib,0.21,0.12,76,1.12,Normal,360,Enlarged/Biphasic,Critical
+65,Regular,0.21,0.15,122,0.4,Tall,409,Absent/Flutter,Critical
+127,VF,0.23,0.15,18,-1.61,Mild Inverted,461,Enlarged/Biphasic,Critical
+115,AFib,0.27,0.11,33,0.46,Flat,417,Normal,Critical
+61,Regular,0.19,0.11,-78,0.66,Normal,489,Enlarged/Biphasic,Critical
+52,PACs/PVCs,0.18,0.1,-51,-0.49,Biphasic,352,Absent/Flutter,Critical
+66,VF,0.25,0.1,90,-1.55,Tall,392,Absent/Flutter,Critical
+41,PACs/PVCs,0.24,0.08,0,-0.17,Deep Inverted,494,Enlarged/Biphasic,Critical
+90,VF,0.23,0.12,4,1.84,Mild Inverted,365,Normal,Critical
+80,Regular,0.26,0.12,-39,-1.78,Biphasic,496,Absent/Flutter,Critical
+66,VF,0.29,0.09,71,-0.16,Tall,481,Enlarged/Biphasic,Critical
+41,VF,0.23,0.13,111,1.91,Deep Inverted,495,Enlarged/Biphasic,Critical
+63,AFib,0.14,0.12,33,-1.65,Normal,442,Normal,Critical
+114,PACs/PVCs,0.12,0.12,137,1.49,Biphasic,433,Normal,Critical
+93,AFib,0.28,0.11,124,-0.7,Tall,347,Enlarged/Biphasic,Critical
+68,AFib,0.13,0.12,-117,-0.52,Mild Inverted,373,Absent/Flutter,Critical
+122,VF,0.28,0.09,85,1.08,Flat,488,Absent/Flutter,Critical
+51,VF,0.29,0.12,-62,-0.58,Flat,340,Absent/Flutter,Critical
+112,AFib,0.11,0.09,-76,0.71,Flat,481,Enlarged/Biphasic,Critical
+94,AFib,0.18,0.08,18,-0.98,Mild Inverted,441,Enlarged/Biphasic,Risky
+61,Irregular,0.26,0.09,-107,1.81,Tall,400,Absent/Flutter,Critical
+114,PACs/PVCs,0.2,0.16,148,-0.9,Tall,413,Enlarged/Biphasic,Critical
+55,PACs/PVCs,0.27,0.14,-16,1.93,Normal,422,Enlarged/Biphasic,Critical
+98,PACs/PVCs,0.3,0.14,12,-0.08,Tall,392,Normal,Critical
+129,PACs/PVCs,0.23,0.14,-54,0.97,Mild Inverted,400,Normal,Critical
+92,Irregular,0.24,0.14,-119,0.05,Biphasic,419,Normal,Critical
+99,AFib,0.2,0.1,83,-0.57,Deep Inverted,417,Absent/Flutter,Critical
+71,AFib,0.27,0.15,-9,1.42,Flat,440,Normal,Critical
+92,PACs/PVCs,0.2,0.09,-9,0.28,Normal,389,Enlarged/Biphasic,Risky
+55,VF,0.2,0.12,133,0.24,Flat,426,Absent/Flutter,Critical
+97,Regular,0.19,0.1,115,-1.71,Deep Inverted,492,Normal,Critical
+58,AFib,0.2,0.08,125,-0.6,Deep Inverted,384,Enlarged/Biphasic,Critical
+94,Regular,0.28,0.13,-32,-1.37,Normal,498,Normal,Critical
+62,VF,0.21,0.14,53,1.45,Flat,351,Enlarged/Biphasic,Critical
+41,AFib,0.2,0.1,107,1.16,Tall,374,Enlarged/Biphasic,Critical
+40,VF,0.23,0.15,105,0.29,Flat,376,Normal,Critical
+104,VF,0.13,0.11,-47,-0.64,Tall,408,Enlarged/Biphasic,Critical
+84,VF,0.29,0.15,-99,0.43,Biphasic,431,Enlarged/Biphasic,Critical
+106,Regular,0.13,0.13,-54,1.26,Biphasic,383,Normal,Critical
+100,VF,0.28,0.12,82,-1.18,Deep Inverted,405,Absent/Flutter,Critical
+65,Regular,0.2,0.15,133,-0.06,Deep Inverted,352,Absent/Flutter,Critical
+70,PACs/PVCs,0.29,0.1,19,1.59,Deep Inverted,405,Normal,Critical
+76,VF,0.13,0.08,95,-1.56,Deep Inverted,348,Normal,Critical
+45,VF,0.12,0.14,-16,0.61,Deep Inverted,487,Enlarged/Biphasic,Critical
+74,Irregular,0.19,0.14,-48,0.1,Deep Inverted,420,Enlarged/Biphasic,Critical
+80,Irregular,0.21,0.11,-11,1.64,Flat,451,Normal,Critical
+82,PACs/PVCs,0.21,0.13,-115,0.28,Deep Inverted,491,Normal,Critical
+125,VF,0.13,0.09,107,-1.35,Normal,466,Absent/Flutter,Critical
+73,PACs/PVCs,0.27,0.15,0,-1.21,Flat,347,Absent/Flutter,Critical
+93,AFib,0.14,0.12,90,0.63,Normal,366,Normal,Risky
+44,AFib,0.13,0.13,133,1.74,Flat,446,Absent/Flutter,Critical
+101,Regular,0.18,0.09,18,1.72,Tall,468,Enlarged/Biphasic,Critical
+51,Irregular,0.16,0.14,7,-0.62,Normal,356,Normal,Critical
+97,Regular,0.28,0.14,72,1.69,Mild Inverted,469,Absent/Flutter,Critical
+88,Regular,0.18,0.11,110,-0.15,Tall,380,Enlarged/Biphasic,Critical
+124,Regular,0.28,0.12,-74,1.19,Mild Inverted,487,Absent/Flutter,Critical
+69,VF,0.28,0.16,-65,0.72,Normal,383,Enlarged/Biphasic,Critical
+97,Irregular,0.16,0.12,-33,-0.69,Flat,398,Normal,Risky
+102,VF,0.24,0.14,-91,-0.84,Deep Inverted,347,Enlarged/Biphasic,Critical
+118,Regular,0.18,0.1,-18,-0.04,Mild Inverted,445,Normal,Critical
+101,Regular,0.2,0.15,141,0.74,Flat,352,Enlarged/Biphasic,Critical
+47,VF,0.19,0.11,10,-0.28,Biphasic,392,Absent/Flutter,Critical
+65,VF,0.27,0.11,-95,-1.01,Biphasic,457,Absent/Flutter,Critical
+76,AFib,0.22,0.12,-57,0.65,Deep Inverted,366,Normal,Critical
+66,AFib,0.28,0.12,97,-0.97,Biphasic,436,Absent/Flutter,Critical
+69,PACs/PVCs,0.28,0.15,115,0.52,Mild Inverted,355,Enlarged/Biphasic,Critical
+52,Irregular,0.18,0.14,49,0.7,Tall,418,Absent/Flutter,Critical
+118,Irregular,0.29,0.12,-118,1.0,Biphasic,386,Normal,Critical
+56,PACs/PVCs,0.25,0.14,91,-0.38,Mild Inverted,421,Absent/Flutter,Critical
+73,Irregular,0.21,0.11,-7,0.56,Tall,479,Absent/Flutter,Critical
+129,AFib,0.29,0.1,-49,0.02,Deep Inverted,492,Enlarged/Biphasic,Critical
+125,Regular,0.11,0.14,-111,-0.75,Mild Inverted,360,Absent/Flutter,Critical
+76,Irregular,0.24,0.09,47,0.11,Biphasic,499,Enlarged/Biphasic,Critical
+66,VF,0.29,0.11,141,-1.09,Normal,424,Enlarged/Biphasic,Critical
+40,Regular,0.12,0.09,-112,-0.11,Tall,472,Enlarged/Biphasic,Critical
+128,VF,0.24,0.12,89,0.35,Deep Inverted,422,Enlarged/Biphasic,Critical
+88,Irregular,0.16,0.15,-53,0.2,Normal,369,Normal,Critical
+111,PACs/PVCs,0.23,0.08,33,-1.24,Deep Inverted,446,Normal,Critical
+58,Regular,0.25,0.08,64,-0.78,Mild Inverted,483,Absent/Flutter,Critical
+87,Irregular,0.28,0.15,112,1.9,Mild Inverted,472,Enlarged/Biphasic,Critical
+76,PACs/PVCs,0.25,0.09,118,0.37,Normal,437,Absent/Flutter,Critical
+95,PACs/PVCs,0.16,0.11,-101,-0.92,Mild Inverted,379,Normal,Critical
+106,PACs/PVCs,0.16,0.11,-117,0.74,Tall,468,Absent/Flutter,Critical
+93,Irregular,0.21,0.1,-113,-0.27,Normal,448,Enlarged/Biphasic,Critical
+89,PACs/PVCs,0.27,0.12,143,-0.81,Deep Inverted,361,Enlarged/Biphasic,Critical
+103,Regular,0.11,0.14,-101,-0.02,Normal,345,Enlarged/Biphasic,Critical
+109,PACs/PVCs,0.14,0.16,62,-1.03,Deep Inverted,393,Absent/Flutter,Critical
+127,VF,0.17,0.12,-98,-1.39,Deep Inverted,458,Normal,Critical
+113,PACs/PVCs,0.3,0.1,-63,1.42,Tall,447,Enlarged/Biphasic,Critical
+84,VF,0.2,0.1,92,0.63,Tall,499,Enlarged/Biphasic,Critical
+111,PACs/PVCs,0.23,0.08,8,1.72,Normal,358,Normal,Critical
+55,VF,0.19,0.11,99,-0.78,Mild Inverted,497,Absent/Flutter,Critical
+110,VF,0.17,0.13,58,1.35,Deep Inverted,447,Absent/Flutter,Critical
+121,Regular,0.18,0.09,122,1.14,Normal,388,Normal,Critical
+40,AFib,0.23,0.1,22,-1.89,Tall,387,Normal,Critical
+69,Irregular,0.18,0.15,1,1.91,Biphasic,492,Enlarged/Biphasic,Critical
+52,AFib,0.14,0.1,94,-0.18,Deep Inverted,491,Enlarged/Biphasic,Critical
+109,VF,0.26,0.1,10,0.31,Normal,342,Absent/Flutter,Critical
+122,Regular,0.18,0.09,-48,1.86,Biphasic,354,Absent/Flutter,Critical
+126,Irregular,0.11,0.15,-106,0.63,Mild Inverted,460,Normal,Critical
+117,AFib,0.13,0.11,75,-1.93,Mild Inverted,489,Normal,Critical
+117,Regular,0.23,0.11,85,1.28,Mild Inverted,456,Enlarged/Biphasic,Critical
+85,Irregular,0.16,0.13,-82,0.48,Deep Inverted,489,Absent/Flutter,Critical
+68,AFib,0.27,0.08,79,0.83,Biphasic,364,Normal,Critical
+98,Irregular,0.23,0.14,-63,1.68,Deep Inverted,372,Absent/Flutter,Critical
+77,Irregular,0.28,0.16,53,1.22,Mild Inverted,417,Enlarged/Biphasic,Critical
+59,Irregular,0.19,0.16,-111,-1.3,Tall,450,Normal,Critical
+40,Irregular,0.3,0.13,60,1.53,Deep Inverted,415,Normal,Critical
+103,AFib,0.21,0.11,133,-1.44,Biphasic,365,Normal,Critical
+67,AFib,0.25,0.15,-37,0.15,Tall,413,Absent/Flutter,Critical
+67,VF,0.2,0.08,10,-1.0,Mild Inverted,464,Enlarged/Biphasic,Critical
+88,AFib,0.29,0.1,149,-1.91,Biphasic,448,Absent/Flutter,Critical
+72,Regular,0.22,0.15,104,1.88,Normal,363,Normal,Critical
+83,Irregular,0.27,0.1,34,0.79,Deep Inverted,389,Enlarged/Biphasic,Critical
+61,PACs/PVCs,0.13,0.15,-80,-0.44,Normal,357,Absent/Flutter,Critical
+85,AFib,0.19,0.09,17,1.48,Flat,425,Absent/Flutter,Critical
+79,AFib,0.2,0.15,37,1.17,Flat,458,Absent/Flutter,Critical
+51,VF,0.3,0.08,8,-1.09,Biphasic,390,Normal,Critical
+97,VF,0.19,0.14,82,-1.2,Deep Inverted,380,Absent/Flutter,Critical
+69,Regular,0.28,0.09,-101,-0.56,Mild Inverted,446,Absent/Flutter,Critical
+107,AFib,0.14,0.08,-50,0.28,Normal,492,Enlarged/Biphasic,Critical
+55,Regular,0.22,0.16,-54,-0.38,Deep Inverted,377,Absent/Flutter,Critical
+104,Irregular,0.15,0.12,-47,-1.88,Flat,406,Enlarged/Biphasic,Critical
+92,Irregular,0.21,0.14,-109,0.65,Deep Inverted,486,Absent/Flutter,Critical
+56,Regular,0.17,0.11,130,1.75,Tall,409,Enlarged/Biphasic,Critical
+84,PACs/PVCs,0.13,0.12,-107,0.61,Biphasic,474,Normal,Critical
+48,PACs/PVCs,0.18,0.12,-96,1.69,Tall,443,Absent/Flutter,Critical
+124,PACs/PVCs,0.24,0.14,148,1.3,Biphasic,345,Normal,Critical
+78,Regular,0.16,0.15,35,-0.43,Normal,342,Enlarged/Biphasic,Critical
+122,VF,0.22,0.15,-44,-1.37,Flat,475,Absent/Flutter,Critical
+69,VF,0.13,0.11,133,-1.28,Deep Inverted,394,Normal,Critical
+45,Irregular,0.16,0.08,-113,1.38,Tall,442,Normal,Critical
+72,PACs/PVCs,0.16,0.13,-31,-0.24,Deep Inverted,386,Enlarged/Biphasic,Critical
+66,VF,0.26,0.13,-50,-1.58,Mild Inverted,429,Enlarged/Biphasic,Critical
+59,Irregular,0.16,0.13,95,-1.44,Normal,389,Absent/Flutter,Critical
+53,Irregular,0.13,0.14,-97,-1.83,Tall,454,Enlarged/Biphasic,Critical
+108,PACs/PVCs,0.15,0.1,16,-1.42,Normal,465,Normal,Critical
+85,PACs/PVCs,0.21,0.15,89,-1.83,Mild Inverted,477,Absent/Flutter,Critical
+75,VF,0.11,0.14,29,1.3,Deep Inverted,371,Absent/Flutter,Critical
+116,Irregular,0.21,0.14,124,-0.95,Biphasic,423,Absent/Flutter,Critical
+53,AFib,0.26,0.14,-33,-1.5,Flat,348,Absent/Flutter,Critical
+73,PACs/PVCs,0.21,0.08,-7,1.95,Normal,367,Normal,Critical
+102,Regular,0.11,0.1,-72,0.17,Biphasic,365,Enlarged/Biphasic,Critical
+73,AFib,0.13,0.1,-74,-0.05,Mild Inverted,455,Absent/Flutter,Critical
+46,PACs/PVCs,0.18,0.13,122,-1.29,Mild Inverted,428,Normal,Critical
+59,PACs/PVCs,0.19,0.16,-81,-0.97,Biphasic,426,Normal,Critical
+118,VF,0.11,0.13,-42,-1.5,Deep Inverted,412,Enlarged/Biphasic,Critical
+93,VF,0.24,0.1,-66,-0.46,Mild Inverted,392,Enlarged/Biphasic,Risky
+53,Irregular,0.18,0.09,120,-1.37,Tall,340,Enlarged/Biphasic,Critical
+101,Irregular,0.19,0.12,-93,1.67,Normal,424,Absent/Flutter,Critical
+88,VF,0.27,0.16,138,-1.89,Normal,499,Absent/Flutter,Critical
+109,AFib,0.11,0.15,-7,-1.07,Normal,477,Normal,Critical
+88,PACs/PVCs,0.25,0.1,78,-0.7,Tall,452,Enlarged/Biphasic,Critical
+50,Irregular,0.13,0.08,27,1.27,Flat,369,Enlarged/Biphasic,Critical
+103,Regular,0.29,0.14,23,1.53,Mild Inverted,417,Enlarged/Biphasic,Critical
+43,Irregular,0.16,0.15,-85,-0.29,Mild Inverted,445,Normal,Critical
+111,PACs/PVCs,0.26,0.1,-45,-0.09,Normal,439,Absent/Flutter,Critical
+45,PACs/PVCs,0.21,0.12,29,0.08,Normal,357,Absent/Flutter,Critical
+77,Irregular,0.11,0.1,-42,-1.76,Biphasic,401,Normal,Critical
+72,AFib,0.2,0.13,136,1.5,Tall,385,Absent/Flutter,Critical
+92,VF,0.14,0.14,-45,1.82,Flat,388,Enlarged/Biphasic,Critical
+129,PACs/PVCs,0.13,0.11,65,1.31,Normal,413,Normal,Critical
+95,VF,0.18,0.11,-111,-0.1,Biphasic,491,Absent/Flutter,Critical
+83,Irregular,0.27,0.11,88,-1.55,Tall,478,Normal,Critical
+43,Regular,0.13,0.14,-115,0.99,Deep Inverted,374,Absent/Flutter,Critical
+112,Regular,0.13,0.16,92,-1.65,Tall,489,Absent/Flutter,Critical
+72,Regular,0.22,0.15,-74,1.21,Deep Inverted,344,Enlarged/Biphasic,Critical
+79,VF,0.17,0.13,38,-0.09,Biphasic,446,Enlarged/Biphasic,Risky
+47,Regular,0.22,0.12,120,1.95,Biphasic,487,Absent/Flutter,Critical
+67,VF,0.24,0.09,-40,1.61,Biphasic,360,Normal,Critical
+55,Regular,0.16,0.16,-110,-1.8,Tall,440,Absent/Flutter,Critical
+91,PACs/PVCs,0.19,0.08,-42,-1.59,Tall,442,Enlarged/Biphasic,Critical
+53,AFib,0.28,0.12,8,-0.05,Flat,471,Absent/Flutter,Critical
+55,PACs/PVCs,0.3,0.1,28,0.77,Flat,461,Normal,Critical
+67,PACs/PVCs,0.17,0.08,102,-0.99,Tall,465,Enlarged/Biphasic,Critical
+67,AFib,0.18,0.09,-56,-0.73,Deep Inverted,486,Absent/Flutter,Critical
+40,Irregular,0.19,0.09,37,-1.39,Biphasic,422,Enlarged/Biphasic,Critical
+79,Regular,0.11,0.13,24,1.01,Tall,359,Enlarged/Biphasic,Critical
+128,Irregular,0.16,0.14,41,-1.78,Flat,455,Absent/Flutter,Critical
+125,PACs/PVCs,0.28,0.09,140,0.45,Flat,348,Enlarged/Biphasic,Critical
+90,AFib,0.25,0.14,-82,1.17,Biphasic,347,Enlarged/Biphasic,Critical
+101,VF,0.23,0.16,-42,-0.38,Normal,423,Absent/Flutter,Critical
+106,VF,0.29,0.15,-91,0.11,Tall,414,Normal,Critical
+83,Regular,0.21,0.12,149,-1.64,Biphasic,394,Absent/Flutter,Critical
+65,PACs/PVCs,0.23,0.12,-52,-1.42,Tall,410,Enlarged/Biphasic,Critical
+87,VF,0.22,0.12,-27,-0.55,Mild Inverted,356,Absent/Flutter,Critical
+107,VF,0.25,0.09,70,0.54,Tall,491,Absent/Flutter,Critical
+100,Irregular,0.16,0.13,104,-1.03,Tall,468,Enlarged/Biphasic,Critical
+48,AFib,0.22,0.09,105,-1.18,Mild Inverted,478,Enlarged/Biphasic,Critical
+79,Regular,0.28,0.16,64,0.37,Tall,350,Normal,Critical
+79,PACs/PVCs,0.12,0.15,37,-0.01,Biphasic,488,Absent/Flutter,Critical
+121,VF,0.24,0.09,-109,-0.27,Biphasic,441,Normal,Critical
+65,VF,0.26,0.09,112,-0.96,Biphasic,492,Absent/Flutter,Critical
+46,PACs/PVCs,0.26,0.08,66,-0.88,Deep Inverted,489,Enlarged/Biphasic,Critical
+124,Irregular,0.16,0.1,66,1.58,Mild Inverted,469,Enlarged/Biphasic,Critical
+42,AFib,0.19,0.13,-19,1.89,Biphasic,367,Normal,Critical
+77,VF,0.17,0.16,111,1.16,Mild Inverted,397,Absent/Flutter,Critical
+88,Regular,0.13,0.15,51,0.62,Biphasic,358,Enlarged/Biphasic,Critical
+125,Irregular,0.22,0.12,121,1.21,Mild Inverted,442,Enlarged/Biphasic,Critical
+67,VF,0.29,0.1,49,0.52,Tall,396,Enlarged/Biphasic,Critical
+92,VF,0.29,0.15,117,1.08,Mild Inverted,362,Enlarged/Biphasic,Critical
+63,AFib,0.18,0.16,0,1.68,Biphasic,415,Normal,Critical
+105,AFib,0.15,0.15,115,-0.91,Flat,349,Absent/Flutter,Critical
+56,VF,0.27,0.15,8,-1.05,Normal,348,Normal,Critical
+103,VF,0.28,0.09,-32,0.84,Mild Inverted,427,Normal,Critical
+92,AFib,0.2,0.13,69,0.19,Tall,431,Enlarged/Biphasic,Critical
+116,VF,0.2,0.11,-103,-0.89,Normal,360,Enlarged/Biphasic,Critical
+123,Irregular,0.16,0.09,45,-0.43,Flat,451,Absent/Flutter,Critical
+52,AFib,0.24,0.08,-64,1.01,Tall,367,Absent/Flutter,Critical
+88,Regular,0.2,0.13,-44,0.06,Mild Inverted,363,Absent/Flutter,Critical
+43,AFib,0.14,0.13,-95,-0.34,Normal,343,Normal,Critical
+45,PACs/PVCs,0.3,0.09,14,-0.23,Biphasic,440,Normal,Critical
+115,PACs/PVCs,0.16,0.1,86,0.39,Tall,404,Absent/Flutter,Critical
+82,VF,0.11,0.09,-41,1.03,Biphasic,445,Absent/Flutter,Critical
+113,Regular,0.17,0.15,109,1.28,Tall,438,Enlarged/Biphasic,Critical
+112,Irregular,0.17,0.12,-30,1.37,Normal,422,Absent/Flutter,Critical
+97,Regular,0.18,0.15,138,1.33,Tall,495,Normal,Critical
+69,Irregular,0.25,0.15,148,-0.53,Tall,480,Normal,Critical
+85,AFib,0.26,0.09,-17,-1.55,Tall,398,Absent/Flutter,Critical
+115,Regular,0.13,0.14,-11,-0.57,Tall,413,Normal,Critical
+52,VF,0.28,0.14,29,1.88,Mild Inverted,480,Normal,Critical
+107,Irregular,0.22,0.15,129,-0.84,Biphasic,460,Normal,Critical
+53,Irregular,0.22,0.11,82,-0.21,Normal,431,Absent/Flutter,Critical
+127,PACs/PVCs,0.24,0.14,-105,1.53,Flat,353,Normal,Critical
+48,Regular,0.12,0.08,-26,-1.04,Tall,395,Normal,Critical
+98,PACs/PVCs,0.2,0.11,88,0.79,Deep Inverted,352,Normal,Critical
+123,AFib,0.22,0.12,121,1.92,Mild Inverted,435,Absent/Flutter,Critical
+90,Irregular,0.3,0.13,93,0.82,Flat,383,Normal,Critical
+89,Irregular,0.22,0.11,147,1.35,Tall,429,Normal,Critical
+67,PACs/PVCs,0.2,0.13,-29,0.6,Tall,367,Enlarged/Biphasic,Critical
+62,PACs/PVCs,0.2,0.11,-12,0.3,Biphasic,437,Normal,Risky
+122,VF,0.22,0.1,140,1.7,Deep Inverted,353,Absent/Flutter,Critical
+128,VF,0.12,0.16,94,-0.71,Biphasic,411,Normal,Critical
+47,VF,0.11,0.15,26,-0.17,Deep Inverted,456,Enlarged/Biphasic,Critical
+125,VF,0.22,0.11,58,-1.73,Mild Inverted,426,Absent/Flutter,Critical
+103,PACs/PVCs,0.28,0.09,-77,-0.51,Mild Inverted,381,Normal,Critical
+116,Regular,0.25,0.09,21,0.38,Biphasic,375,Normal,Critical
+50,Irregular,0.23,0.15,80,-1.44,Normal,453,Enlarged/Biphasic,Critical
+65,PACs/PVCs,0.24,0.13,51,-0.61,Flat,460,Absent/Flutter,Critical
+106,VF,0.12,0.15,-113,0.42,Deep Inverted,394,Enlarged/Biphasic,Critical
+99,Regular,0.21,0.14,-52,-1.12,Normal,426,Normal,Critical
+86,AFib,0.16,0.16,-81,-0.13,Mild Inverted,487,Absent/Flutter,Critical
+87,PACs/PVCs,0.26,0.15,-45,0.94,Tall,472,Enlarged/Biphasic,Critical
+57,Regular,0.25,0.1,94,-0.24,Biphasic,476,Absent/Flutter,Critical
+73,Regular,0.28,0.11,-9,-0.59,Normal,474,Normal,Critical
+52,Irregular,0.28,0.11,29,-1.75,Deep Inverted,495,Enlarged/Biphasic,Critical
+74,Regular,0.27,0.13,-109,1.42,Deep Inverted,463,Normal,Critical
+114,Regular,0.12,0.1,-118,-0.67,Mild Inverted,436,Absent/Flutter,Critical
+114,Irregular,0.13,0.14,-38,-0.98,Normal,485,Absent/Flutter,Critical
+124,AFib,0.11,0.1,-1,1.1,Flat,349,Normal,Critical
+48,Regular,0.25,0.15,83,-0.41,Flat,470,Absent/Flutter,Critical
+106,VF,0.21,0.1,-1,1.99,Biphasic,432,Normal,Critical
+115,Regular,0.19,0.15,104,-0.15,Mild Inverted,341,Normal,Critical
+118,VF,0.17,0.1,20,1.18,Normal,431,Enlarged/Biphasic,Critical
+51,Irregular,0.18,0.13,-103,0.72,Biphasic,472,Enlarged/Biphasic,Critical
+56,PACs/PVCs,0.29,0.1,-74,0.1,Flat,371,Absent/Flutter,Critical
+113,Irregular,0.21,0.13,37,-1.18,Tall,415,Enlarged/Biphasic,Critical
+100,Regular,0.2,0.12,-26,-0.83,Flat,462,Normal,Risky
+73,Irregular,0.21,0.11,-103,0.96,Tall,344,Absent/Flutter,Critical
+90,Regular,0.21,0.13,109,1.18,Tall,359,Enlarged/Biphasic,Critical
+117,AFib,0.18,0.08,87,-1.59,Flat,440,Enlarged/Biphasic,Critical
+100,Irregular,0.27,0.15,-85,-0.13,Normal,350,Enlarged/Biphasic,Critical
+65,Irregular,0.28,0.11,-89,0.81,Tall,406,Normal,Critical
+48,AFib,0.21,0.09,133,0.67,Normal,499,Absent/Flutter,Critical
+118,AFib,0.21,0.09,-53,0.64,Mild Inverted,496,Enlarged/Biphasic,Critical
+71,PACs/PVCs,0.22,0.1,30,-0.23,Mild Inverted,465,Absent/Flutter,Critical
+48,VF,0.18,0.1,-110,0.77,Mild Inverted,441,Enlarged/Biphasic,Critical
+115,AFib,0.24,0.13,-3,-1.88,Tall,463,Normal,Critical
+73,PACs/PVCs,0.12,0.16,96,-0.49,Mild Inverted,465,Normal,Critical
+95,Regular,0.15,0.09,-5,-1.22,Deep Inverted,461,Enlarged/Biphasic,Critical
+59,Irregular,0.26,0.09,129,-0.66,Biphasic,365,Enlarged/Biphasic,Critical
+68,Regular,0.19,0.12,88,-1.08,Mild Inverted,451,Normal,Critical
+53,AFib,0.12,0.15,16,0.11,Tall,353,Absent/Flutter,Critical
+85,AFib,0.18,0.09,29,1.24,Normal,442,Absent/Flutter,Critical
+56,PACs/PVCs,0.13,0.16,-31,0.64,Mild Inverted,450,Normal,Critical
+111,Irregular,0.15,0.15,3,1.41,Tall,371,Absent/Flutter,Critical
+64,AFib,0.25,0.08,-91,1.4,Deep Inverted,449,Normal,Critical
+84,AFib,0.28,0.09,-17,-1.36,Mild Inverted,428,Absent/Flutter,Critical
+105,VF,0.22,0.11,51,-0.31,Deep Inverted,455,Absent/Flutter,Critical
+91,PACs/PVCs,0.28,0.14,-68,-0.45,Deep Inverted,437,Enlarged/Biphasic,Critical
+77,VF,0.23,0.11,-55,1.5,Deep Inverted,459,Absent/Flutter,Critical
+102,VF,0.21,0.12,138,0.3,Deep Inverted,497,Enlarged/Biphasic,Critical
+43,AFib,0.19,0.1,21,-1.72,Flat,429,Normal,Critical
+107,AFib,0.22,0.16,39,-0.43,Tall,413,Enlarged/Biphasic,Critical
+96,VF,0.12,0.11,133,0.23,Mild Inverted,381,Enlarged/Biphasic,Critical
+80,Irregular,0.22,0.11,21,0.41,Normal,385,Absent/Flutter,Critical
+121,AFib,0.29,0.12,5,1.16,Biphasic,496,Enlarged/Biphasic,Critical
+112,Regular,0.21,0.13,-62,0.14,Tall,383,Normal,Critical
+68,AFib,0.24,0.12,-112,-0.95,Normal,356,Absent/Flutter,Critical
+78,PACs/PVCs,0.25,0.13,32,1.44,Normal,388,Enlarged/Biphasic,Critical
+97,Regular,0.16,0.11,-102,-0.41,Deep Inverted,438,Normal,Critical
+40,Irregular,0.11,0.11,3,0.3,Tall,354,Enlarged/Biphasic,Critical
+111,Irregular,0.28,0.1,100,0.67,Biphasic,420,Enlarged/Biphasic,Critical
+115,PACs/PVCs,0.3,0.1,82,1.01,Mild Inverted,439,Absent/Flutter,Critical
+63,Irregular,0.25,0.11,-117,-0.29,Tall,472,Enlarged/Biphasic,Critical
+126,PACs/PVCs,0.18,0.11,-73,-0.67,Mild Inverted,391,Normal,Critical
+80,AFib,0.2,0.15,-102,0.77,Tall,363,Enlarged/Biphasic,Critical
+110,AFib,0.11,0.12,-18,1.44,Mild Inverted,481,Enlarged/Biphasic,Critical
+98,AFib,0.16,0.13,73,-1.69,Tall,360,Enlarged/Biphasic,Critical
+107,Regular,0.15,0.15,47,-1.82,Biphasic,400,Enlarged/Biphasic,Critical
+103,AFib,0.22,0.14,-82,-0.7,Normal,397,Normal,Risky
+92,PACs/PVCs,0.28,0.08,101,1.45,Flat,454,Normal,Critical
+110,VF,0.24,0.15,46,0.54,Biphasic,448,Absent/Flutter,Critical
+93,AFib,0.19,0.09,141,0.91,Deep Inverted,473,Normal,Critical
+100,AFib,0.25,0.13,-105,-1.43,Tall,367,Normal,Critical
+40,PACs/PVCs,0.26,0.09,-106,-1.66,Biphasic,475,Enlarged/Biphasic,Critical
+126,VF,0.26,0.14,21,1.01,Normal,466,Normal,Critical
+62,Irregular,0.25,0.13,-76,-1.52,Biphasic,481,Normal,Critical
+53,PACs/PVCs,0.26,0.11,-18,0.25,Deep Inverted,391,Normal,Critical
+85,VF,0.21,0.08,-92,-1.85,Tall,438,Absent/Flutter,Critical
+84,Regular,0.25,0.08,-32,0.97,Biphasic,357,Normal,Critical
+50,AFib,0.23,0.14,-21,-0.81,Biphasic,367,Normal,Risky
+102,Irregular,0.25,0.1,138,1.76,Normal,490,Absent/Flutter,Critical
+79,Regular,0.29,0.1,2,1.85,Deep Inverted,425,Absent/Flutter,Critical
+95,Regular,0.11,0.14,-62,0.29,Tall,479,Absent/Flutter,Critical
+126,AFib,0.15,0.11,-68,-1.43,Flat,418,Absent/Flutter,Critical
+43,Irregular,0.19,0.09,-59,-1.19,Normal,424,Normal,Critical
+83,Regular,0.14,0.15,-111,-0.64,Mild Inverted,387,Absent/Flutter,Critical
+62,AFib,0.3,0.15,41,-1.7,Normal,388,Enlarged/Biphasic,Critical
+126,PACs/PVCs,0.13,0.13,-33,1.23,Tall,499,Enlarged/Biphasic,Critical
+90,Irregular,0.23,0.11,-47,0.59,Biphasic,482,Enlarged/Biphasic,Critical
+83,Regular,0.3,0.12,93,-0.14,Normal,383,Normal,Critical
+83,Regular,0.18,0.14,149,1.79,Flat,365,Enlarged/Biphasic,Critical
+112,VF,0.28,0.13,-110,0.93,Mild Inverted,432,Enlarged/Biphasic,Critical
+51,AFib,0.27,0.14,2,-1.44,Biphasic,448,Normal,Critical
+118,Regular,0.26,0.15,-76,-1.33,Biphasic,498,Enlarged/Biphasic,Critical
+117,Irregular,0.18,0.13,0,1.84,Normal,465,Absent/Flutter,Critical
+53,AFib,0.2,0.11,-61,1.98,Biphasic,385,Enlarged/Biphasic,Critical
+86,Regular,0.15,0.08,73,1.89,Tall,457,Normal,Critical
+66,Regular,0.28,0.14,14,-0.45,Flat,427,Enlarged/Biphasic,Critical
+71,Irregular,0.21,0.11,-49,0.37,Deep Inverted,412,Normal,Critical
+89,AFib,0.11,0.1,-34,-1.02,Tall,453,Absent/Flutter,Critical
+67,AFib,0.18,0.09,-73,-0.52,Deep Inverted,366,Enlarged/Biphasic,Critical
+99,Irregular,0.22,0.12,31,-1.15,Biphasic,359,Absent/Flutter,Critical
+116,VF,0.21,0.1,-109,0.99,Biphasic,353,Enlarged/Biphasic,Critical
+70,AFib,0.1,0.14,116,-0.09,Biphasic,397,Enlarged/Biphasic,Critical
+102,AFib,0.12,0.08,43,-0.21,Tall,370,Absent/Flutter,Critical
+124,VF,0.12,0.14,142,1.46,Tall,484,Enlarged/Biphasic,Critical
+67,AFib,0.11,0.09,1,-0.97,Tall,438,Absent/Flutter,Critical
+58,VF,0.26,0.14,-18,0.15,Biphasic,491,Normal,Critical
+40,AFib,0.1,0.1,-17,-0.74,Biphasic,340,Enlarged/Biphasic,Critical
+88,Regular,0.2,0.15,41,-1.75,Flat,379,Normal,Critical
+95,PACs/PVCs,0.25,0.16,-85,-1.04,Mild Inverted,475,Normal,Critical
+84,VF,0.29,0.11,56,1.52,Flat,374,Normal,Critical
+101,PACs/PVCs,0.29,0.1,81,-0.96,Normal,450,Absent/Flutter,Critical
+85,AFib,0.18,0.11,15,-1.39,Deep Inverted,352,Absent/Flutter,Critical
+76,Irregular,0.24,0.11,-75,1.84,Flat,340,Normal,Critical
+107,VF,0.19,0.09,-22,1.15,Deep Inverted,399,Normal,Critical
+88,Regular,0.23,0.1,-14,1.7,Mild Inverted,494,Enlarged/Biphasic,Critical
+42,VF,0.26,0.12,13,1.64,Deep Inverted,430,Absent/Flutter,Critical
+106,VF,0.26,0.15,132,1.44,Deep Inverted,478,Normal,Critical
+43,VF,0.24,0.12,-40,-0.65,Biphasic,413,Enlarged/Biphasic,Critical
+54,VF,0.16,0.09,4,0.16,Normal,364,Absent/Flutter,Critical
+62,VF,0.19,0.11,12,-0.83,Biphasic,433,Enlarged/Biphasic,Risky
+60,Irregular,0.28,0.15,-30,0.56,Deep Inverted,434,Enlarged/Biphasic,Critical
+93,VF,0.27,0.09,55,-1.06,Deep Inverted,375,Enlarged/Biphasic,Critical
+81,VF,0.11,0.16,133,-0.57,Biphasic,472,Absent/Flutter,Critical
+111,Regular,0.18,0.14,104,-0.08,Biphasic,415,Absent/Flutter,Critical
+120,VF,0.28,0.11,4,-0.06,Mild Inverted,402,Absent/Flutter,Critical
+129,PACs/PVCs,0.25,0.15,149,-0.37,Biphasic,428,Absent/Flutter,Critical
+97,PACs/PVCs,0.15,0.15,-63,0.37,Deep Inverted,419,Normal,Critical
+110,AFib,0.11,0.09,-19,0.98,Flat,354,Enlarged/Biphasic,Critical
+57,PACs/PVCs,0.17,0.16,81,0.16,Deep Inverted,364,Absent/Flutter,Critical
+46,VF,0.2,0.16,6,-0.62,Mild Inverted,395,Normal,Critical
+76,AFib,0.24,0.09,-24,-1.76,Normal,387,Absent/Flutter,Critical
+79,Regular,0.23,0.1,-25,1.95,Normal,497,Absent/Flutter,Critical
+53,AFib,0.21,0.13,68,1.99,Biphasic,480,Enlarged/Biphasic,Critical
+86,VF,0.11,0.13,-4,1.81,Normal,453,Normal,Critical
+40,Regular,0.23,0.12,19,-0.51,Flat,432,Normal,Critical
+66,AFib,0.18,0.15,39,-0.96,Biphasic,397,Enlarged/Biphasic,Critical
+67,PACs/PVCs,0.16,0.09,-21,1.04,Mild Inverted,369,Enlarged/Biphasic,Critical
+76,Regular,0.15,0.16,-71,-0.24,Biphasic,412,Normal,Critical
+77,PACs/PVCs,0.18,0.12,-84,0.72,Flat,436,Enlarged/Biphasic,Risky
+41,PACs/PVCs,0.19,0.15,19,1.54,Tall,383,Normal,Critical
+89,VF,0.13,0.11,149,1.02,Tall,436,Enlarged/Biphasic,Critical
+128,Regular,0.21,0.1,34,-0.22,Biphasic,484,Absent/Flutter,Critical
+85,AFib,0.16,0.09,-20,-0.13,Biphasic,412,Absent/Flutter,Critical
+109,PACs/PVCs,0.17,0.09,99,0.76,Tall,489,Enlarged/Biphasic,Critical
+73,VF,0.2,0.15,29,0.3,Flat,352,Normal,Critical
+78,VF,0.14,0.1,79,-0.45,Normal,464,Absent/Flutter,Critical
+127,Regular,0.19,0.11,144,-0.12,Flat,359,Enlarged/Biphasic,Critical
+93,AFib,0.1,0.11,56,0.3,Tall,355,Enlarged/Biphasic,Critical
+104,Regular,0.15,0.13,-61,-1.08,Deep Inverted,418,Enlarged/Biphasic,Critical
+74,VF,0.15,0.11,87,0.5,Biphasic,488,Absent/Flutter,Critical
+114,VF,0.26,0.13,-9,-1.81,Tall,423,Enlarged/Biphasic,Critical
+76,AFib,0.2,0.13,88,-1.91,Normal,375,Enlarged/Biphasic,Critical
+115,AFib,0.14,0.15,-92,0.54,Normal,422,Normal,Critical
+120,PACs/PVCs,0.26,0.15,14,-1.6,Biphasic,434,Normal,Critical
+92,Irregular,0.19,0.09,63,1.81,Flat,478,Absent/Flutter,Critical
+47,Regular,0.26,0.12,85,1.11,Tall,374,Normal,Critical
+91,Irregular,0.2,0.1,-24,-0.05,Mild Inverted,341,Absent/Flutter,Critical
+83,VF,0.19,0.1,-37,-1.57,Mild Inverted,430,Normal,Critical
+80,PACs/PVCs,0.24,0.09,147,-1.93,Normal,364,Absent/Flutter,Critical
+82,Regular,0.23,0.16,54,-0.32,Mild Inverted,472,Absent/Flutter,Critical
+120,AFib,0.11,0.14,51,-1.2,Tall,364,Normal,Critical
+123,Irregular,0.22,0.12,137,-0.5,Flat,408,Normal,Critical
+104,AFib,0.11,0.09,-109,-0.34,Mild Inverted,456,Absent/Flutter,Critical
+52,VF,0.14,0.14,115,0.27,Flat,386,Enlarged/Biphasic,Risky
+66,VF,0.21,0.08,-99,0.12,Normal,453,Normal,Critical
+94,AFib,0.26,0.1,23,-1.49,Mild Inverted,424,Enlarged/Biphasic,Critical
+46,Irregular,0.14,0.15,50,-0.9,Normal,439,Enlarged/Biphasic,Critical
+84,Irregular,0.28,0.13,98,-0.8,Biphasic,351,Normal,Critical
+114,AFib,0.21,0.12,-91,-1.73,Normal,345,Enlarged/Biphasic,Critical
+40,VF,0.11,0.11,40,-0.31,Tall,391,Enlarged/Biphasic,Critical
+77,Regular,0.28,0.14,-51,0.57,Normal,463,Enlarged/Biphasic,Critical
+86,AFib,0.25,0.14,145,1.31,Tall,458,Normal,Critical
+89,Regular,0.29,0.14,142,0.94,Tall,435,Normal,Critical
+126,Irregular,0.2,0.15,-27,-0.63,Deep Inverted,390,Absent/Flutter,Critical
+95,PACs/PVCs,0.19,0.14,69,0.08,Tall,465,Enlarged/Biphasic,Critical
+122,AFib,0.18,0.13,-77,0.86,Deep Inverted,400,Normal,Critical
+49,PACs/PVCs,0.26,0.13,-20,0.88,Biphasic,483,Absent/Flutter,Critical
+42,Irregular,0.14,0.15,75,0.81,Flat,362,Normal,Critical
+72,VF,0.11,0.13,13,-1.3,Deep Inverted,464,Normal,Critical
+113,AFib,0.1,0.1,2,-0.08,Mild Inverted,451,Normal,Critical
+94,Irregular,0.13,0.13,-90,0.66,Deep Inverted,471,Normal,Critical
+124,VF,0.25,0.09,-100,-0.01,Tall,495,Absent/Flutter,Critical
+125,VF,0.27,0.16,92,-1.83,Tall,358,Absent/Flutter,Critical
+65,AFib,0.18,0.12,-31,-1.02,Normal,471,Absent/Flutter,Critical
+79,AFib,0.11,0.14,6,-0.0,Tall,479,Enlarged/Biphasic,Critical
+83,VF,0.23,0.12,94,0.08,Mild Inverted,385,Normal,Risky
+126,AFib,0.28,0.08,-72,1.18,Normal,497,Normal,Critical
+119,Regular,0.2,0.1,-119,-0.54,Flat,391,Enlarged/Biphasic,Critical
+129,Regular,0.17,0.16,97,-1.24,Mild Inverted,371,Normal,Critical
+118,AFib,0.27,0.12,129,0.69,Mild Inverted,365,Normal,Critical
+92,VF,0.16,0.09,-56,1.42,Mild Inverted,432,Enlarged/Biphasic,Critical
+100,Regular,0.22,0.12,149,-1.2,Normal,369,Enlarged/Biphasic,Critical
+75,Irregular,0.12,0.12,142,1.6,Mild Inverted,473,Enlarged/Biphasic,Critical
+119,Regular,0.17,0.16,-107,-0.8,Tall,374,Absent/Flutter,Critical
+78,PACs/PVCs,0.18,0.15,-111,0.56,Biphasic,395,Enlarged/Biphasic,Critical
+63,Irregular,0.24,0.15,-117,1.05,Tall,372,Normal,Critical
+127,AFib,0.22,0.13,-91,1.34,Tall,411,Absent/Flutter,Critical
+89,PACs/PVCs,0.11,0.09,-34,0.5,Deep Inverted,428,Enlarged/Biphasic,Critical
+94,PACs/PVCs,0.25,0.14,-16,-1.48,Mild Inverted,340,Normal,Critical
+53,AFib,0.17,0.14,-26,0.9,Biphasic,454,Absent/Flutter,Critical
+78,PACs/PVCs,0.26,0.15,-109,0.53,Normal,453,Normal,Critical
+92,VF,0.13,0.09,84,-0.95,Deep Inverted,476,Normal,Critical
+47,Irregular,0.16,0.09,98,1.19,Flat,457,Absent/Flutter,Critical
+109,AFib,0.19,0.1,27,-0.54,Flat,406,Absent/Flutter,Critical
+126,AFib,0.14,0.12,-18,-0.41,Mild Inverted,372,Absent/Flutter,Critical
+123,VF,0.25,0.15,-31,-1.39,Normal,386,Absent/Flutter,Critical
+40,VF,0.29,0.1,-99,-1.98,Deep Inverted,363,Absent/Flutter,Critical
+58,VF,0.11,0.15,-61,0.12,Flat,490,Normal,Critical
+127,VF,0.23,0.11,117,1.69,Biphasic,412,Enlarged/Biphasic,Critical
+129,PACs/PVCs,0.2,0.16,-87,0.2,Normal,354,Absent/Flutter,Critical
+58,Irregular,0.18,0.13,11,1.74,Flat,452,Normal,Critical
+64,VF,0.29,0.16,43,1.1,Deep Inverted,439,Enlarged/Biphasic,Critical
+79,Regular,0.24,0.1,74,-1.37,Deep Inverted,496,Absent/Flutter,Critical
+94,AFib,0.22,0.11,-82,-0.71,Deep Inverted,357,Absent/Flutter,Critical
+82,VF,0.18,0.1,122,-1.13,Biphasic,483,Enlarged/Biphasic,Critical
+92,Regular,0.11,0.14,-94,-0.34,Flat,373,Absent/Flutter,Critical
+94,Regular,0.16,0.1,-93,-0.45,Deep Inverted,416,Normal,Critical
+124,Irregular,0.2,0.12,-94,-1.48,Tall,482,Absent/Flutter,Critical
+79,PACs/PVCs,0.3,0.16,139,-0.23,Mild Inverted,358,Normal,Critical
+126,PACs/PVCs,0.17,0.12,35,1.55,Biphasic,357,Normal,Critical
+71,VF,0.29,0.09,110,-0.52,Biphasic,493,Enlarged/Biphasic,Critical
+84,VF,0.27,0.12,2,-0.12,Flat,477,Enlarged/Biphasic,Critical
+55,Regular,0.26,0.16,121,-0.48,Normal,346,Normal,Critical
+109,Regular,0.29,0.15,-108,-0.17,Flat,413,Enlarged/Biphasic,Critical
+83,PACs/PVCs,0.26,0.11,-86,-1.16,Normal,375,Absent/Flutter,Critical
+111,AFib,0.15,0.12,4,-0.22,Normal,406,Normal,Critical
+61,Regular,0.15,0.11,-116,-1.43,Tall,447,Absent/Flutter,Critical
+69,AFib,0.18,0.08,-94,0.52,Tall,436,Absent/Flutter,Critical
+117,Regular,0.11,0.11,-103,0.1,Deep Inverted,491,Enlarged/Biphasic,Critical
+63,VF,0.25,0.1,-102,-0.37,Mild Inverted,365,Absent/Flutter,Critical
+100,AFib,0.13,0.11,-18,-0.17,Flat,366,Enlarged/Biphasic,Risky
+96,Regular,0.11,0.1,91,1.02,Flat,487,Normal,Critical
+57,AFib,0.21,0.15,43,-0.66,Mild Inverted,343,Enlarged/Biphasic,Critical
+102,VF,0.27,0.1,-67,0.48,Tall,398,Absent/Flutter,Critical
+74,PACs/PVCs,0.19,0.15,-99,1.68,Tall,461,Normal,Critical
+70,Regular,0.11,0.11,-30,-1.44,Normal,383,Enlarged/Biphasic,Critical
+107,Regular,0.26,0.16,68,-1.56,Tall,357,Normal,Critical
+47,AFib,0.11,0.1,82,1.72,Biphasic,410,Enlarged/Biphasic,Critical
+105,Irregular,0.16,0.15,39,-1.29,Mild Inverted,468,Absent/Flutter,Critical
+69,Irregular,0.18,0.14,57,-0.95,Deep Inverted,481,Enlarged/Biphasic,Critical
+108,Irregular,0.26,0.13,-102,1.77,Flat,408,Absent/Flutter,Critical
+76,VF,0.26,0.15,49,1.49,Mild Inverted,426,Enlarged/Biphasic,Critical
+124,Regular,0.11,0.09,65,1.49,Tall,423,Enlarged/Biphasic,Critical
+57,Irregular,0.2,0.15,-26,-0.8,Mild Inverted,473,Normal,Critical
+79,VF,0.11,0.15,-106,0.75,Biphasic,438,Normal,Critical
+100,AFib,0.29,0.09,-77,0.42,Deep Inverted,367,Absent/Flutter,Critical
+77,PACs/PVCs,0.15,0.12,46,1.74,Biphasic,370,Enlarged/Biphasic,Critical
+56,AFib,0.22,0.13,-22,1.88,Flat,496,Normal,Critical
+92,Regular,0.28,0.1,32,0.85,Flat,363,Absent/Flutter,Critical
+78,PACs/PVCs,0.29,0.15,-108,1.3,Biphasic,471,Enlarged/Biphasic,Critical
+94,Regular,0.13,0.08,-18,-1.11,Normal,473,Normal,Critical
+93,AFib,0.24,0.12,146,-0.22,Deep Inverted,401,Absent/Flutter,Critical
+55,Irregular,0.19,0.1,7,1.32,Deep Inverted,429,Absent/Flutter,Critical
+127,VF,0.12,0.15,-112,-1.85,Normal,452,Enlarged/Biphasic,Critical
+120,PACs/PVCs,0.22,0.09,-53,-1.69,Deep Inverted,378,Normal,Critical
+79,VF,0.27,0.14,106,-1.33,Normal,430,Normal,Critical
+47,PACs/PVCs,0.16,0.1,-107,0.4,Tall,373,Absent/Flutter,Critical
+50,PACs/PVCs,0.1,0.08,-40,1.09,Mild Inverted,387,Enlarged/Biphasic,Critical
+85,Irregular,0.16,0.1,-51,-1.83,Deep Inverted,476,Absent/Flutter,Critical
+98,PACs/PVCs,0.15,0.1,11,-0.96,Biphasic,371,Absent/Flutter,Critical
+93,VF,0.29,0.13,145,0.85,Flat,349,Enlarged/Biphasic,Critical
+82,Regular,0.18,0.14,73,-1.64,Mild Inverted,496,Enlarged/Biphasic,Critical
+93,Regular,0.13,0.13,-59,-1.9,Normal,446,Absent/Flutter,Critical
+47,Regular,0.14,0.08,83,-0.98,Tall,468,Absent/Flutter,Critical
+129,AFib,0.22,0.14,-25,-0.9,Mild Inverted,374,Normal,Critical
+91,PACs/PVCs,0.11,0.14,-12,-1.56,Biphasic,355,Absent/Flutter,Critical
+89,PACs/PVCs,0.11,0.08,-41,-0.91,Mild Inverted,393,Enlarged/Biphasic,Critical
+43,PACs/PVCs,0.29,0.15,-88,-1.55,Tall,361,Normal,Critical
+114,PACs/PVCs,0.11,0.16,-4,1.31,Tall,353,Enlarged/Biphasic,Critical
+51,Regular,0.16,0.11,-120,0.38,Flat,493,Normal,Critical
+129,Regular,0.26,0.11,-57,-0.91,Tall,417,Absent/Flutter,Critical
+69,Regular,0.16,0.11,-70,-1.38,Tall,393,Normal,Critical
+70,AFib,0.27,0.13,-94,-1.25,Tall,395,Absent/Flutter,Critical
+75,AFib,0.17,0.12,129,0.3,Normal,437,Absent/Flutter,Critical
+67,Irregular,0.12,0.08,107,0.3,Normal,402,Absent/Flutter,Critical
+115,Irregular,0.29,0.14,79,-1.31,Tall,401,Enlarged/Biphasic,Critical
+90,VF,0.2,0.13,-59,0.14,Flat,415,Enlarged/Biphasic,Risky
+74,AFib,0.2,0.08,-116,-1.7,Deep Inverted,400,Normal,Critical
+108,VF,0.18,0.09,5,-0.63,Tall,348,Normal,Critical
+124,PACs/PVCs,0.27,0.09,-42,-0.08,Mild Inverted,489,Enlarged/Biphasic,Critical
+57,AFib,0.22,0.15,33,0.34,Tall,351,Absent/Flutter,Critical
+45,Regular,0.19,0.15,94,-1.03,Normal,451,Absent/Flutter,Critical
+113,PACs/PVCs,0.23,0.13,-90,-0.92,Biphasic,362,Absent/Flutter,Critical
+62,PACs/PVCs,0.18,0.1,-6,0.15,Biphasic,372,Absent/Flutter,Critical
+72,VF,0.16,0.13,107,-1.87,Tall,414,Enlarged/Biphasic,Critical
+78,AFib,0.28,0.1,-88,1.28,Tall,456,Enlarged/Biphasic,Critical
+62,VF,0.24,0.14,40,-1.6,Tall,458,Absent/Flutter,Critical
+76,VF,0.27,0.09,0,-1.87,Biphasic,360,Absent/Flutter,Critical
+87,PACs/PVCs,0.28,0.1,-60,-1.35,Tall,364,Absent/Flutter,Critical
+110,PACs/PVCs,0.15,0.11,129,0.49,Deep Inverted,464,Normal,Critical
+125,AFib,0.28,0.13,-104,-1.41,Mild Inverted,395,Absent/Flutter,Critical
+108,Regular,0.12,0.09,-46,-1.68,Deep Inverted,488,Absent/Flutter,Critical
+82,Irregular,0.11,0.12,106,1.83,Normal,488,Normal,Critical
+105,Regular,0.28,0.1,26,0.38,Tall,477,Normal,Critical
+104,Irregular,0.26,0.15,28,0.87,Mild Inverted,368,Enlarged/Biphasic,Critical
+74,Irregular,0.27,0.16,27,-1.33,Flat,476,Normal,Critical
+107,Regular,0.16,0.1,58,0.98,Deep Inverted,398,Normal,Critical
+50,AFib,0.14,0.15,109,-1.74,Mild Inverted,470,Normal,Critical
+123,Regular,0.18,0.13,123,-0.0,Mild Inverted,440,Absent/Flutter,Critical
+48,VF,0.13,0.16,-99,-1.24,Mild Inverted,432,Enlarged/Biphasic,Critical
+60,VF,0.27,0.11,-57,-1.76,Tall,437,Absent/Flutter,Critical
+114,AFib,0.29,0.15,-115,-0.22,Mild Inverted,474,Enlarged/Biphasic,Critical
+80,Irregular,0.25,0.14,95,-0.48,Tall,494,Normal,Critical
+44,Irregular,0.2,0.09,-85,-1.89,Mild Inverted,468,Normal,Critical
+46,AFib,0.15,0.09,85,-1.99,Tall,462,Absent/Flutter,Critical
+62,VF,0.19,0.1,-8,-1.12,Mild Inverted,343,Absent/Flutter,Critical
+107,VF,0.1,0.12,-23,0.77,Tall,375,Absent/Flutter,Critical
+62,PACs/PVCs,0.15,0.12,-29,1.62,Mild Inverted,355,Absent/Flutter,Critical
+75,Regular,0.18,0.14,-85,1.6,Mild Inverted,470,Absent/Flutter,Critical
+124,VF,0.14,0.11,90,-0.21,Biphasic,499,Normal,Critical
+126,VF,0.18,0.13,-61,-1.96,Tall,450,Absent/Flutter,Critical
